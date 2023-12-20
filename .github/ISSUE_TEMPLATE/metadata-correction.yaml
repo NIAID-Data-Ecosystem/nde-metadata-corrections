@@ -41,7 +41,7 @@ body:
     attributes:
       label: Evidence or Reasoning for the Correction
       description: Provide any evidence or reasoning that supports your correction.
-      placeholder: "ex- The correct author name is mentioned in the associated publication DOI\: 10.5281/zenodo.4745839"
+      placeholder: "ex- The correct author name is mentioned in the associated publication DOI: 10.5281/zenodo.4745839"
     validations:
       required: false
 
