@@ -18,12 +18,21 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: termInQuestion
+    attributes:
+      label: Term in Question
+      description: Specify the term that is incorrectly mapped in the metadata.
+      placeholder: ex. Nevada, binary
+    validations:
+      required: true
+
   - type: textarea
     id: errorDescription
     attributes:
       label: Error Description
-      description: Describe the error in the metadata record.
-      placeholder: ex- Incorrect author name listed in ZENODO_4745839
+      description: Describe the error in the metadata record and the context of the misuse.
+      placeholder: ex- The term 'Nevada' is mapped as a species, but in this context, it refers to a state.
     validations:
       required: true
 
@@ -31,8 +40,8 @@ body:
     id: proposedCorrection
     attributes:
       label: Proposed Correction
-      description: Provide your proposed correction in detail.
-      placeholder: ex- Change the author's name from John Doe to Jane Doe in ZENODO_4745839
+      description: Provide your proposed correction in detail, including any specific action to be taken.
+      placeholder: ex- Remove 'Nevada' from the species field in ZENODO_4745839.
     validations:
       required: true
 
@@ -51,6 +60,16 @@ body:
       label: Additional References
       description: If applicable, provide any additional references or links related to this correction.
       placeholder: ex. https://example.com/additional-info
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: urgency
+    attributes:
+      label: Urgency
+      description: Indicate if this correction is urgent.
+      options:
+        - label: This is an urgent correction
     validations:
       required: false
 
