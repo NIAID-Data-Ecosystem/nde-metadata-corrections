@@ -9,14 +9,52 @@ body:
       value: |
         This template is for submitting corrections to metadata records. Please provide detailed information to help us process your correction efficiently.
 
+  - type: dropdown
+    id: correctionScope
+    attributes:
+      label: Correction Scope
+      description: Does the correction apply to a specific record, some of the records, or all of the records for which the metadata value is present for the metadata field?
+      options:
+        - "specific record - e.g. it's only wrong in this record, but seems right elsewhere"
+        - "some records - e.g. it's seems to be wrong for a number of records, but right for others"
+        - "most or all records - e.g. it seems to be wrong for most or all of the records."
+    validations:
+      required: true
+
   - type: input
     id: metadataRecordID
     attributes:
       label: Metadata Record Identifier
-      description: Provide the unique identifier of the metadata record you are referring to.
+      description: If the correction is for a specific record, provide the unique identifier of the metadata record you are referring to.
       placeholder: ex. ZENODO_4745839
     validations:
-      required: true
+      required: false
+
+  - type: dropdown
+    id: metadataField
+    attributes:
+      label: metadata field
+      description: The metadata field for which a correction is needed
+      options:
+        - "species"
+        - "infectiousAgent"
+        - "healthCondition"
+        - "conditionsOfAccess"
+        - "topicCategory"
+        - "measurementTechnique"
+        - "variableMeasured"
+        - "other"
+    validations:
+      required: true  
+
+  - type: input
+    id: otherField
+    attributes:
+      label: Other metadata field
+      description: If you selected `other` in the previous drop down, please specify the metadata field in need of correction.
+      placeholder: ex. funding
+    validations:
+      required: false
 
   - type: input
     id: termInQuestion
@@ -33,6 +71,18 @@ body:
       label: Error Description
       description: Describe the error in the metadata record and the context of the misuse.
       placeholder: ex- The term 'Nevada' is mapped as a species, but in this context, it refers to a state.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: proposedCorrectionType
+    attributes:
+      label: Proposed Correction Type
+      description: Select the type of corrective action to be taken
+      options:
+        - "replace value"
+        - "remove value"
+        - "append value"
     validations:
       required: true
 
