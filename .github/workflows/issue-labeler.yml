@@ -14,7 +14,7 @@ jobs:
           script: |
             const issueBody = context.payload.issue.body;
             const labelsToAdd = [];
-
+            
             // Add labels based on 'Correction Scope' dropdown selection
             if (issueBody.includes('specific record')) {
               labelsToAdd.push('specific-record-correction');
@@ -23,7 +23,7 @@ jobs:
             } else if (issueBody.includes('most or all records')) {
               labelsToAdd.push('general-correction');
             }
-
+            
             // Add labels based on 'Proposed Correction Type'
             if (issueBody.includes('replace value')) {
               labelsToAdd.push('replace-value');
@@ -32,16 +32,17 @@ jobs:
             } else if (issueBody.includes('append value')) {
               labelsToAdd.push('append-value');
             }
-
+            
             // Add labels to the issue
             if (labelsToAdd.length > 0) {
               const issueNumber = context.issue.number;
               const githubToken = process.env.GITHUB_TOKEN;
               const octokit = github.getOctokit(githubToken);
-
+              
               await octokit.rest.issues.addLabels({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
                 issue_number: issueNumber,
                 labels: labelsToAdd,
               });
+          github-token: ${{ secrets.GITHUB_TOKEN }}
