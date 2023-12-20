@@ -1,0 +1,60 @@
+name: Metadata Record Correction
+description: Issue template for submitting metadata record corrections.
+title: "[Metadata Correction]: "
+labels: ["correction-submitted", "review-pending"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This template is for submitting corrections to metadata records. Please provide detailed information to help us process your correction efficiently.
+
+  - type: input
+    id: metadataRecordID
+    attributes:
+      label: Metadata Record Identifier
+      description: Provide the unique identifier of the metadata record you are referring to.
+      placeholder: ex. ZENODO_4745839
+    validations:
+      required: true
+
+  - type: textarea
+    id: errorDescription
+    attributes:
+      label: Error Description
+      description: Describe the error in the metadata record.
+      placeholder: ex- Incorrect author name listed in ZENODO_4745839
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposedCorrection
+    attributes:
+      label: Proposed Correction
+      description: Provide your proposed correction in detail.
+      placeholder: ex- Change the author's name from John Doe to Jane Doe in ZENODO_4745839
+    validations:
+      required: true
+
+  - type: textarea
+    id: correctionEvidence
+    attributes:
+      label: Evidence or Reasoning for the Correction
+      description: Provide any evidence or reasoning that supports your correction.
+      placeholder: ex- The correct author name is mentioned in the associated publication DOI: 10.5281/zenodo.4745839
+    validations:
+      required: false
+
+  - type: input
+    id: additionalReferences
+    attributes:
+      label: Additional References
+      description: If applicable, provide any additional references or links related to this correction.
+      placeholder: ex. https://example.com/additional-info
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing to the accuracy and integrity of our metadata records. We will review your submission and get back to you as soon as possible.
