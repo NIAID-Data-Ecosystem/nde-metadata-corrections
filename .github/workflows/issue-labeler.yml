@@ -46,3 +46,6 @@ jobs:
                 labels: labelsToAdd,
               });
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          debug: false
+          user-agent: actions/github-script
+          result-encoding: json
