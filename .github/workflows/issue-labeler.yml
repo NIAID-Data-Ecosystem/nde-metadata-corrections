@@ -36,10 +36,8 @@ jobs:
             async function addLabels() {
               if (labelsToAdd.length > 0) {
                 const issueNumber = context.issue.number;
-                const githubToken = process.env.GITHUB_TOKEN;
-                const octokit = github.getOctokit(githubToken);
                 
-                await octokit.rest.issues.addLabels({
+                await github.rest.issues.addLabels({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
                   issue_number: issueNumber,
@@ -47,7 +45,7 @@ jobs:
                 });
               }
             }
-
+            
             addLabels();
           github-token: ${{ secrets.GITHUB_TOKEN }}
           debug: false
