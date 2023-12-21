@@ -33,18 +33,22 @@ jobs:
               labelsToAdd.push('append-value');
             }
             
-            // Add labels to the issue
-            if (labelsToAdd.length > 0) {
-              const issueNumber = context.issue.number;
-              const githubToken = process.env.GITHUB_TOKEN;
-              const octokit = github.getOctokit(githubToken);
-              
-              await octokit.rest.issues.addLabels({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issueNumber,
-                labels: labelsToAdd,
-              });
+            async function addLabels() {
+              if (labelsToAdd.length > 0) {
+                const issueNumber = context.issue.number;
+                const githubToken = process.env.GITHUB_TOKEN;
+                const octokit = github.getOctokit(githubToken);
+                
+                await octokit.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issueNumber,
+                  labels: labelsToAdd,
+                });
+              }
+            }
+
+            addLabels();
           github-token: ${{ secrets.GITHUB_TOKEN }}
           debug: false
           user-agent: actions/github-script
