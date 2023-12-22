@@ -117,11 +117,13 @@ body:
     id: urgency
     attributes:
       label: Urgency
-      description: Indicate if this correction is urgent.      options:
+      description: Indicate if this correction is urgent.      
+      options:
         - label: This is an urgent correction
     validations:
       required: false
 
   - type: markdown
     attributes:
-      value: |        Thank you for contributing to the accuracy and integrity of our metadata records. We will review your submission and get back to you as soon as possible.
+      value: |        
+        Thank you for contributing to the accuracy and integrity of our metadata records. We will review your submission and get back to you as soon as possible.
