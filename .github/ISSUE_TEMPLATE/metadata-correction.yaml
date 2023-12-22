@@ -90,8 +90,8 @@ body:
     id: proposedCorrection
     attributes:
       label: Proposed Correction
-      description: Provide your proposed correction in detail, including any specific action to be taken.
-      placeholder: "ex. Remove 'Nevada' from the species field in ZENODO_4745839."
+      description: Provide your proposed correction in detail, including any specific action to be taken. Include a URI if you are proposing to append or replace a term.
+      placeholder: "ex. Replace 'Mus musculus' in the species field with 'Homo sapiens' for record ZENODO_4745839. The correct species is a human cell line, not a mouse model. UniProt Taxonomy URL: https://www.uniprot.org/taxonomy/9606"
     validations:
       required: true
 
