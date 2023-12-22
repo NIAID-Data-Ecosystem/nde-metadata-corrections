@@ -28,7 +28,7 @@ body:
       description: If the correction is for a specific record, provide the unique identifier of the metadata record you are referring to.
       placeholder: ex. ZENODO_4745839
     validations:
-      required: true
+      required: false
 
   - type: dropdown
     id: metadataField
