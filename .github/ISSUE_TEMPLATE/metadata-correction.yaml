@@ -28,7 +28,7 @@ body:
       description: If the correction is for a specific record, provide the unique identifier of the metadata record you are referring to.
       placeholder: ex. ZENODO_4745839
     validations:
-      required: false
+      required: true
 
   - type: dropdown
     id: metadataField
@@ -70,8 +70,7 @@ body:
     attributes:
       label: Error Description
       description: Describe the error in the metadata record and the context of the misuse.
-      placeholder: "\n
-        ex. The term 'Nevada' is mapped as a species, but in this context, it refers to a state."
+      placeholder: "ex. The term 'Nevada' is mapped as a species, but in this context, it refers to a state."
     validations:
       required: true
 
@@ -92,8 +91,7 @@ body:
     attributes:
       label: Proposed Correction
       description: Provide your proposed correction in detail, including any specific action to be taken.
-      placeholder: "\n
-        ex. Remove 'Nevada' from the species field in ZENODO_4745839."
+      placeholder: "ex. Remove 'Nevada' from the species field in ZENODO_4745839."
     validations:
       required: true
 
@@ -102,8 +100,7 @@ body:
     attributes:
       label: Evidence or Reasoning for the Correction
       description: Provide any evidence or reasoning that supports your correction.
-      placeholder: "\n
-        ex. The correct author name is mentioned in the associated publication DOI: 10.5281/zenodo.4745839"
+      placeholder: "ex. The correct author name is mentioned in the associated publication DOI: 10.5281/zenodo.4745839"
     validations:
       required: false
 
@@ -120,13 +117,11 @@ body:
     id: urgency
     attributes:
       label: Urgency
-      description: Indicate if this correction is urgent.
-      options:
+      description: Indicate if this correction is urgent.      options:
         - label: This is an urgent correction
     validations:
       required: false
 
   - type: markdown
     attributes:
-      value: |
-        Thank you for contributing to the accuracy and integrity of our metadata records. We will review your submission and get back to you as soon as possible.
+      value: |        Thank you for contributing to the accuracy and integrity of our metadata records. We will review your submission and get back to you as soon as possible.
