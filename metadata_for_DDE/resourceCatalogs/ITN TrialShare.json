@@ -1,0 +1,56 @@
+{
+    "@type": "nde:ResourceCatalog",
+    "@context": {
+        "schema": "http://schema.org/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "bioschemas": "https://discovery.biothings.io/view/bioschemas/",
+        "niaid": "https://discovery.biothings.io/view/niaid/",
+        "nde": "https://discovery.biothings.io/view/nde/"
+    },
+    "date": "2024-01-18",
+    "topicCategory": [
+        "http://edamontology.org/topic_3400",
+        "http://edamontology.org/topic_0804",
+        "http://edamontology.org/topic_3277"
+    ],
+    "healthCondition": "http://purl.obolibrary.org/obo/MONDO_0005271",
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": [
+           {
+                "@type": "Organization",
+                "name": "NIAID",
+                "parentOrganization": "NIH"
+            }
+        ],
+        "identifier": "UM1AI109565"
+    },
+    "species": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+    "measurementTechnique": [
+        "http://purl.obolibrary.org/obo/OBI_0001977",
+        "http://purl.obolibrary.org/obo/OBI_0000916"
+    ],
+    "author": {
+        "@type": "Organization",
+        "name": "Immune Tolerance Network"
+    },
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "pmid": "27474121",
+        "name": "Clinical trial data access: Opening doors with TrialShare "
+    },
+    "conditionsOfAccess": "Closed",
+    "license": "https://www.itntrialshare.org/tsstatic/Terms%20Of%20Use.html",
+    "alternateName": "ITN TrialShare",
+    "description": "ITN TrialShare shares information about ITN's clinical studies and specimen bio-repository. Data and analysis code underlying ITN-published manuscripts are publicly available with the goal of promoting transparency, reproducibility, and scientific collaboration.",
+    "name": "Immune Tolerance Network TrialShare Clinical Trials Research Portal",
+    "url": "https://www.itntrialshare.org",
+    "identifier": "https://www.itntrialshare.org",
+    "collectionSize": {
+        "@type": "PropertyValue",
+        "minValue": 2085,
+        "unitText": "datasets"
+    },
+    "collectionType": "Repository"
+}
