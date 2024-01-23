@@ -1,0 +1,206 @@
+{
+    "@type": "niaid:Dataset",
+    "@context": {
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "schema": "http://schema.org/",
+        "bioschemas": "https://discovery.biothings.io/view/bioschemas/",
+        "niaid": "https://discovery.biothings.io/view/niaid/",
+        "nde": "https://discovery.biothings.io/view/nde/"
+    },
+    "includedInDataCatalog": [
+        {"name": "FAIRsharing.org",
+        "url": "https://fairsharing.org/"}
+    ],
+    "name": "Immune Epitope Database",
+    "description": "The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans and other animal species in the context of infectious disease, allergy, autoimmunity and transplantation. The IEDB also hosts epitope prediction and analysis tools, and has a companion site, CEDAR (funded by NCI), which houses cancer epitopes.",
+    "measurementTechnique": [
+        "http://purl.obolibrary.org/obo/COVOC_0010033",
+        "http://purl.obolibrary.org/obo/COVOC_0010001",
+        "http://purl.obolibrary.org/obo/COVOC_0010016",
+        "http://semanticscience.org/resource/SIO_000998",
+        "http://www.bioassayontology.org/bao#BAO_0002094"
+    ],
+    "url": "https://www.iedb.org/",
+    "identifier": "https://www.iedb.org/",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Randi Vita"
+        },
+        {
+            "@type": "Person",
+            "name": "Swapnil Mahajan"
+        }
+    ],
+    "sdPublisher": {
+        "@type": "Organization",
+        "name": "NIAID Data Ecosystem"
+    },
+    "distribution": {
+        "@type": "DataDownload",
+        "dateModified": "2023-11-10",
+        "contentUrl": "http://tools.iedb.org/main/datasets/"
+    },
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "name": "The Immune Epitope Database (IEDB): 2018 update",
+        "url": "https://doi.org/10.1093/nar/gky1006",
+        "pmid": "30357391"
+    },
+    "funding": [
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID",
+                "parentOrganization": "NIH"
+            },
+            "identifier": "75N93019C00001"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID",
+                "parentOrganization": "NIH"
+            },
+            "identifier": "HHSN272201200010C"
+        },
+        {
+            "@type": "MonetaryGrant",
+            "funder": {
+                "@type": "Organization",
+                "name": "NIAID",
+                "parentOrganization": "NIH"
+            },
+            "identifier": "HHSN26620040006C"
+        }
+    ],
+    "license": "https://www.iedb.org/citation_v3.php",
+    "species": [
+        "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+        "http://purl.obolibrary.org/obo/NCBITaxon_10090"
+    ],
+    "healthCondition": [
+        "http://purl.obolibrary.org/obo/MONDO_0005550",
+        "http://purl.obolibrary.org/obo/MONDO_0005271",
+        "http://purl.obolibrary.org/obo/MONDO_0007179"
+    ],
+    "variableMeasured": [
+        "http://purl.obolibrary.org/obo/NCIT_C13303",
+        "http://purl.obolibrary.org/obo/NCIT_C40474",
+        "http://purl.obolibrary.org/obo/NCIT_C19053",
+        "http://purl.obolibrary.org/obo/NCIT_C19255"        
+    ],
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Reliable prediction of T-cell epitopes using neural networks with novel sequence representations",
+            "pmid": "12717023"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Automated generation and evaluation of specific MHC binding predictive tools: ARB matrix applications",
+            "pmid": "15868141"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Generating quantitative models describing the sequence specificity of biological processes with the stabilized matrix method",
+            "pmid": "15927070"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "NetMHCcons: a consensus method for the major histocompatibility complex class I predictions",
+            "pmid": "22009319"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "The PickPocket method for predicting binding specificities for receptors based on receptor pocket similarities: application to MHC-peptide binding",
+            "pmid": "19297351"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Modeling the MHC class I pathway by combining predictions of proteasomal cleavage, TAP transport and MHC class I binding",
+            "pmid": "15868101"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Prediction of proteasome cleavage motifs by neural networks",
+            "pmid": "11983929"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Antibody-protein interactions: benchmark datasets and prediction tools evaluation",
+            "pmid": "17910770"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Predicting population coverage of T-cell epitope-based diagnostics and vaccines",
+            "pmid": "16545123"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Prediction of residues in discontinuous B-cell epitopes using protein 3D structures",
+            "pmid": "17001032"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Development of an epitope conservancy analysis tool to facilitate the design of epitope-based diagnostics and vaccines",
+            "pmid": "17897458"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "EpitopeViewer: a Java application for the visualization and analysis of immune epitopes in the Immune Epitope Database and Analysis Resource (IEDB)",
+            "pmid": "17313688"
+        }
+    ],
+    "collectionSize": [
+        {
+            "minValue": "1600000",
+            "unitText": "epitopes"
+        },
+        {
+            "minValue": "5000000",
+            "unitText": "assays"
+        }
+    ],
+    "isAccessibleForFree": "True",
+    "isBasisFor": [
+        {
+            "@type": "ComputationalTool",
+            "name": "LBtope",
+            "url": "https://webs.iiitd.edu.in/raghava/lbtope/index.php",
+            "identifier": "biotools:lbtope"
+        }
+    ],
+    "alternateName": "IEDB",
+    "sameAs": [
+        "https://fairsharing.org/FAIRsharing.c886cd", 
+        "https://en.wikipedia.org/wiki/Immune_Epitope_Database_and_Analysis_Resource", 
+        "https://www.wikidata.org/wiki/Q1653430", 
+        "https://bio.tools/iedb-v2"
+    ],
+    "usageInfo": [
+        {
+            "name": "CC-BY", 
+            "url": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "keywords": [
+        "http://edamontology.org/operation_2423",
+        "http://purl.obolibrary.org/obo/OBI_1110034", 
+        "http://purl.obolibrary.org/obo/CL_0000084",
+        "http://purl.obolibrary.org/obo/GO_0042571",
+        "http://purl.obolibrary.org/obo/NCIT_C16710",
+        "http://purl.obolibrary.org/obo/OBI_1110021",
+        "http://purl.obolibrary.org/obo/OMIT_0009360",
+        "http://semanticscience.org/resource/SIO_000998"
+    ],
+    "topicCategory": [
+        "http://edamontology.org/topic_3948",
+        "http://edamontology.org/topic_2830",
+        "http://edamontology.org/topic_0804",
+    ]
+}

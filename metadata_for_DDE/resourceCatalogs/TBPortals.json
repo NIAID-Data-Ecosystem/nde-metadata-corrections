@@ -320,6 +320,7 @@
     "description": "The NIAID TB Portals Program is a multi-national collaboration for tuberculosis (TB) data sharing and analysis to advance TB research. As a global consortium of clinicians, scientists, and IT professionals, we built the TB Portals, a web-based, open-access repository of multi-domain TB data and tools for its analysis. Here, you can find linked socioeconomic/geographic, clinical, laboratory, radiological, and genomic data from over 11400 international TB patient cases. You can explore and analyze these data through any of our tools, focusing on only one domain or across all of them. TB Portals data are also available for download to support your own research.",
     "name": "TB Portals",
     "url": "https://tbportals.niaid.nih.gov/",
+    "identifier": "https://tbportals.niaid.nih.gov/",
     "collectionSize": {
         "@type": "PropertyValue",
         "minValue": 40,
