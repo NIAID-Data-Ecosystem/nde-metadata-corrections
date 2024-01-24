@@ -1,0 +1,160 @@
+{
+    "@type": "nde:ResourceCatalog",
+    "@context": {
+        "schema": "http://schema.org/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "bioschemas": "https://discovery.biothings.io/view/bioschemas/",
+        "niaid": "https://discovery.biothings.io/view/niaid/",
+        "nde": "https://discovery.biothings.io/view/nde/"
+    },
+    "date": "2024-01-24",
+    "topicCategory": [
+        "http://edamontology.org/topic_0622",
+        "http://edamontology.org/topic_2259",
+        "http://edamontology.org/topic_0091"
+    ],
+    "healthCondition": [
+        "http://purl.obolibrary.org/obo/MONDO_0005550"
+    ],
+    "funding": {
+        "@type": "MonetaryGrant",
+        "funder": [
+            {
+                "@type": "Organization",
+                "name": "NIAID",
+                "parentOrganization": "NIH"
+            }
+        ],
+        "identifier": "75N93019C00076"
+    },
+    "species": [
+        "http://purl.obolibrary.org/obo/NCBITaxon_7227",
+        "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+        "http://purl.obolibrary.org/obo/NCBITaxon_9669",
+        "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+        "http://purl.obolibrary.org/obo/NCBITaxon_9544",
+        "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+        "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+        "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+        "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+        "http://purl.obolibrary.org/obo/NCBITaxon_10090"
+    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
+    "measurementTechnique": [
+        "http://purl.obolibrary.org/obo/NCIT_C18881",
+        "http://purl.obolibrary.org/obo/NCIT_C17565"
+    ],
+    "abstract": "The Bacterial and Viral Bioinformatics Resource Center (BV-BRC) is a NIAID supported IID repository that includes multimodal pathogen data.",
+    "author": [
+    ],
+    "citation": {
+        "@type": "ScholarlyArticle",
+        "pmid": "36350631",
+        "name": "Introducing the Bacterial and Viral Bioinformatics Resource Center (BV-BRC): a resource combining PATRIC, IRD and ViPR"
+    },
+    "conditionsOfAccess": "Open",
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Rick Stevens",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Argonne National Laboratory",
+                "parentOrganization": "University of Chicago"
+            },
+            "role": "Co-Principal Investigator"
+        },
+        {
+            "@type": "Person",
+            "name": "Indresh Singh",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "J. Craig Venter Institute"
+            },
+            "role": "JCVI Site Principal Investigator"
+        },
+        {
+            "@type": "Person",
+            "name": "Elliot Lefkowitz",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            "role": "Co-Principal Investigator"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "name": "Argonne National Laboratory",
+            "parentOrganization": "University of Chicago"
+        },
+        {
+            "@type": "Organization",
+            "name": "J. Craig Venter Institute"
+        },
+        {
+            "@type": "Organization",
+            "name": "University of Alabama at Birmingham"
+        },
+        {
+            "@type": "Organization",
+            "name": "Biocomplexity Institute and Initiative",
+            "parentOrganization": "University of Virginia"
+        }
+    ],
+    "inLanguage": {
+        "@type": "inLanguage",
+        "name": "English"
+    },
+    "license": "https://www.bv-brc.org/docs/system_documentation/data_management_sharing.html",
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
+    "alternateName": "BV-BRC",
+    "description": "The Bacterial and Viral Bioinformatics Resource Center (BV-BRC) is an information system designed to support research on bacterial and viral infectious diseases. The BV-BRC combines the data and tools from the Legacy BRC resources: PATRIC, the bacterial BRC, and IRD and ViPR, the viral BRCs.",
+    "identifier": "https://www.bv-brc.org/",
+    "name": "Bacterial and Viral Bioinformatics Resource Center",
+    "url": "https://www.bv-brc.org/",
+    "collectionSize": [
+        {
+            "minValue": 1000000,
+            "unitText": "viral genomes"
+        },
+        {
+            "minValue": 100000,
+            "unitText": "bacterial genomes"
+        }
+    ],
+    "collectionType": "Cloud Ecosystem",
+    "isBasisOn": [
+        {
+        "@type": "ScholarlyArticle",
+        "pmid": "27679478",
+        "name": "Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center"
+        },
+        {
+        "@type": "ScholarlyArticle",
+        "pmid": "27679478",
+        "name": "Influenza Research Database: An integrated bioinformatics resource for influenza virus research"
+        },
+        {
+        "@type": "ScholarlyArticle",
+        "pmid": "23202522",
+        "name": "Virus pathogen database and analysis resource (ViPR): a comprehensive bioinformatics database and analysis resource for the coronavirus research community"
+        }           
+    ],
+    "variableMeasured": [
+        "http://www.ebi.ac.uk/efo/EFO_0004556", 
+        "http://www.ebi.ac.uk/efo/EFO_0004554"
+    ],
+    "isAccessibleForFree": true,
+    "version": "3.33.16"
+}

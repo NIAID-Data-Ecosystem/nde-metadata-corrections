@@ -10,7 +10,7 @@
     },
     "citedBy": {
         "@type": "ScholarlyArticle",
-        "pmid": 36266291,
+        "pmid": "36266291",
         "name": "The Immune Signatures data resource, a compendium of systems vaccinology datasets"
     },
     "date": "2024-01-18",
@@ -99,6 +99,53 @@
         "value": 0,
         "unitText": "unknown"
     },
+    "creator": [
+        {
+            "@type": "Organization",
+            "name": "Human Immunology Project Consortium"
+        },
+        {
+            "@type": "Organization",
+            "name": "Benaroya Research Institute"
+        },
+        {
+            "@type": "Organization",
+            "alternateName": "MIT",
+            "name": "Massachusetts Institute of Technology"
+        },
+        {
+            "@type": "Organization",
+            "name": "Massachusetts General Hospital"
+        },
+        {
+            "@type": "Organization",
+            "name": "Mount Sinai Hospital"
+        },
+        {
+            "@type": "Organization",
+            "name": "Columbia University"
+        }, 
+        {
+            "@type": "Organization",
+            "name": "Seattle Children’s Research Institute"
+        }, 
+        {
+            "@type": "Organization",
+            "name": "Icahn School of Medicine at Mount Sinai"
+        }, 
+        {
+            "@type": "Organization",
+            "name": "Stanford"
+        }, 
+        {
+            "@type": "Organization",
+            "name": "La Jolla Institute for Immunology"
+        }, 
+        {
+            "@type": "Organization",
+            "name": "Yale School of Medicine"
+        }
+    ],
     "collectionType": "Portal",
     "isBasisFor": [
         {
@@ -107,6 +154,21 @@
             "url": "https://bio.tools/immunespacer",
             "identifier": "biotools:immunespacer"
         }
-    ]
+    ],
+    "abstract": "ImmuneSpace is a NIAID supported IID repository that includes multimodal immunological data.",
+    "inLanguage": {
+        "@type": "inLanguage",
+        "name": "English"
+    },
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "url": "https://discovery.biothings.io/portal/nde",
+        "name": "Data Discovery Engine"
+    },
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    }
 }
 
