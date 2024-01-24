@@ -9,9 +9,12 @@
         "niaid": "https://discovery.biothings.io/view/niaid/",
         "nde": "https://discovery.biothings.io/view/nde/"
     },
+    "date": "2024-01-24",
     "includedInDataCatalog": [
         {"name": "FAIRsharing.org",
-        "url": "https://fairsharing.org/"}
+        "url": "https://fairsharing.org/"},
+        {"name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"}
     ],
     "name": "Immune Epitope Database",
     "description": "The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans and other animal species in the context of infectious disease, allergy, autoimmunity and transplantation. The IEDB also hosts epitope prediction and analysis tools, and has a companion site, CEDAR (funded by NCI), which houses cancer epitopes.",
@@ -35,8 +38,9 @@
         }
     ],
     "sdPublisher": {
-        "@type": "Organization",
-        "name": "NIAID Data Ecosystem"
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
     },
     "distribution": {
         "@type": "DataDownload",
@@ -158,15 +162,15 @@
     ],
     "collectionSize": [
         {
-            "minValue": "1600000",
+            "minValue": 1600000,
             "unitText": "epitopes"
         },
         {
-            "minValue": "5000000",
+            "minValue": 5000000,
             "unitText": "assays"
         }
     ],
-    "isAccessibleForFree": "True",
+    "isAccessibleForFree": true,
     "isBasisFor": [
         {
             "@type": "ComputationalTool",
@@ -201,6 +205,23 @@
     "topicCategory": [
         "http://edamontology.org/topic_3948",
         "http://edamontology.org/topic_2830",
-        "http://edamontology.org/topic_0804",
-    ]
+        "http://edamontology.org/topic_0804"
+    ],
+    "abstract": "The Immune Epitope Database (IEDB) is a NIAID supported IID repository that includes multimodal immunological data.",
+    "inLanguage": {
+        "@type": "inLanguage",
+        "name": "English"
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Randi Vita"
+        },
+        {
+            "@type": "Person",
+            "name": "Swapnil Mahajan"
+        }
+    ],
+    "collectionType": "Database",
+    "conditionsOfAccess": "Open"
 }

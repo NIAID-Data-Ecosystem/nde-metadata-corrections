@@ -44,6 +44,10 @@
     "license": "https://www.itntrialshare.org/tsstatic/Terms%20Of%20Use.html",
     "alternateName": "ITN TrialShare",
     "description": "ITN TrialShare shares information about ITN's clinical studies and specimen bio-repository. Data and analysis code underlying ITN-published manuscripts are publicly available with the goal of promoting transparency, reproducibility, and scientific collaboration.",
+    "creator": {
+        "@type": "Organization",
+        "name": "Immune Tolerance Network"
+    },
     "name": "Immune Tolerance Network TrialShare Clinical Trials Research Portal",
     "url": "https://www.itntrialshare.org",
     "identifier": "https://www.itntrialshare.org",
@@ -52,5 +56,20 @@
         "minValue": 2085,
         "unitText": "datasets"
     },
-    "collectionType": "Repository"
+    "collectionType": "Repository",
+    "abstract": "ITN TrialShare is a NIAID supported IID repository that includes multimodal immunological data.",
+    "inLanguage": {
+        "@type": "inLanguage",
+        "name": "English"
+    },
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "url": "https://discovery.biothings.io/portal/nde",
+        "name": "Data Discovery Engine"
+    },
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    }
 }

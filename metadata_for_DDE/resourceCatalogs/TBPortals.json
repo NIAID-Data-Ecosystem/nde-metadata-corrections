@@ -9,107 +9,70 @@
         "nde": "https://discovery.biothings.io/view/nde/"
     },
     "citedBy": [
-       {
+        {
             "@type": "ScholarlyArticle",
             "name": "Predictive capabilities of baseline radiological findings for early and late disease outcomes within sensitive and multi-drug resistant tuberculosis cases",
             "pmid": "37808069"
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "name": "Lineage classification and antitubercular drug resistance surveillance of Mycobacterium tuberculosis by whole-genome sequencing in Southern India",
             "pmid": "37671895"
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "37663145",
             "name": "Combining Radiological and Genomic TB Portals Data for Drug Resistance Analysis "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "35898335",
             "name": "Integrative analysis of clinical health records, imaging and pathogen genomics identifies personalized predictors of disease prognosis in tuberculosis"
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "35725445",
             "name": "Discriminating TB lung nodules from early lung cancers using deep learning"
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "35101846",
             "name": "Patterns of genomic interrelatedness of publicly available samples in the TB portals database"
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "34993110",
             "name": "Differentiating between drug-sensitive and drug-resistant tuberculosis with machine learning for clinical and radiological features "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "34891867",
             "name": "Identifying Drug-Resistant Tuberculosis in Chest Radiographs: Evaluation of CNN Architectures and Training Strategies "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "34842959",
             "name": "A fully automatic artificial intelligence-based CT image analysis system for accurate detection, diagnosis, and quantitative severity evaluation of pulmonary tuberculosis "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "33730021",
             "name": "Radiologist observations of computed tomography (CT) images predict treatment outcome in TB Portals, a real-world database of tuberculosis (TB) cases "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "identifier": "31978149",
             "name": "Performance of Qure.ai automatic classifiers against a large annotated database of patients with diverse forms of tuberculosis "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "31838261",
             "name": "Comparative analysis of genomic variability for drug-resistant strains of Mycobacterium tuberculosis: The special case of Belarus "
         },
-       {
+        {
             "@type": "ScholarlyArticle",
             "pmid": "31120982",
             "name": "TB DEPOT (Data Exploration Portal): A multi-domain tuberculosis data analysis resource "
-        }
-    ],
-    "isBasedOn": [
-       {
-            "@type": "ScholarlyArticle",
-            "name": "PET/CT imaging correlates with treatment outcome in patients with multidrug-resistant tuberculosis ",
-            "pmid": "25473034"
-        },
-       {
-            "@type": "ScholarlyArticle",
-            "name": "Automatic tuberculosis screening using chest radiographs ",
-            "pmid": "24108713"
-        },
-       {
-            "@type": "ScholarlyArticle",
-            "pmid": "31479448",
-            "name": "A systematic review of the diagnostic accuracy of artificial intelligence-based computer programs to analyze chest x-rays for pulmonary tuberculosis"
-        },
-       {
-            "@type": "ScholarlyArticle",
-            "pmid": "28678713",
-            "name": "Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus: Machine-Learning Approach "
-        },
-       {
-            "@type": "ScholarlyArticle",
-            "pmid": "30284153",
-            "name": "Detecting drug-resistant tuberculosis in chest radiographs "
-        },
-       {
-            "@type": "ScholarlyArticle",
-            "pmid": "31367568",
-            "name": "Updates on 18F-FDG-PET/CT as a clinical tool for tuberculosis evaluation and therapeutic monitoring"
-        },
-       {
-            "@type": "ScholarlyArticle",
-            "pmid": "28678713",
-            "name": "Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus: Machine-Learning Approach "
         }
     ],
     "date": "2024-01-03",
@@ -121,23 +84,23 @@
             "alternateNAme": "TB DEPOT"
         },
         {
-            "@type": "ComputationalTool", 
-            "name": "Genomic Analysis Portal", 
+            "@type": "ComputationalTool",
+            "name": "Genomic Analysis Portal",
             "alternateName": "GAP",
             "url": "https://gap.tbportals.niaid.nih.gov/"
-        }, 
+        },
         {
-            "@type": "ComputationalTool", 
+            "@type": "ComputationalTool",
             "name": "TB Portals Radiomics Analysis Portal",
             "alternateName": "TB RAP",
             "url": "https://rap.tbportals.niaid.nih.gov/"
-        }, 
+        },
         {
-            "@type": "ComputationalTool", 
+            "@type": "ComputationalTool",
             "name": "TB in 3D"
-        }, 
+        },
         {
-            "@type": "ComputationalTool", 
+            "@type": "ComputationalTool",
             "name": "TV in VR"
         }
     ],
@@ -151,7 +114,7 @@
     "funding": {
         "@type": "MonetaryGrant",
         "funder": [
-           {
+            {
                 "@type": "Organization",
                 "name": "NIAID",
                 "parentOrganization": "NIH"
@@ -160,6 +123,11 @@
         "identifier": "D43 TW007124/TW/FIC"
     },
     "species": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "url": "https://discovery.biothings.io/portal/nde",
+        "name": "Data Discovery Engine"
+    },
     "measurementTechnique": [
         "http://edamontology.org/topic_3382",
         "http://edamontology.org/topic_3673",
@@ -173,12 +141,13 @@
         "http://purl.obolibrary.org/obo/CMO_0002747",
         "http://purl.obolibrary.org/obo/NCIT_C16457"
     ],
+    "abstract": "The TB Portals is a NIAID supported IID repository that includes multimodal tuberculosis data.",
     "author": [
-       {
+        {
             "@type": "Organization",
             "name": "TB Portals Consortium"
         },
-       {
+        {
             "@type": "Organization",
             "name": "NIAID",
             "parentOrganization": "NIH"
@@ -190,72 +159,134 @@
         "name": "The TB Portals: an Open-Access, Web-Based Platform for Global Drug-Resistant-Tuberculosis Data Sharing and Analysis "
     },
     "conditionsOfAccess": "Restricted",
+    "creator": [
+        {
+            "@type": "Organization",
+            "name": "TB Portals consortium"
+        },
+        {
+            "@type": "Organization",
+            "name": "NIAID",
+            "parentOrganization": "NIH"
+        }
+    ],
+    "inLanguage": {
+        "@type": "inLanguage",
+        "name": "English"
+    },
+    "isBasedOn": [
+        {
+            "@type": "ScholarlyArticle",
+            "name": "PET/CT imaging correlates with treatment outcome in patients with multidrug-resistant tuberculosis ",
+            "pmid": "25473034"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "name": "Automatic tuberculosis screening using chest radiographs ",
+            "pmid": "24108713"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "pmid": "31479448",
+            "name": "A systematic review of the diagnostic accuracy of artificial intelligence-based computer programs to analyze chest x-rays for pulmonary tuberculosis"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "pmid": "28678713",
+            "name": "Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus: Machine-Learning Approach "
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "pmid": "30284153",
+            "name": "Detecting drug-resistant tuberculosis in chest radiographs "
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "pmid": "31367568",
+            "name": "Updates on 18F-FDG-PET/CT as a clinical tool for tuberculosis evaluation and therapeutic monitoring"
+        },
+        {
+            "@type": "ScholarlyArticle",
+            "pmid": "28678713",
+            "name": "Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus: Machine-Learning Approach "
+        }
+    ],
+    "keywords": [
+        "http://purl.obolibrary.org/obo/MONDO_0018076",
+        "http://purl.obolibrary.org/obo/NCIT_C172305",
+        "http://purl.obolibrary.org/obo/NCIT_C47824"
+    ],
     "license": "https://tbportals.niaid.nih.gov/download-data",
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
     "spatialCoverage": [
-       {
+        {
             "@type": "AdministrativeArea",
             "administrativeType": "country",
             "name": "Kazakhstan",
             "identifier": "Q232",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Georgia",
             "identifier": "Q230",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Moldova",
             "identifier": "Q217",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Belarus",
             "identifier": "Q184",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Azerbaijan",
             "identifier": "Q227",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "South Africa",
             "identifier": "Q258",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "India",
             "identifier": "Q668",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Republic of Congo",
             "identifier": "Q971",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "China",
             "identifier": "Q148",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Mali",
             "identifier": "Q912",
@@ -269,47 +300,54 @@
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Kyrgyzstan",
             "identifier": "Q813",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Nigeria",
             "identifier": "Q1033",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Romania",
             "identifier": "Q218",
             "administrativeType": "country",
             "locationType": "collection"
-        }, 
-       {
+        },
+        {
             "@type": "AdministrativeArea",
             "name": "Senegal",
             "identifier": "Q1041",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Ukraine",
             "identifier": "Q212",
             "administrativeType": "country",
             "locationType": "collection"
         },
-       {
+        {
             "@type": "AdministrativeArea",
             "name": "Vietnam",
             "identifier": "Q881",
             "administrativeType": "country",
             "locationType": "collection"
+        }
+    ],
+    "temporalCoverage": [
+        {
+            "@type": "TemporalInterval",
+            "name": "2013 - current",
+            "temporalType": "collection"
         }
     ],
     "usageInfo": {
@@ -318,13 +356,14 @@
         "name": "TB Portals Data Use Agreement"
     },
     "description": "The NIAID TB Portals Program is a multi-national collaboration for tuberculosis (TB) data sharing and analysis to advance TB research. As a global consortium of clinicians, scientists, and IT professionals, we built the TB Portals, a web-based, open-access repository of multi-domain TB data and tools for its analysis. Here, you can find linked socioeconomic/geographic, clinical, laboratory, radiological, and genomic data from over 11400 international TB patient cases. You can explore and analyze these data through any of our tools, focusing on only one domain or across all of them. TB Portals data are also available for download to support your own research.",
+    "identifier": "https://tbportals.niaid.nih.gov/",
     "name": "TB Portals",
     "url": "https://tbportals.niaid.nih.gov/",
-    "identifier": "https://tbportals.niaid.nih.gov/",
     "collectionSize": {
         "@type": "PropertyValue",
         "minValue": 40,
         "unitText": "contribution sites"
     },
-    "collectionType": "Knowledge Base"
+    "collectionType": "Portal"
 }
+
