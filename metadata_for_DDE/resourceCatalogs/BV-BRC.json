@@ -156,5 +156,7 @@
         "http://www.ebi.ac.uk/efo/EFO_0004554"
     ],
     "isAccessibleForFree": true,
-    "version": "3.33.16"
+    "version": "3.33.16",
+    "hasAPI": true,
+    "hasDownload": "All content"
 }
