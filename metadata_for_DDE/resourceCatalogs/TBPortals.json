@@ -364,6 +364,8 @@
         "minValue": 40,
         "unitText": "contribution sites"
     },
-    "collectionType": "Portal"
+    "collectionType": "Portal",
+    "hasAPI": false,
+    "hasDownload": "All content"
 }
 
