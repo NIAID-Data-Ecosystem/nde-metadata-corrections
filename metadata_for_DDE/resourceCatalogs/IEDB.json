@@ -223,5 +223,7 @@
         }
     ],
     "collectionType": "Database",
-    "conditionsOfAccess": "Open"
+    "conditionsOfAccess": "Open",
+    "hasAPI": true,
+    "hasDownload": "All content"
 }
