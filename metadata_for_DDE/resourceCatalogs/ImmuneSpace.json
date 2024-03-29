@@ -171,6 +171,6 @@
         "url": "https://discovery.biothings.io/portal/nde"
     },
     "genre": "IID",
-    "hasAPI": False
+    "hasAPI": false
 }
 
