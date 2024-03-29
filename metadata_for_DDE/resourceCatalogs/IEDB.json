@@ -225,5 +225,6 @@
     "collectionType": "Database",
     "conditionsOfAccess": "Open",
     "hasAPI": true,
-    "hasDownload": "All content"
+    "hasDownload": "All content",
+    "genre": "IID"
 }
