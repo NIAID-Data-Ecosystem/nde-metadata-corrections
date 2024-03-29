@@ -158,5 +158,6 @@
     "isAccessibleForFree": true,
     "version": "3.33.16",
     "hasAPI": true,
-    "hasDownload": "All content"
+    "hasDownload": "All content",
+    "genre": "IID"
 }
