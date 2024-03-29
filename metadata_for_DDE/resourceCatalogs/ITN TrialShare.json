@@ -71,5 +71,6 @@
         "@type": "DataCatalog",
         "name": "Data Discovery Engine",
         "url": "https://discovery.biothings.io/portal/nde"
-    }
+    },
+    "genre": "IID"
 }
