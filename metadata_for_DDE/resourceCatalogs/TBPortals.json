@@ -366,6 +366,7 @@
     },
     "collectionType": "Portal",
     "hasAPI": false,
-    "hasDownload": "All content"
+    "hasDownload": "All content",
+    "genre": "IID"
 }
 
