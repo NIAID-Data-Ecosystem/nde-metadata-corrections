@@ -1595,7 +1595,7 @@
             "name": "Kathryn Anastos",
             "givenName": "Kathryn",
             "familyName": "Anastos",
-            "name": {
+            "affiliation": {
                 "@type": "Organization",
                 "name": "Albert Einstein College of Medicine"
             }
@@ -1617,7 +1617,7 @@
             "familyName": "Kassaye",
             "affiliation": {
                 "@type": "Organization",
-                "affiliation": "Georgetown University"
+                "name": "Georgetown University"
             }
         },
         {
