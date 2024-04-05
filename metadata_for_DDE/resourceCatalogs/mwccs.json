@@ -1848,11 +1848,15 @@
     "license": "https://statepi.jhsph.edu/mwccs/data-sharing/",
     "temporalCoverage": {
         "@type": "TemporalInterval", 
-        "temporalType": "Collection", 
+        "temporalType": "collection", 
         "startDate": "1984", 
         "duration": "1984/.."
     },
-    "usageInfo": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2022/11/MWCCS-DACC-Resource-Request-Form_final11922.pdf",
+    "usageInfo": {
+        "@type": "CreativeWork",
+        "name": "MWCCS DACC Resource Request Info",
+        "url": "https://statepi.jhsph.edu/mwccs/wp-content/uploads/2022/11/MWCCS-DACC-Resource-Request-Form_final11922.pdf"
+    },
     "topicCategory": [
         "http://edamontology.org/topic_0804",
         "http://edamontology.org/topic_3277",
@@ -1861,15 +1865,20 @@
     ],
     "collectionSize": [
         {
-            "minValue": "7300", 
+            "@type": "PropertyValue",
+            "minValue": 7300, 
             "unitText": "study participants"
         },
         {
-            "minValue": "5000",
+            "@type": "PropertyValue",
+            "minValue": 5000,
             "unitText": "women"
         }
     ],
-    "inLanguage": "English",
+    "inLanguage": {
+        "@type": "Language",
+        "name": "English"
+    },
     "includedInDataCatalog": {
         "@type": "DataCatalog",
         "name": "NIAID Data Ecosystem",
