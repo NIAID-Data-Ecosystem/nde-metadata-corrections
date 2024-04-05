@@ -1595,7 +1595,7 @@
             "name": "Kathryn Anastos",
             "givenName": "Kathryn",
             "familyName": "Anastos",
-            "affiliation": {
+            "name": {
                 "@type": "Organization",
                 "name": "Albert Einstein College of Medicine"
             }
@@ -1607,7 +1607,7 @@
             "familyName": "Merenstein",
             "affiliation": {
                 "@type": "Organization",
-                "affiliation": "Georgetown University"
+                "name": "Georgetown University"
             }
         },
         {
@@ -1764,7 +1764,7 @@
             "familyName": "Mimiaga",
             "affiliation": {
                 "@type": "Organization",
-                ".name": "University of California, Los Angeles"
+                "name": "University of California, Los Angeles"
             }
         },
         {
@@ -1774,7 +1774,7 @@
         "familyName": "Detels",
             "affiliation": {
                 "@type": "Organization",
-                ".name": "University of California, Los Angeles"
+                "name": "University of California, Los Angeles"
             }
         }
     ],
@@ -1849,7 +1849,7 @@
     "temporalCoverage": {
         "@type": "TemporalInterval", 
         "temporalType": "collection", 
-        "startDate": "1984", 
+        "startDate": "1984-01-01", 
         "duration": "1984/.."
     },
     "usageInfo": {
