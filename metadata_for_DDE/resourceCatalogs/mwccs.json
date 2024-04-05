@@ -31,71 +31,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -107,71 +121,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -183,71 +211,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -259,71 +301,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -335,71 +391,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -411,71 +481,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -487,71 +571,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -563,71 +661,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -639,71 +751,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -715,71 +841,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -791,71 +931,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -867,71 +1021,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -943,71 +1111,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -1019,71 +1201,85 @@
             "@type": "MonetaryGrant",
             "funder": [
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Alcohol Abuse and Alcoholism",
                     "alternateName": "NIAAA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Aging",
                     "alternateName": "NIA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Allergy And Infectious Diseases",
                     "alternateName": "NIAID",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Cancer Institute",
                     "alternateName": "NCI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute On Drug Abuse",
                     "alternateName": "NIDA",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Deafness and Other Communication Disorders",
                     "alternateName": "NIDCD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Dental & Craniofacial Research",
                     "alternateName": "NIDCR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
                     "alternateName": "NIDDK",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "Eunice Kennedy Shriver National Institute Of Child Health & Human Development",
                     "alternateName": "NICHD",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Heart, Lung, and Blood Institute",
                     "alternateName": "NHLBI",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Neurological Disorders And Stroke",
                     "alternateName": "NINDS",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Mental Health",
                     "alternateName": "NIMH",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute Of Nursing Research",
                     "alternateName": "NINR",
                     "parentOrganization": "National Institutes of Health"
                 },
                 {
+                    "@type": "Organization",
                     "name": "National Institute on Minority Health and Health Disparities",
                     "alternateName": "NIMHD",
                     "parentOrganization": "National Institutes of Health"
@@ -1094,6 +1290,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Center for Advancing Translational Sciences",
                 "alternateName": "NCATS",
                 "parentOrganization": "National Institutes of Health"
@@ -1104,6 +1301,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Center for Advancing Translational Sciences",
                 "alternateName": "NCATS",
                 "parentOrganization": "National Institutes of Health"
@@ -1114,6 +1312,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Center for Advancing Translational Sciences",
                 "alternateName": "NCATS",
                 "parentOrganization": "National Institutes of Health"
@@ -1124,6 +1323,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Institute Of Allergy And Infectious Diseases",
                 "alternateName": "NIAID",
                 "parentOrganization": "National Institutes of Health"
@@ -1134,6 +1334,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Institute Of Allergy And Infectious Diseases",
                 "alternateName": "NIAID",
                 "parentOrganization": "National Institutes of Health"
@@ -1144,6 +1345,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Institute Of Allergy And Infectious Diseases",
                 "alternateName": "NIAID",
                 "parentOrganization": "National Institutes of Health"
@@ -1154,6 +1356,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Institute Of Allergy And Infectious Diseases",
                 "alternateName": "NIAID",
                 "parentOrganization": "National Institutes of Health"
@@ -1164,6 +1367,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Institute Of Mental Health",
                 "alternateName": "NIMH",
                 "parentOrganization": "National Institutes of Health"
@@ -1174,6 +1378,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Center for Advancing Translational Sciences",
                 "alternateName": "NCATS",
                 "parentOrganization": "National Institutes of Health"
@@ -1184,6 +1389,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Center for Advancing Translational Sciences",
                 "alternateName": "NCATS",
                 "parentOrganization": "National Institutes of Health"
@@ -1194,6 +1400,7 @@
         {
             "@type": "MonetaryGrant",
             "funder": {
+                "@type": "Organization",
                 "name": "National Center for Advancing Translational Sciences",
                 "alternateName": "NCATS",
                 "parentOrganization": "National Institutes of Health"
@@ -1204,6 +1411,7 @@
     ],
     "author": [
         {
+            "@type": "Person",
             "name": "James B. Brock",
             "givenName": "James",
             "familyName": "Brock",
@@ -1213,6 +1421,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Jodie Dionne-Odom",
             "givenName": "Jodie",
             "familyName": "Dionne-Odom",
@@ -1222,6 +1431,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Deborah Konkle-Parker",
             "givenName": "Deborah",
             "familyName": "Konkle-Parker",
@@ -1231,6 +1441,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Mirjam-Colette Kempf",
             "givenName": "Mirjam-Colette",
             "familyName": "Kempf",
@@ -1240,6 +1451,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Stephen Gange",
             "givenName": "Stephen",
             "familyName": "Gange",
@@ -1249,6 +1461,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Elizabeth Topper",
             "givenName": "Elizabeth",
             "familyName": "Topper",
@@ -1258,6 +1471,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Gypsyamber D’Souza",
             "givenName": "Gypsyamber",
             "familyName": "D’Souza",
@@ -1267,6 +1481,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "M. Bradley Drummond",
             "givenName": "M. Bradley",
             "familyName": "Drummond",
@@ -1276,6 +1491,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Michelle Floris-Moore",
             "givenName": "Michelle",
             "familyName": "Floris-Moore",
@@ -1285,6 +1501,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Joseph Margolick",
             "givenName": "Joseph",
             "familyName": "Margolick",
@@ -1294,6 +1511,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Todd Brown",
             "givenName": "Todd",
             "familyName": "Brown",
@@ -1303,6 +1521,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Deborah Gustafson",
             "givenName": "Deborah",
             "familyName": "Gustafson",
@@ -1312,6 +1531,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Tracey Wilson",
             "givenName": "Tracey",
             "familyName": "Wilson",
@@ -1321,6 +1541,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Margaret Fischl",
             "givenName": "Margaret",
             "familyName": "Fischl",
@@ -1330,6 +1551,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Deborah Jones",
             "givenName": "Deborah",
             "familyName": "Jones",
@@ -1339,6 +1561,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Maria Alcaide",
             "givenName": "Maria",
             "familyName": "Alcaide",
@@ -1348,6 +1571,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "David Hanna",
             "givenName": "David",
             "familyName": "Hanna",
@@ -1357,6 +1581,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Anjali Sharma",
             "givenName": "Anjali",
             "familyName": "Sharma",
@@ -1366,6 +1591,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Kathryn Anastos",
             "givenName": "Kathryn",
             "familyName": "Anastos",
@@ -1375,6 +1601,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Daniel Merenstein",
             "givenName": "Daniel",
             "familyName": "Merenstein",
@@ -1384,6 +1611,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Seble Kassaye",
             "givenName": "Seble",
             "familyName": "Kassaye",
@@ -1393,6 +1621,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Charles Rinaldo",
             "givenName": "Charles",
             "familyName": "Rinaldo",
@@ -1402,6 +1631,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Jeremy Martinson",
             "givenName": "Jeremy",
             "familyName": "Martinson",
@@ -1411,6 +1641,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Frank Palella",
             "givenName": "Frank",
             "familyName": "Palella",
@@ -1420,6 +1651,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Steven Wolinsky",
             "givenName": "Steven",
             "familyName": "Wolinsky",
@@ -1429,6 +1661,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Valentina Stosor",
             "givenName": "Valentina",
             "familyName": "Stosor",
@@ -1438,6 +1671,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Anandi Sheth",
             "givenName": "Anandi",
             "familyName": "Sheth",
@@ -1447,6 +1681,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Gina Wingood",
             "givenName": "Gina",
             "familyName": "Wingood",
@@ -1456,6 +1691,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Ighovwerha Ofotokun",
             "givenName": "Ighovwerha",
             "familyName": "Ofotokun",
@@ -1465,6 +1701,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Jennifer Price",
             "givenName": "Jennifer",
             "familyName": "Price",
@@ -1474,6 +1711,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Bradley Aouizerat",
             "givenName": "Bradley",
             "familyName": "Aouizerat",
@@ -1483,6 +1721,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Phyllis Tien",
             "givenName": "Phyllis",
             "familyName": "Tien",
@@ -1492,6 +1731,7 @@
             }
         },
         {
+            "@type": "Person",
             "name": "Audrey French",
             "givenName": "Audrey",
             "familyName": "French",
@@ -1500,6 +1740,7 @@
                 "name": "Hektoen Institute of Medicine"}
         },
         {
+            "@type": "Person",
             "name": "Mardge Cohen",
             "givenName": "Mardge",
             "familyName": "Cohen",
@@ -1508,6 +1749,7 @@
                 "name": "Hektoen Institute of Medicine"}
         },
         {
+            "@type": "Person",
             "name": "Ryan Ross",
             "givenName": "Ryan",
             "familyName": "Ross",
@@ -1516,6 +1758,7 @@
                 "name": "Hektoen Institute of Medicine"}
         },
         {
+            "@type": "Person",
             "name": "Matthew Mimiaga",
             "givenName": "Matthew",
             "familyName": "Mimiaga",
@@ -1525,6 +1768,7 @@
             }
         },
         {
+            "@type": "Person",
         "name": "Roger Detels",
         "givenName": "Roger",
         "familyName": "Detels",
@@ -1535,7 +1779,7 @@
         }
     ],
     "citedBy": {
-        "@type": "CreativeWork",
+        "@type": "Collection",
         "url": "https://airtable.com/appRssVqTxNurdU2E/shrcP2mA6bjkAiKZC/tblyDWmThDESuS6re",
         "name": "CCS Publications"
     },
@@ -1626,16 +1870,11 @@
         }
     ],
     "inLanguage": "English",
-    "includedInDataCatalog": [
-        {
-            "@type": "DataCatalog",
-            "name": "Data Discovery Engine"
-        },
-        {
-            "@type": "DataCatalog",
-            "name": "NIAID Data Ecosystem"
-        }
-    ],
+    "includedInDataCatalog": {
+        "@type": "DataCatalog",
+        "name": "NIAID Data Ecosystem",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
     "mainEntityOfPage": "https://statepi.jhsph.edu/mwccs/",
     "hasAPI": false,
     "hasDownload": "Prohibited"
