@@ -236,15 +236,22 @@
     "temporalCoverage": {
         "@type": "TemporalInterval", 
         "temporalType": "Collection", 
-        "startDate": "1987", 
+        "startDate": "1987-01-01", 
         "duration": "1987/.."
     },
+    "datePublished": "2007-09-21",
+    "dateCreated": "1987-01-01",
     "topicCoverage": [
         "http://edamontology.org/topic_0804", 
         "http://edamontology.org/topic_3277", 
         "http://edamontology.org/topic_3305", 
         "http://edamontology.org/topic_3324"
     ],
+    "inLanguage": {
+        "@type": "Language",
+        "name": "English"
+    },
+    "isAccessibleForFree": true,
     "collectionSize": [
         {
             "@type": "PropertyValue",
