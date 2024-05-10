@@ -1,0 +1,266 @@
+{
+    "@type": "nde:ResourceCatalog",
+    "@context": {
+        "schema": "http://schema.org/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "bioschemas": "https://discovery.biothings.io/view/bioschemas/",
+        "niaid": "https://discovery.biothings.io/view/niaid/",
+        "nde": "https://discovery.biothings.io/view/nde/"
+    },
+    "citedBy": [
+        {
+            "@type": "Collection",
+            "url": "https://actgnetwork.org/publications/",
+            "author": {
+                "@type": "Organization",
+                "name": "AIDS Clinical Trial Group"
+            },
+            "name": "ACTG Publications"
+        },
+        {
+            "@type": "Collection",
+            "author": {
+                "@type": "Organization",
+                "name": "AIDS Clinical Trials Group",
+                "alternateName": "ACTG"
+            },
+            "name": "ACTG Study Results Library",
+            "description": "As part of a pilot campaign, the ACTG AEC Communications Subcommittee is creating a library of ACTG study result slides that will provide insight into the broad range of our work. These short, lay-language slides will be public facing, here on the ACTG public website, and for site use in presentations to various audiences (including Community Advisory Boards). The slide decks below are available for download. We’ll be updating this page with new slide decks, so continue to check back regularly!",
+            "url": "https://actgnetwork.org/homepage/study-results/"
+        }
+    ],
+    "date": "2024-05-10",
+    "infectiousAgent": [
+        "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+        "http://purl.obolibrary.org/obo/NCBITaxon_11709"
+    ],
+    "healthCondition": "http://purl.obolibrary.org/obo/MONDO_0012268",
+    "funding": [
+       {
+            "@type": "MonetaryGrant",
+            "funder": [
+               {
+                    "@type": "Organization",
+                    "name": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            ],
+            "identifier": "AI068634"
+        },
+       {
+            "@type": "MonetaryGrant",
+            "funder": [
+               {
+                    "@type": "Organization",
+                    "name": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            ],
+            "identifier": "AI106701"
+        },
+       {
+            "@type": "MonetaryGrant",
+            "identifier": "AI068636",
+            "funder": [
+                {
+                    "@type": "Organization",
+                    "name": "NIAID",
+                    "parentOrganization": "NIH"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NIDA",
+                    "parentOrganization": "NIH"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "NINDS",
+                    "parentOrganization": "NIH"
+                },
+                {
+                    "@type": "Organization",
+                    "name": "OD",
+                    "parentOrganization": "NIH"
+                }
+            ]
+        }
+    ],
+    "species": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+    "measurementTechnique": "http://purl.obolibrary.org/obo/NCIT_C71104",
+    "abstract": "ACTG is a NIAID supported IID repository that includes clinical study results",
+    "author": {
+        "@type": "Organization",
+        "name": "AIDS Clinical Trials Group network",
+        "alternateName": "ACTG network"
+    },
+    "genre": "IID",
+    "conditionsOfAccess": "Open",
+    "hasAPI": false,
+    "hasDownload": "Record-level",
+    "isAccessibleForFree": true,
+    "alternateName": "ACTG",
+    "description": "ACTG is a global clinical trials network that conducts research to improve the management of HIV and its comorbidities; develop a cure for HIV; and innovate treatments for tuberculosis, hepatitis B, and emerging infectious diseases. ACTG is the world’s largest and longest running clinical trials network focused on HIV and other infectious diseases and the people living with them. Founded in 1987, it comprises thousands of dedicated researchers, staff, and community members who are pursuing research into novel treatments and cures for infectious diseases at 65 locations across four continents, with the ultimate goal of advancing science that meaningfully impacts the lives of the people we serve.",
+    "identifier": "https://actgnetwork.org/",
+    "name": "AIDS Clinical Trials Group",
+    "url": "https://actgnetwork.org/",
+    "spatialCoverage": [
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "United States of America",
+            "alternateName": "USA",
+            "identifier": "Q30",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Brazil",
+            "identifier": "Q155",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Peru",
+            "identifier": "Q419",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Mexico",
+            "identifier": "Q96",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Vietnam",
+            "identifier": "Q881",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "South Africa",
+            "identifier": "Q258",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Philippines",
+            "identifier": "Q928",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Thailand",
+            "identifier": "Q869",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "India",
+            "identifier": "Q668",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Malawi",
+            "identifier": "Q1020",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Uganda",
+            "identifier": "Q1036",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Kenya",
+            "identifier": "Q114",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Argentina",
+            "identifier": "Q414",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Haiti",
+            "identifier": "Q790",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Botswana",
+            "identifier": "Q963",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Zimbabwe",
+            "identifier": "Q954",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Canada",
+            "identifier": "Q16",
+            "locationType": "study location"
+        },
+        {
+            "@type": "AdministrativeArea",
+            "administrativeType": "country",
+            "name": "Tanzania",
+            "identifier": "Q924",
+            "locationType": "study location"
+        }
+    ],
+    "temporalCoverage": {
+        "@type": "TemporalInterval", 
+        "temporalType": "Collection", 
+        "startDate": "1987", 
+        "duration": "1987/.."
+    },
+    "topicCoverage": [
+        "http://edamontology.org/topic_0804", 
+        "http://edamontology.org/topic_3277", 
+        "http://edamontology.org/topic_3305", 
+        "http://edamontology.org/topic_3324"
+    ],
+    "collectionSize": [
+        {
+            "@type": "PropertyValue",
+            "minValue": 7,
+            "unitText": "Study Result slides"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 190,
+            "unitText": "Clinical Sites"
+        },
+        {
+            "@type": "PropertyValue",
+            "minValue": 40,
+            "unitText": "Clinical Trials"
+        }
+    ],
+    "collectionType": "Registry"
+}
