@@ -235,7 +235,7 @@
     ],
     "temporalCoverage": {
         "@type": "TemporalInterval", 
-        "temporalType": "Collection", 
+        "temporalType": "collection", 
         "startDate": "1987-01-01", 
         "duration": "1987/.."
     },
