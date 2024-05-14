@@ -244,6 +244,11 @@
             "http://purl.obolibrary.org/obo/NCIT_C37965",
             "http://www.ebi.ac.uk/efo/EFO_0006952",
             "http://purl.obolibrary.org/obo/NCIT_C13407"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/CHEBI_25903",
+            "http://purl.obolibrary.org/obo/ARO_3000708",
+            "http://purl.obolibrary.org/obo/NCIT_C103240"
         ]
     },
     {
@@ -458,6 +463,11 @@
             "http://edamontology.org/topic_0611",
             "http://edamontology.org/topic_1317",
             "http://edamontology.org/topic_0781"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C43687",
+            "http://purl.obolibrary.org/obo/NCIT_C13282",
+            "http://purl.obolibrary.org/obo/NCIT_C19152"
         ],
         "measurementTechnique": [
             "http://edamontology.org/topic_3383",
@@ -675,6 +685,11 @@
             "http://edamontology.org/topic_0121",
             "http://edamontology.org/topic_0078",
             "http://edamontology.org/topic_3922"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_3366",
+            "http://edamontology.org/topic_0102",
+            "http://edamontology.org/data_0945"
         ]
     },
     {
@@ -1101,7 +1116,7 @@
                 "url": "https://fairsharing.org/FAIRsharing.s1ne3g"
             }
         ],
-        "-1": [
+        "sameAs": [
             "https://www.wikidata.org/wiki/Q905695",
             "https://registry.identifiers.org/registry/uniprot"
         ],
@@ -1118,6 +1133,11 @@
         ],
         "variableMeasured": [
             "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ],
+        "keywords": [
+            "http://edamontology.org/operation_3282",
+            "http://edamontology.org/data_0896",
+            "http://purl.obolibrary.org/obo/NCIT_C43687"
         ]
     }
 ]
