@@ -1,0 +1,1123 @@
+[
+    {
+        "name": "Database of Antimicrobial Activity and Structure of Peptides",
+        "url": "https://dbaasp.org/home",
+        "identifier": "https://dbaasp.org/home",
+        "alternateName": "DBAASP",
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": "https://dbaasp.org/DBAASP_Terms_And_Conditions.pdf",
+        "abstract": "DBAASP is a NIAID supported IID repository that includes structure data.",
+        "description": "The Database of Antimicrobial Activity and Structure of Peptides (DBAASP) has been created to provide users with detailed information on experimentally tested peptides regarding their chemical structure and activity against specific targets. The database is manually curated and contains information on ribosomal, nonribosomal, and synthetic peptides that show antimicrobial activity as Monomers, Multimers, and Multi-Peptides.",
+        "collectionType": "Database",
+        "hasAPI": true,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateCreated": "2014-04-14",
+        "@type": "nde:ResourceCatalog",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HHSN316201300006W",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HHSN27200002",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Malak Pirtskhalava",
+                "givenName": "Malak",
+                "familyName": "Pirtskhalava",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Ivane Beritashvili Center of Experimental Biomedicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Anthony A Amstrong",
+                "givenName": "Anthony",
+                "familyName": "Amstrong",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Office of Cyber Infrastructure and Computational Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Maia Grigolava",
+                "givenName": "Maia",
+                "familyName": "Grigolava",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Ivane Beritashvili Center of Experimental Biomedicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Mindia Chubinidze",
+                "givenName": "Mindia",
+                "familyName": "Chubinidze",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Ivane Beritashvili Center of Experimental Biomedicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Evgenia Alimbarashvili",
+                "givenName": "Evgenia",
+                "familyName": "Alimbarashvili",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Ivane Beritashvili Center of Experimental Biomedicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Boris Vishnepolsky",
+                "givenName": "Boris",
+                "familyName": "Vishnepolsky",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Ivane Beritashvili Center of Experimental Biomedicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Andrei Gabrielian",
+                "givenName": "Andrei",
+                "familyName": "Gabrielian",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Office of Cyber Infrastructure and Computational Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Alex Rosenthal",
+                "givenName": "Alex",
+                "familyName": "Rosenthal",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Office of Cyber Infrastructure and Computational Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Darrell E Hurt",
+                "givenName": "Darrell",
+                "familyName": "Hurt",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Office of Cyber Infrastructure and Computational Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Michael Tartakovsky",
+                "givenName": "Michael",
+                "familyName": "Tartakovsky",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Office of Cyber Infrastructure and Computational Biology"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 20693,
+                "unitText": "monomer",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 339,
+                "unitText": "multimer",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 235,
+                "unitText": "multi-peptide",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 678,
+                "unitText": "records with synergistic activities",
+                "@type": "PropertyValue"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Side-chain hydrophobicity scale derived from transmembrane protein folding into lipid bilayers",
+                "pmid": 21606332
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Comparative analysis of machine learning algorithms on the microbial strain-specific AMP prediction",
+                "pmid": 35724561
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Predictive Model of Linear Antimicrobial Peptides Active against Gram-Negative Bacteria",
+                "pmid": 29716188
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A simple method for displaying the hydropathic character of a protein",
+                "pmid": 7108955
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Experimentally determined hydrophobicity scale for proteins at membrane interfaces",
+                "pmid": 8836100
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The hydrophobic moment detects periodicity in protein hydrophobicity",
+                "pmid": 6582470
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A unified hydrophobicity scale for multispan membrane proteins",
+                "pmid": 19089980
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Recognition of transmembrane helices by the endoplasmic reticulum transloco",
+                "pmid": 15674282
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_1"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_2814",
+            "http://edamontology.org/topic_0209",
+            "http://edamontology.org/topic_3301"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4751"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C128985",
+            "http://www.bioassayontology.org/bao#BAO_0002993",
+            "http://www.bioassayontology.org/bao#BAO_0002216"
+        ],
+        "variableMeasured": [
+            "http://www.bioassayontology.org/bao#BAO_0002146",
+            "http://purl.obolibrary.org/obo/NCIT_C37965",
+            "http://www.ebi.ac.uk/efo/EFO_0006952",
+            "http://purl.obolibrary.org/obo/NCIT_C13407"
+        ]
+    },
+    {
+        "name": "Electron Microscopy Data Bank",
+        "url": "https://www.ebi.ac.uk/emdb/",
+        "identifier": "https://www.ebi.ac.uk/emdb/",
+        "alternateName": "EMDB",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": "https://www.ebi.ac.uk/emdb/documentation/policies#5-1-1",
+        "abstract": "EMDB is a basic science repository that includes image data.",
+        "description": "The Electron Microscopy Data Bank (EMDB) is a public repository for cryogenic-sample Electron Microscopy (cryoEM) volumes and representative tomograms of macromolecular complexes and subcellular structures. It covers a variety of techniques, including single-particle analysis, helical reconstruction, electron tomography, subtomogram averaging, and electron crystallography (for more information, see the\u00a0EMDB Policies). ",
+        "collectionType": "Database",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "basic science",
+        "dateModified": "2024-05-08",
+        "datePublished": "2013-04-02",
+        "@type": "nde:ResourceCatalog",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "BB/P025846/1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "BB/V004247/1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "20-BBSRC/NSF-BIO",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "BB/W017970/1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "23ama121001",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "AMED"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "JPMJND2205",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NBDC",
+                    "parentOrganization": "Japan Science and Technology Agency"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "CORP:DG:3191",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Ministry of Electronics and Information Technology"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM079429",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM109046",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM133198",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-1832184",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-2019297",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DESC0019749",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "U.S. Department of Energy",
+                    "alternateName": "DOE"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "104948/Z/14/Z",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Wellcome Trust"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "212977/Z/18/Z",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Wellcome Trust"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "218303/Z/19/Z",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Wellcome Trust"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Worldwide Protein Data Bank",
+                "alternateName": "wwPDB"
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 35330,
+                "unitText": "entry",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ebi.ac.uk/pub/databases/emdb/",
+                "dateModified": "2024-05-08"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.651n9j"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q5323651",
+            "https://registry.identifiers.org/registry/emdb"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0611",
+            "http://edamontology.org/topic_1317",
+            "http://edamontology.org/topic_0781"
+        ],
+        "measurementTechnique": [
+            "http://edamontology.org/topic_3383",
+            "http://purl.obolibrary.org/obo/NCIT_C16854",
+            "http://purl.obolibrary.org/obo/NCIT_C19588",
+            "http://purl.obolibrary.org/obo/NCIT_C38093"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C13738",
+            "http://purl.obolibrary.org/obo/NCIT_C28272",
+            "http://purl.obolibrary.org/obo/NCIT_C47876"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_32630",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9913",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9986"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_562",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4932",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676"
+        ]
+    },
+    {
+        "name": "PeptideAtlas",
+        "url": "http://www.peptideatlas.org/",
+        "identifier": "http://www.peptideatlas.org/",
+        "license": "https://peptideatlas.org/repository/",
+        "conditionsOfAccess": "Open",
+        "abstract": "PeptideAtlas is a NIH supported biomedical repository that includes proteomic data.",
+        "description": "PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched using the latest search engines and protein sequences. All results of sequence and spectral library searching are subsequently processed through the Trans Proteomic Pipeline to derive a probability of correct identification for all results in a uniform manner to insure a high quality database, along with false discovery rates at the whole atlas level. Results may be queried and browsed at the PeptideAtlas web site. The raw data, search results, and full builds can also be downloaded for other uses. ",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "biomedical",
+        "dateModified": "2024-02-07",
+        "dateCreated": "2010-02-01",
+        "datePublished": "2010-02-01",
+        "@type": "nde:ResourceCatalog",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-2324882",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-1933311",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "IOS-1922871",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM148372",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM087221",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "N01-HV-28179",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "alternateName": "NHLBI",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Moritz Lab",
+                "parentOrganization": "Institute for Systems Biology"
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 96,
+                "unitText": "build",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://peptideatlas.org/builds/",
+                "dateModified": "2019-02-01"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "ProteoMapper Online",
+                "url": "https://peptideatlas.org/map/",
+                "description": "A tool for mapping a peptide sequence or list of sequences to PeptideAtlas"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "DataCatalog",
+                "name": "Tiered Human Integrated Search Proteome",
+                "url": "https://peptideatlas.org/thisp/",
+                "description": "In order to provide human proteomics MS/MS search databases that are well defined, comprehensive, and frequently updated, we have developed an automated system that integrates all of major sources of human protein sequences into a set of search databases. These databases are tiered into several levels of complexity from which researchers may choose depending on the goal of the experiment and the data processing resources available."
+            }
+        ],
+        "sameAs": [
+            "https://registry.identifiers.org/registry/peptideatlas",
+            "https://www.wikidata.org/wiki/Q24884023"
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.dvyrsz"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_3702",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6945",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7215",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7460",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9796",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4577",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9913",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4530",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_84645",
+            "http://purl.obolibrary.org/obo/NCBITaxon_64091"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_5868",
+            "http://purl.obolibrary.org/obo/NCBITaxon_38323",
+            "http://purl.obolibrary.org/obo/NCBITaxon_224326",
+            "http://purl.obolibrary.org/obo/NCBITaxon_237561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_562",
+            "http://purl.obolibrary.org/obo/NCBITaxon_173",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5833",
+            "http://purl.obolibrary.org/obo/NCBITaxon_73239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_287",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93062",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93061",
+            "http://purl.obolibrary.org/obo/NCBITaxon_373153",
+            "http://purl.obolibrary.org/obo/NCBITaxon_170187",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1314",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4932",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4896"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C17156",
+            "http://purl.obolibrary.org/obo/NCIT_C18475",
+            "http://purl.obolibrary.org/obo/NCIT_C122168",
+            "http://edamontology.org/topic_3520"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C84383"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0121",
+            "http://edamontology.org/topic_0078",
+            "http://edamontology.org/topic_3922"
+        ]
+    },
+    {
+        "name": "UniProt",
+        "url": "https://www.uniprot.org/",
+        "identifier": "https://www.uniprot.org/",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": "https://www.uniprot.org/help/license",
+        "abstract": "UniProt is a NIAID supported basic science repository that includes proteomic data.",
+        "description": "The UniProt Knowledgebase (UniProtKB) is the central hub for the collection of functional information on proteins, with accurate, consistent and rich annotation. In addition to capturing the core data mandatory for each UniProtKB entry (mainly, the amino acid sequence, protein name or description, taxonomic data and citation information), as much annotation information as possible is added. This includes widely accepted biological ontologies, classifications and cross-references, and clear indications of the quality of annotation in the form of evidence attribution of experimental and computational data. The UniProt Knowledgebase consists of two sections: a reviewed section containing manually-annotated records with information extracted from literature and curator-evaluated computational analysis (aka \"UniProtKB/Swiss-Prot\"), and an unreviewed section with computationally analyzed records that await full manual annotation (aka \"UniProtKB/TrEMBL\").",
+        "collectionType": "Knowledgebase",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "Release 2024_02",
+        "genre": "basic science",
+        "dateModified": "2024-03-27",
+        "dateCreated": "1986-11-27",
+        "datePublished": "2003-12-14",
+        "@type": "nde:ResourceCatalog",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "core funds",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "European Molecular Biology Laboratory",
+                    "alternateName": "EMBL"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "ARUK-NAS2017A-1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Alzheimer's Research UK",
+                    "alternateName": "ARUK"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "BB/T010541/1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "State Secretariat for Education, Research and Innovation",
+                    "alternateName": "SERI",
+                    "parentOrganization": "Swiss Federal Government"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01GM080646",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "G08LM010720",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "P20GM103446",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-1062520",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "and the National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U24HG007822",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Eye Institute",
+                        "alternateName": "NEI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Human Genome Research Institute",
+                        "alternateName": "NHGRI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Heart, Lung, and Blood Institute ",
+                        "alternateName": "NHLBI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute on Aging",
+                        "alternateName": "NIA",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Allergy and Infectious Diseases",
+                        "alternateName": "NIAID",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "alternateName": "NIDDK",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of General Medical Sciences",
+                        "alternateName": "NIGMS",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Mental Health",
+                        "alternateName": "NIMH",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Cancer Institute",
+                        "alternateName": "NCI",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "European Bioinformatics Institute",
+                "alternateName": "EMBL-EBI",
+                "parentOrganization": "European Molecular Biology Laboratory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swiss Institute of Bioinformatics",
+                "alternateName": "SIB "
+            },
+            {
+                "@type": "Organization",
+                "name": "Protein Information Resource",
+                "alternateName": "PIR"
+            },
+            {
+                "@type": "Person",
+                "name": "Alex Bateman",
+                "givenName": "Alex",
+                "familyName": "Bateman",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Alan Bridge",
+                "givenName": "Alan",
+                "familyName": "Bridge",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Cathy Wu",
+                "givenName": "Cathy",
+                "familyName": "Wu",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lionel Breuza",
+                "givenName": "Lionel",
+                "familyName": "Breuza",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Elisabeth Courdet",
+                "givenName": "Elisabeth",
+                "familyName": "Courdet",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Damien Lieberherr",
+                "givenName": "Damien",
+                "familyName": "Lieberherr",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ivo Pedruzzi",
+                "givenName": "Ivo",
+                "familyName": "Pedruzzi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Sylvain Poux",
+                "givenName": "Sylvain",
+                "familyName": "Poux",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Nicole Redaschi",
+                "givenName": "Nicole",
+                "familyName": "Redaschi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Michele Magrane",
+                "givenName": "Michele",
+                "familyName": "Magrane",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Sandra E. Orchard",
+                "givenName": "Sandra",
+                "familyName": "Orchard",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rafael Santos",
+                "givenName": "Rafael",
+                "familyName": "Santos",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Hongzhan Huang",
+                "givenName": "Hongzhan",
+                "familyName": "Huang",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Peter B. McGarvey",
+                "givenName": "Peter",
+                "familyName": "McGarvey",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Darren Natale",
+                "givenName": "Darren",
+                "familyName": "Natale",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Karen Ross",
+                "givenName": "Karen",
+                "familyName": "Ross",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 248805733,
+                "unitText": "entries",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 571282,
+                "unitText": "reviewed entries",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 248234451,
+                "unitText": "unreviewed entries",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.uniprot.org/help/downloads",
+                "dateModified": "2024-03-27"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Swiss-Prot",
+                "url": "https://www.uniprot.org/uniprotkb?query=reviewed:true",
+                "description": "UniProtKB/Swiss-Prot is the expertly curated component of UniProtKB (produced by the UniProt consortium). It contains hundreds of thousands of protein descriptions, including function, domain structure, subcellular location, post-translational modifications and functionally characterized variants."
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "TrEMBL",
+                "url": "https://www.uniprot.org/uniprotkb?query=reviewed:false",
+                "description": "TREMBL consists of computer-annotated entries in SWISS-PROT format derived from the translation of all coding sequences (CDS) in the EMBL nucleotide sequence database, except for CDS already included in SWISS-PROT."
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "ELIXIR Core Data Resources",
+                "url": "https://elixir-europe.org/platforms/data/core-data-resources",
+                "description": "ELIXIR Core Data Resources are a set of European data resources of fundamental importance to the wider life-science community and the long-term preservation of biological data."
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Annotation of biologically relevant ligands in UniProtKB using ChEBI",
+                "pmid": 36484697
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A crowdsourcing open platform for literature curation in UniProt",
+                "pmid": 34871295
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets",
+                "pmid": 32716361
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "An enhanced workflow for variant interpretation in UniProtKB/Swiss-Prot improves consistency and reuse in ClinVar",
+                "pmid": 30937429
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.s1ne3g"
+            }
+        ],
+        "-1": [
+            "https://www.wikidata.org/wiki/Q905695",
+            "https://registry.identifiers.org/registry/uniprot"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0078",
+            "http://edamontology.org/topic_0085",
+            "http://edamontology.org/topic_0623"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_1"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ]
+    }
+]
