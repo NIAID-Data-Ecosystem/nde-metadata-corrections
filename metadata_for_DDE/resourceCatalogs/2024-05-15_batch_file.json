@@ -8,6 +8,7 @@
         "conditionsOfAccess": "Open",
         "usageInfo": {
             "@type": "CreativeWork",
+            "name": "Conditions of use",
             "url": "https://dbaasp.org/DBAASP_Terms_And_Conditions.pdf"
         },
         "abstract": "DBAASP is a NIAID supported IID repository that includes structure data.",
@@ -264,6 +265,7 @@
         "conditionsOfAccess": "Open",
         "usageInfo": {
             "@type": "CreativeWork",
+            "name": "Conditions of use",
             "url": "https://www.ebi.ac.uk/emdb/documentation/policies#5-1-1"
         },
         "abstract": "EMDB is a basic science repository that includes image data.",
@@ -511,6 +513,7 @@
         "conditionsOfAccess": "Open",
         "usageInfo": {
             "@type": "CreativeWork",
+            "name": "Conditions of use",
             "url": "None"
         },
         "abstract": "PeptideAtlas is a NIH supported biomedical repository that includes proteomic data.",
@@ -713,6 +716,7 @@
         "conditionsOfAccess": "Open",
         "usageInfo": {
             "@type": "CreativeWork",
+            "name": "Conditions of use",
             "url": "https://www.uniprot.org/help/license"
         },
         "abstract": "UniProt is a NIAID supported basic science repository that includes proteomic data.",
