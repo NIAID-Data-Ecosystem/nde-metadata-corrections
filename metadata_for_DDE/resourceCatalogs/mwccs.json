@@ -16,6 +16,7 @@
     "genre": "IID",
     "alternateName": ["MWCCS","MACS/WIHS Combined Cohort Study"],
     "collectionType": "Data Collection",
+    "abstract": "MWCCS is a NIAID supported IID repository that includes clinical data.",
     "measurementTechnique": [
         "http://purl.obolibrary.org/obo/NCIT_C17176",
         "http://purl.obolibrary.org/obo/NCIT_C17048",
