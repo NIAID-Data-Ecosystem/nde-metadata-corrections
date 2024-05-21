@@ -125,6 +125,9 @@
             "http://purl.obolibrary.org/obo/NCBITaxon_10239",
             "http://purl.obolibrary.org/obo/NCBITaxon_2697049"
         ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
         "species": [
             "http://purl.obolibrary.org/obo/NCBITaxon_131567"
         ],
