@@ -521,11 +521,6 @@
         "identifier": "http://www.peptideatlas.org/",
         "license": "https://peptideatlas.org/repository/",
         "conditionsOfAccess": "Open",
-        "usageInfo": {
-            "@type": "CreativeWork",
-            "name": "Conditions of use",
-            "url": "None"
-        },
         "abstract": "PeptideAtlas is a NIH supported biomedical repository that includes proteomic data.",
         "description": "PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched using the latest search engines and protein sequences. All results of sequence and spectral library searching are subsequently processed through the Trans Proteomic Pipeline to derive a probability of correct identification for all results in a uniform manner to insure a high quality database, along with false discovery rates at the whole atlas level. Results may be queried and browsed at the PeptideAtlas web site. The raw data, search results, and full builds can also be downloaded for other uses. ",
         "collectionType": "Database",
