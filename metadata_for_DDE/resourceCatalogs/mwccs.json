@@ -1887,6 +1887,11 @@
         "url": "https://discovery.biothings.io/portal/nde"
     },
     "mainEntityOfPage": "https://statepi.jhsph.edu/mwccs/",
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
     "hasAPI": false,
     "hasDownload": "Prohibited"
 }

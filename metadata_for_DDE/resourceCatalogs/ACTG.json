@@ -252,6 +252,11 @@
         "name": "English"
     },
     "isAccessibleForFree": true,
+    "sdPublisher": {
+        "@type": "DataCatalog",
+        "name": "Data Discovery Engine",
+        "url": "https://discovery.biothings.io/portal/nde"
+    },
     "collectionSize": [
         {
             "@type": "PropertyValue",

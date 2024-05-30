@@ -11,10 +11,16 @@
     },
     "date": "2024-01-24",
     "includedInDataCatalog": [
-        {"name": "FAIRsharing.org",
-        "url": "https://fairsharing.org/"},
-        {"name": "Data Discovery Engine",
-        "url": "https://discovery.biothings.io/portal/nde"}
+        {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "FAIRsharing.org",
+            "url": "https://fairsharing.org/FAIRsharing.c886cd"
+        }
     ],
     "name": "Immune Epitope Database",
     "description": "The Immune Epitope Database (IEDB) is a freely available resource funded by NIAID. It catalogs experimental data on antibody and T cell epitopes studied in humans and other animal species in the context of infectious disease, allergy, autoimmunity and transplantation. The IEDB also hosts epitope prediction and analysis tools, and has a companion site, CEDAR (funded by NCI), which houses cancer epitopes.",
@@ -37,11 +43,18 @@
             "name": "Swapnil Mahajan"
         }
     ],
-    "sdPublisher": {
-        "@type": "DataCatalog",
-        "name": "Data Discovery Engine",
-        "url": "https://discovery.biothings.io/portal/nde"
-    },
+    "sdPublisher": [
+        {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        {
+            "@type": "DataCatalog",
+            "name": "FAIRsharing.org",
+            "url": "https://fairsharing.org/"
+        }
+    ],
     "distribution": {
         "@type": "DataDownload",
         "dateModified": "2023-11-10",

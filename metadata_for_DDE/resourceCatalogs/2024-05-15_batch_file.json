@@ -250,6 +250,11 @@
             "http://www.ebi.ac.uk/efo/EFO_0006952",
             "http://purl.obolibrary.org/obo/NCIT_C13407"
         ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
         "keywords": [
             "http://purl.obolibrary.org/obo/CHEBI_25903",
             "http://purl.obolibrary.org/obo/ARO_3000708",
@@ -460,7 +465,12 @@
         ],
         "sdPublisher": [
             {
-                "@type": "ResourceCatalog",
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            },
+            {
+                "@type": "DataCatalog",
                 "name": "Fairsharing.org",
                 "url": "https://fairsharing.org/FAIRsharing.651n9j"
             }
@@ -644,7 +654,12 @@
         ],
         "sdPublisher": [
             {
-                "@type": "ResourceCatalog",
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            },
+            {
+                "@type": "DataCatalog",
                 "name": "Fairsharing.org",
                 "url": "https://fairsharing.org/FAIRsharing.dvyrsz"
             }
@@ -1132,7 +1147,12 @@
         ],
         "sdPublisher": [
             {
-                "@type": "ResourceCatalog",
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            },
+            {
+                "@type": "DataCatalog",
                 "name": "Fairsharing.org",
                 "url": "https://fairsharing.org/FAIRsharing.s1ne3g"
             }

@@ -89,13 +89,18 @@
         ],
         "sdPublisher": [
             {
-                "@type": "ResourceCatalog",
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            },
+            {
+                "@type": "DataCatalog",
                 "name": "Fairsharing.org",
                 "url": "https://doi.org/10.25504/FAIRsharing.d38075"
             },
             {
-                "@type": "ResourceCatalog",
-                "name": "NCBI Virus Variation Resource",
+                "@type": "DataCatalog",
+                "name": "re3data.org",
                 "url": "https://www.re3data.org/repository/r3d100011005"
             }
         ],
@@ -827,7 +832,12 @@
         ],
         "sdPublisher": [
             {
-                "@type": "ResourceCatalog",
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            },
+            {
+                "@type": "DataCatalog",
                 "name": "Fairsharing.org",
                 "url": "https://doi.org/10.25504/FAIRsharing.q04phv"
             }
