@@ -345,7 +345,7 @@
             },
             {
                 "@type": "MonetaryGrant",
-                "identifier": 2035515,
+                "identifier": "2035515",
                 "funder": {
                     "@type": "Organization",
                     "name": "National Science Foundation",
@@ -372,7 +372,7 @@
             },
             {
                 "@type": "MonetaryGrant",
-                "identifier": 2039324,
+                "identifier": "2039324",
                 "funder": {
                     "@type": "Organization",
                     "name": "National Science Foundation",
@@ -1064,6 +1064,7 @@
             "url": "https://clinicalgenome.org/docs/terms-of-use/"
         },
         "abstract": "ClinicalGenomeResource (ClinGen) is a NIH supported biomedical repository that includes genomic data.",
+        "description": "ClinGen is a National Institutes of Health (NIH)-funded resource dedicated to building an authoritative central resource that defines the clinical relevance of genes and variants for use in precision medicine and research.",
         "collectionType": "Knowledge base",
         "hasAPI": true,
         "hasDownload": "All content",
