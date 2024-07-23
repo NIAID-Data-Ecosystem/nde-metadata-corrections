@@ -1,0 +1,782 @@
+[
+    {
+        "name": "ACTG/IMPAACT Specimen Repository",
+        "url": "http://www.specimenrepository.org/RepositorySite/home.html",
+        "identifier": "http://www.specimenrepository.org/RepositorySite/home.html",
+        "alternateName": "Specimen Repository",
+        "license": "https://www.specimenrepository.org/RepositorySite/support.html",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.specimenrepository.org/RepositorySite/proposals.html"
+        },
+        "abstract": "ACTG/IMPAACT Specimen Repository is a NIAID supported IID repository that includes biospecimen data.",
+        "description": "When studies for large-scale clinical trials are completed, many human biological specimens remain in storage facilities. The purpose of this website is to make those specimens available to researchers and investigators to conduct new and innovative work. The specimens on this website are stored in ACTG, IMPAACT, and HVTN repositories and are available to investigators conducting new research. Find specimens collected for large global HIV clinical trials that are available for new research.",
+        "collectionType": "Repository",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2.0.2.0",
+        "genre": "IID",
+        "dateCreated": "2014-08-20",
+        "datePublished": "2014-08-20",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-23",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UM1AI068616",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Allergy and Infectious Diseases",
+                        "alternateName": "NIAID",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                        "alternateName": "NICHD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UM1AI068636",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Allergy and Infectious Diseases",
+                        "alternateName": "NIAID",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute on Drug Abuse",
+                        "alternateName": "NIDA",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Neurological Disorders and Stroke",
+                        "alternateName": "NINDS",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "AIDS Clinical Trials Group Network",
+                "alternateName": "ACTG Network",
+                "identifier": "https://ror.org/02yz1n812"
+            },
+            {
+                "@type": "Organization",
+                "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials Network",
+                "alternateName": "IMPAACT Network"
+            },
+            {
+                "@type": "Organization",
+                "name": "HIV Vaccine Trials Network",
+                "alternateName": "HVTN"
+            },
+            {
+                "@type": "Organization",
+                "name": "Frontier Science & Technology Research Foundation",
+                "alternateName": "Frontier Science",
+                "identifier": "https://ror.org/04hbhf775"
+            },
+            {
+                "@type": "Organization",
+                "name": "Statistical Center for HIV/AIDS Research and Prevention",
+                "alternateName": "SCHARP",
+                "parentOrganization": "Fred Hutch Cancer Center"
+            },
+            {
+                "@type": "Person",
+                "name": "Judith S. Currier",
+                "givenName": "Judith",
+                "familyName": "Currier",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of California, Los Angeles"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Joseph J. Eron",
+                "givenName": "Joseph",
+                "familyName": "Eron",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of California, Los Angeles"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David E. Shapiro",
+                "givenName": "David",
+                "familyName": "Shapiro",
+                "alternateName": "David Eric Shapiro",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Harvard School of Public Health"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Marlene A. Cooper",
+                "givenName": "Marlene",
+                "familyName": "Cooper",
+                "alternateName": "Marlene Ann Cooper",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Harvard School of Public Health"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 5712238,
+                "unitText": "total specimens",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 28,
+                "unitText": "specimen types",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 367,
+                "unitText": "studies",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 58720,
+                "unitText": "unique participants",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isSimilarTo": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "BEI Resources",
+                "url": "https://www.beiresources.org/"
+            }
+        ],
+        "sameAs": [
+            "https://actgnetwork.org/specimen-repository-website/"
+        ],
+        "isBasedOn": [
+            {
+                "@type": "CreativeWork",
+                "name": "BARC Global Central Laboratory Biorepository Solutions",
+                "url": "https://cerbaresearch.com/central-laboratory-solutions/logistic-excellence/biobanking-and-storage/"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Biomedical Research Institute BioRepository Services",
+                "url": "https://www.afbr-bri.org/biorepository-specimen-storage/"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Fisher BioServices",
+                "url": "https://www.thermofisher.com/us/en/home/clinical/biobanking/fisher-bioservices.html"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "Precision for Medicine Biospecimens",
+                "url": "https://www.precisionformedicine.com/biospecimens"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "LabVantage Biobanking Laboratory Information Management Service",
+                "url": "https://www.labvantage.com/industries/biobanking/"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "AIDS Clinical Trials Group",
+                "url": "https://data.niaid.nih.gov/resources?id=dde_94c560d2fe14b1b1"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "International Maternal Pediatric Adolescent AIDS Clinical Trials network (IMPAACT)",
+                "url": "https://www.impaactnetwork.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "HIV Vaccine Trials Network (HVTN)",
+                "url": "https://www.hvtn.org/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "CreativeWork",
+                "name": "IMPAACT Request Process",
+                "url": "https://www.impaactnetwork.org/resources#propose"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "HVTN Request Process",
+                "url": "https://www.hvtn.org/scientific-programs/scientific-programs-overview/hvtn-trials.html"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "ACTG Request Process",
+                "url": "https://actgnetwork.org/submit-a-proposal-2/"
+            }
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5475",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1763",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3052230"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0012268",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0005231",
+            "http://purl.obolibrary.org/obo/MONDO_0002039",
+            "http://purl.obolibrary.org/obo/MONDO_0005071",
+            "http://purl.obolibrary.org/obo/MONDO_0002026"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C70713",
+            "http://purl.obolibrary.org/obo/NCIT_C25429",
+            "http://purl.obolibrary.org/obo/NCIT_C15206"
+        ]
+    },
+    {
+        "name": "ALEdb",
+        "url": "https://aledb.org/",
+        "identifier": "https://aledb.org/",
+        "alternateName": "Adaptive Laboratory Evolution database",
+        "license": "https://aledb.org/about",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://aledb.org/about"
+        },
+        "abstract": "ALEdb is a NIAID supported generalist repository that includes genomic data.",
+        "description": "ALEdb (i) is a web-based platform that comprehensively reports on ALE acquired mutations and their conditions, (ii) reports key mutations using previously established trends, (iii) enables a search-driven workflow to enhance user mutation functional analysis through mutation cross-reference, (iv) allows exporting of mutation query results for custom analysis, (v) includes a bibliome describing the databased experiment publications and (vi) contains experimental evolution mutations from multiple model organisms.\n\nALEdb is freely available for non-commercial use. It is hosted and maintained by the Systems Biology Research Group at the University of California, San Diego. The PI and Group leader for the ALE activities at UCSD is Dr. Adam Feist. If you are interested in contributing to it or have general questions about its use, please email, afeist@ucsd.edu. ",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v1.1.0",
+        "genre": "Generalist",
+        "dateCreated": "2017-07-25",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-23",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U01AI124316",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NNF10CC1016517",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "Novo Nordisk Foundation"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Center for Biosustainability",
+                        "parentOrganization": "Technical University of Denmark"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Systems Biology Research Group",
+                "parentOrganization": "University of California, San Diego"
+            },
+            {
+                "@type": "Person",
+                "name": "Adam Feist",
+                "givenName": "Adam",
+                "familyName": "Feist",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of California, San Diego"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 233,
+                "unitText": "Projects",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 907,
+                "unitText": "ALE Experiments",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 4361,
+                "unitText": "ALEs",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 7943,
+                "unitText": "Flasks",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 11858,
+                "unitText": "Isolates",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 703647,
+                "unitText": "Unique Mutations",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1603602,
+                "unitText": "Observed Mutations",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "integbio.jp",
+                "url": "https://integbio.jp/dbcatalog/en/record/nbdc02451"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Database Commons",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/6077"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Identification of mutations in laboratory-evolved microbes from next-generation sequencing data using breseq",
+                "pmid": 24838886
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "CNVnator: an approach to discover, genotype, and characterize typical and atypical CNVs from family and population genome sequencing",
+                "pmid": 21324876
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "mutation-needle-plot",
+                "url": "http://dx.doi.org/10.5281/zenodo.14561"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Project List",
+                "url": "https://aledb.org/ale/projects/"
+            },
+            {
+                "@type": "Collection",
+                "name": "Experiment List",
+                "url": "https://aledb.org/ale/experiments/"
+            }
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_562",
+            "http://purl.obolibrary.org/obo/NCBITaxon_243274",
+            "http://purl.obolibrary.org/obo/NCBITaxon_272630",
+            "http://purl.obolibrary.org/obo/NCBITaxon_413997",
+            "http://purl.obolibrary.org/obo/NCBITaxon_511145",
+            "http://purl.obolibrary.org/obo/NCBITaxon_679895"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3945",
+            "http://edamontology.org/topic_3298",
+            "http://edamontology.org/topic_3056"
+        ],
+        "keywords": [
+            "http://purl.jp/bio/4/id/200906064038841330",
+            "http://purl.obolibrary.org/obo/OBI_0100063",
+            "http://purl.obolibrary.org/obo/NCIT_C40987"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/MMO_0000659",
+            "http://www.ebi.ac.uk/efo/EFO_0002907",
+            "http://purl.obolibrary.org/obo/NCIT_C25300"
+        ],
+        "variableMeasured": [
+            "http://www.ebi.ac.uk/efo/EFO_0004828",
+            "http://www.ebi.ac.uk/efo/EFO_0000523",
+            "http://www.ebi.ac.uk/efo/EFO_0004557"
+        ]
+    },
+    {
+        "name": "BacDive",
+        "url": "https://bacdive.dsmz.de/",
+        "identifier": "https://bacdive.dsmz.de/",
+        "alternateName": "Bacterial Diversity Metadatabase",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://bacdive.dsmz.de/about"
+        },
+        "abstract": "BacDive is a BMBF supported IID repository that includes phenotypic data.",
+        "description": "The Bacterial Diversity Metadatabase BacDive is the worldwide largest database for standardized bacterial phenotypic information. Its mission is to mobilize research data on strain level from internal files in culture collections (e.g. CABI, CIP, CCUG, DSMZ) as well as from primary literature and make it freely accessible. Today BacDive offers data on 93,254 bacterial and archaeal strains, including 19,313 type strains and thereby covers approx. 90% of the validly described species. Within over 600 data fields the topics taxonomy, morphology, physiology, origin, molecular data, and cultivation conditions are covered. The database offers systematic access to phenotypic data. BacDive thereby enables queries like \"show me all strains that grow under certain conditions\u201d by using the Advanced search or queries like \u201cshow me all strains isolated from a marine environment\u201d by using the Isolation source search. With currently 15,357 API\u00ae tests for 27,634 strains, BacDive also offers the worldwide largest API\u00ae test collection, which can be queried using the API test finder tool.",
+        "collectionType": "Knowledgebase",
+        "hasAPI": true,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "15.05.2024",
+        "genre": "IID",
+        "dateModified": "2024-05-15",
+        "dateCreated": "2012-04-01",
+        "datePublished": "2013-09-01",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-23",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "01 LI 1001 C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Federal Ministry of Education and Research",
+                    "alternateName": "BMBF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OV 20/20\u20131",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "German Federation for Biological Data",
+                    "alternateName": "GFBio"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NBI021A539C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Federal Ministry of Education and Research",
+                    "alternateName": "BMBF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Not Available",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Deutsche Forschungsgemeinschaft",
+                    "alternateName": "DFG"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Adam Podstawka",
+                "givenName": "Adam",
+                "familyName": "Podstawka",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Christian Ebeling",
+                "givenName": "Christian",
+                "familyName": "Ebeling",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Isabel Schober",
+                "givenName": "Isabel",
+                "familyName": "Schober",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Julia Koblitz",
+                "givenName": "Julia",
+                "familyName": "Koblitz",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "J\u00f6rg Overmann",
+                "givenName": "J\u00f6rg",
+                "familyName": "Overmann",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Joaquim Sard\u00e0",
+                "givenName": "Joaquim",
+                "familyName": "Sard\u00e0",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lorenz Reimer",
+                "givenName": "Lorenz",
+                "familyName": "Reimer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 97334,
+                "unitText": "strains",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 20433,
+                "unitText": "species",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 26131,
+                "unitText": "16S sequence accessions",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.aSszvY"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013060"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "bio.tools",
+                "url": "https://bio.tools/bacdive"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Database Commons",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/231"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q25349390"
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Integrating biological knowledge for mechanistic inference in the host-associated microbiome",
+                "pmid": 38638909
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "BRENDA",
+                "url": "http://www.brenda-enzymes.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "NCBI Taxonomy",
+                "url": "https://www.ncbi.nlm.nih.gov/taxonomy"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "NCBI GenBank",
+                "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "PATRIC (BV-BRC)",
+                "url": "https://www.bv-brc.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "European Nucleotide Archive",
+                "url": "https://www.ebi.ac.uk/ena/browser/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "SILVA",
+                "url": "https://www.arb-silva.de/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "ChEBI",
+                "url": "http://www.ebi.ac.uk/chebi/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ComputationalTool",
+                "name": "Biom\u00e9rieux API test finder",
+                "url": "https://bacdive.dsmz.de/api-test-finder"
+            },
+            {
+                "@type": "WebPage",
+                "name": "Tutorials",
+                "url": "https://bacdive.dsmz.de/tutorials#apiintro"
+            },
+            {
+                "@type": "Collection",
+                "name": "Isolation Sources",
+                "url": "https://bacdive.dsmz.de/isolation-sources"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "BacDive API Python package",
+                "url": "https://pypi.org/project/bacdive/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "BacDive API R package",
+                "url": "https://r-forge.r-project.org/R/?group_id=1573"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2157"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0637",
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_3050",
+            "http://edamontology.org/topic_3301"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/ENVO_01001060",
+            "http://purl.obolibrary.org/obo/IDO_0000450",
+            "http://purl.obolibrary.org/obo/OBI_0302840"
+        ],
+        "measurementTechnique": [
+            "http://www.bioassayontology.org/bao#BAO_0000448",
+            "http://purl.obolibrary.org/obo/NCIT_C25300",
+            "http://purl.obolibrary.org/obo/OBI_0000366",
+            "http://purl.obolibrary.org/obo/OBI_0002763"
+        ],
+        "variableMeasured": [
+            "http://edamontology.org/data_3723",
+            "http://www.ebi.ac.uk/efo/EFO_0000523",
+            "http://www.bioassayontology.org/bao#BAO_0000099",
+            "http://purl.obolibrary.org/obo/NCIT_C62263"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005113"
+        ]
+    }
+]
