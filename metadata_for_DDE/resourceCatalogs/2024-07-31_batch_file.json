@@ -1,0 +1,1258 @@
+[
+    {
+        "name": "BEIResources",
+        "url": "https://www.beiresources.org/",
+        "identifier": "https://www.beiresources.org/",
+        "alternateName": "Biological and Emerging Infections Research Resources Program,NIH AIDS Reagent Program,NIH HIV Reagent Program",
+        "license": "https://www.beiresources.org/TermsofUse.aspx",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.beiresources.org/Register.aspx"
+        },
+        "abstract": "BEIResources is a NIAID supported IID repository that includes reagent data.",
+        "description": "BEI Resources was established by the National Institute of Allergy and Infectious Diseases (NIAID) to provide reagents, tools and information for studying Category A, B, and C priority pathogens, emerging infectious disease agents, non-pathogenic microbes and other microbiological materials of relevance to the research community.  BEI Resources acquires, authenticates and produces reagents that scientists need to carry out basic research and develop improved diagnostic tests, vaccines, and therapies. By centralizing these functions within BEI Resources, access to and use of these materials in the scientific community is monitored and quality control of the reagents is assured. In addition to supplying the infectious disease community with materials, BEI Resources also encourages and supports the deposit of materials from researchers and institutions. Depositing materials with BEI Resources has many advantages to the researcher and the research community including secure storage, community access and distribution; all while protecting the intellectual property rights of the depositor. The BEI Resources repository will be maintained as a resource for researchers as long as there is need.  Your deposit into BEI Resources is a long term investment to aid future research. BEI Resources has been managed under contract by American Type Culture Collection (ATCC) since 2003.  A seven-year contract to continue managing BEI Resources was awarded to ATCC in May 2016. The scope of the contract has expanded to a more comprehensive catalog of research materials, including those deposited by other Government-supported research projects, to be made available to the biodefense and emerging infectious disease scientific communities. Fungal, Parasite, Vector and other relevant Materials have been added to the existing Bacterial, Viral and Toxin reagents which cover NIAID Category A, B and C Priority Pathogens and NIAID designated emerging infectious disease agents and organisms.",
+        "collectionType": "Repository",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2024-06-13",
+        "dateCreated": "2003-11-06",
+        "datePublished": "2003-11-06",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93024C00001",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1G20AI174721",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1C06OD036014",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "American Type Culture Collection",
+                "alternateName": "ATCC"
+            },
+            {
+                "@type": "Person",
+                "name": "Sujatha Rashid",
+                "givenName": "Sujatha",
+                "familyName": "Rashid",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "American Type Culture Collection"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rebecca Bradford",
+                "givenName": "Rebecca",
+                "familyName": "Bradford",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "American Type Culture Collection"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 17517,
+                "unitText": "catalog records",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 11617,
+                "unitText": "Product Sheets",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 10340,
+                "unitText": "Certificates of Analysis",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "citedBy": [
+            {
+                "@type": "CreativeWork",
+                "name": "HIV Publications List",
+                "url": "https://www.beiresources.org/KnowledgeBase.aspx#tabs-4"
+            },
+            {
+                "@type": "CreativeWork",
+                "name": "BEI Resources Publications List",
+                "url": "https://www.beiresources.org/KnowledgeBase.aspx#tabs-3"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResearchProject",
+                "name": "Malaria Research and Reference Reagent Resource Center (MR4)",
+                "url": "https://www.beiresources.org/About/HistoryMR4.aspx"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "NIH HIV Reagent Program",
+                "url": "https://www.beiresources.org/HIV/ProgramHistory.aspx"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "Filariasis Research Reagent Resource Center (FR3)",
+                "url": "https://www.beiresources.org/Home/FR3.aspx"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "Human Microbiome Project",
+                "url": "https://portal.hmpdacc.org/projects/t"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "Schistosome Related Reagent Repository (SR3)",
+                "url": "https://www.beiresources.org/SchistosomeRelatedResearchReagents.aspx"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "MR4 Malaria Resources",
+                "url": "https://www.beiresources.org/Collection/54/MR4-Malaria-Resources.aspx"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "HIV Reagent Program",
+                "url": "https://www.beiresources.org/Collection/57/HIV-Reagent-Program.aspx"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Filariasis Resources",
+                "url": "https://www.beiresources.org/Collection/18/Filariasis-Resources.aspx"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Human Microbiome Project Resources",
+                "url": "https://www.beiresources.org/Collection/4/Human-Microbiome-Project.aspx"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Schistosome Resource Center ",
+                "url": "https://www.beiresources.org/Collection/51/Schistosomiasis-Resource-Center.aspx"
+            }
+        ],
+        "isRelatedTo": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Antibacterial Resistance Leadership Group (ARLG) Biorepository Strain Catalog",
+                "url": "https://arlgcatalogue.org/arlgCatalogue/"
+            }
+        ],
+        "isSimilarTo": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "American Type Culture Collection",
+                "url": "https://www.atcc.org/"
+            }
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/OBI_0001879",
+            "http://purl.obolibrary.org/obo/NCIT_C70699",
+            "http://purl.obolibrary.org/obo/OBI_0001876"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3337",
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_3340",
+            "http://edamontology.org/topic_3339"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C25429"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_7174",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7164",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7158",
+            "http://purl.obolibrary.org/obo/NCBITaxon_13249",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7192",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7199",
+            "http://purl.obolibrary.org/obo/NCBITaxon_13203",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6939",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2945031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6525",
+            "http://purl.obolibrary.org/obo/NCBITaxon_56141",
+            "http://purl.obolibrary.org/obo/NCBITaxon_55810"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0012268",
+            "http://purl.obolibrary.org/obo/MONDO_0005136",
+            "http://purl.obolibrary.org/obo/MONDO_0005550",
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0001444",
+            "http://purl.obolibrary.org/obo/MONDO_0016075"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11723",
+            "http://purl.obolibrary.org/obo/NCBITaxon_57667",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5693",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11019",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3044782",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5820",
+            "http://purl.obolibrary.org/obo/NCBITaxon_55968",
+            "http://purl.obolibrary.org/obo/NCBITaxon_469",
+            "http://purl.obolibrary.org/obo/NCBITaxon_723287",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1117645",
+            "http://purl.obolibrary.org/obo/NCBITaxon_13687",
+            "http://purl.obolibrary.org/obo/NCBITaxon_28453",
+            "http://purl.obolibrary.org/obo/NCBITaxon_613",
+            "http://purl.obolibrary.org/obo/NCBITaxon_158483",
+            "http://purl.obolibrary.org/obo/NCBITaxon_286",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6181",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11584",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5658",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1618189",
+            "http://purl.obolibrary.org/obo/NCBITaxon_780",
+            "http://purl.obolibrary.org/obo/NCBITaxon_777",
+            "http://purl.obolibrary.org/obo/NCBITaxon_138",
+            "http://purl.obolibrary.org/obo/NCBITaxon_943",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5864",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1763",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6278",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6276",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6296",
+            "http://purl.obolibrary.org/obo/NCBITaxon_953"
+        ]
+    },
+    {
+        "name": "BacDive",
+        "url": "https://bacdive.dsmz.de/",
+        "identifier": "https://bacdive.dsmz.de/",
+        "alternateName": "Bacterial Diversity Metadatabase",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://bacdive.dsmz.de/about"
+        },
+        "abstract": "BacDive is a BMBF supported IID repository that includes phenotypic data.",
+        "description": "The Bacterial Diversity Metadatabase BacDive is the worldwide largest database for standardized bacterial phenotypic information. Its mission is to mobilize research data on strain level from internal files in culture collections (e.g. CABI, CIP, CCUG, DSMZ) as well as from primary literature and make it freely accessible. Today BacDive offers data on 93,254 bacterial and archaeal strains, including 19,313 type strains and thereby covers approx. 90% of the validly described species. Within over 600 data fields the topics taxonomy, morphology, physiology, origin, molecular data, and cultivation conditions are covered. The database offers systematic access to phenotypic data. BacDive thereby enables queries like \"show me all strains that grow under certain conditions\u201d by using the Advanced search or queries like \u201cshow me all strains isolated from a marine environment\u201d by using the Isolation source search. With currently 15,357 API\u00ae tests for 27,634 strains, BacDive also offers the worldwide largest API\u00ae test collection, which can be queried using the API test finder tool.",
+        "collectionType": "Knowledgebase",
+        "hasAPI": true,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "15.05.2024",
+        "genre": "IID",
+        "dateModified": "2024-05-15",
+        "dateCreated": "2012-04-01",
+        "datePublished": "2013-09-01",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "01 LI 1001 C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Federal Ministry of Education and Research",
+                    "alternateName": "BMBF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OV 20/20\u20131",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "German Federation for Biological Data",
+                    "alternateName": "GFBio"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NBI021A539C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Federal Ministry of Education and Research",
+                    "alternateName": "BMBF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Deutsche Forschungsgemeinschaft",
+                    "alternateName": "DFG"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Adam Podstawka",
+                "givenName": "Adam",
+                "familyName": "Podstawka",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Christian Ebeling",
+                "givenName": "Christian",
+                "familyName": "Ebeling",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Isabel Schober",
+                "givenName": "Isabel",
+                "familyName": "Schober",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Julia Koblitz",
+                "givenName": "Julia",
+                "familyName": "Koblitz",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "J\u00f6rg Overmann",
+                "givenName": "J\u00f6rg",
+                "familyName": "Overmann",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Joaquim Sard\u00e0",
+                "givenName": "Joaquim",
+                "familyName": "Sard\u00e0",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lorenz Reimer",
+                "givenName": "Lorenz",
+                "familyName": "Reimer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Leibniz Institut DSMZ"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 97334,
+                "unitText": "strains",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 20433,
+                "unitText": "species",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 26131,
+                "unitText": "16S sequence accessions",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.aSszvY"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013060"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "bio.tools",
+                "url": "https://bio.tools/bacdive"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Database Commons",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/231"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q25349390"
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Integrating biological knowledge for mechanistic inference in the host-associated microbiome",
+                "pmid": 38638909
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "BRENDA",
+                "url": "http://www.brenda-enzymes.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "NCBI Taxonomy",
+                "url": "https://www.ncbi.nlm.nih.gov/taxonomy"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "NCBI GenBank",
+                "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "PATRIC (BV-BRC)",
+                "url": "https://www.bv-brc.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "European Nucleotide Archive",
+                "url": "https://www.ebi.ac.uk/ena/browser/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "SILVA",
+                "url": "https://www.arb-silva.de/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "ChEBI",
+                "url": "http://www.ebi.ac.uk/chebi/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ComputationalTool",
+                "name": "Biom\u00e9rieux API test finder",
+                "url": "https://bacdive.dsmz.de/api-test-finder"
+            },
+            {
+                "@type": "WebPage",
+                "name": "Tutorials",
+                "url": "https://bacdive.dsmz.de/tutorials#apiintro"
+            },
+            {
+                "@type": "Collection",
+                "name": "Isolation Sources",
+                "url": "https://bacdive.dsmz.de/isolation-sources"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "BacDive API Python package",
+                "url": "https://pypi.org/project/bacdive/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "BacDive API R package",
+                "url": "https://r-forge.r-project.org/R/?group_id=1573"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2157"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0637",
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_3050",
+            "http://edamontology.org/topic_3301"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/ENVO_01001060",
+            "http://purl.obolibrary.org/obo/IDO_0000450",
+            "http://purl.obolibrary.org/obo/OBI_0302840"
+        ],
+        "measurementTechnique": [
+            "http://www.bioassayontology.org/bao#BAO_0000448",
+            "http://purl.obolibrary.org/obo/NCIT_C25300",
+            "http://purl.obolibrary.org/obo/OBI_0000366",
+            "http://purl.obolibrary.org/obo/OBI_0002763"
+        ],
+        "variableMeasured": [
+            "http://edamontology.org/data_3723",
+            "http://www.ebi.ac.uk/efo/EFO_0000523",
+            "http://www.bioassayontology.org/bao#BAO_0000099",
+            "http://purl.obolibrary.org/obo/NCIT_C62263"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005113"
+        ]
+    },
+    {
+        "name": "Hemorrhagic Fever Viruses (HFV) Database Project",
+        "url": "https://hfv.lanl.gov/content/index",
+        "identifier": "https://hfv.lanl.gov/content/index",
+        "alternateName": "HFV / Ebola Database",
+        "license": "https://about.lanl.gov/lanl-resources/web-policies/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://about.lanl.gov/lanl-resources/web-policies/"
+        },
+        "abstract": "Hemorrhagic Fever Viruses (HFV) Database Project is a DTRA supported IID repository that includes genomic data.",
+        "description": "The Ebola Database stems from the Hemorrhagic Fever Viruses (HFV) Database Project founded by Dr. Carla Kuiken in 2009 at the Los Alamos National Laboratory (LANL). The HFV Database was modeled on the Los Alamos HIV Database, led by Dr. Bette Korber, and translated much of its tools, infrastructure and philosophy from HIV to HFV.\n\nIn 2014-2015, we updated and greatly enhanced the Ebola portion of the database to contain Ebola-associated genetic and immunological data, including the search interface, genome browser, curated nucleotide and protein sequence alignments (on the genus, species and outbreak levels), lists and genomic maps of T-cell epitopes and antibody binding sites, a list of important functional domains, and many web-based analysis tools.",
+        "collectionType": "Knowledgebase",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2015-03-23",
+        "datePublished": "2009-10-06",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HDTRA B084498I",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Defense Threat Reduction Agency",
+                    "alternateName": "DTRA",
+                    "parentOrganization": "Department of Defense"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Internal funds",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory",
+                    "alternateName": "LANL",
+                    "parentOrganization": "Department of Energy"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Carla Kuiken",
+                "givenName": "Carla",
+                "familyName": "Kuiken",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jim Thurmond",
+                "givenName": "Jim",
+                "familyName": "Thurmond",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Mira Dimitrijevic",
+                "givenName": "Mira",
+                "familyName": "Dimitrijevic",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Hyejin Yoon",
+                "givenName": "Hyejin",
+                "familyName": "Yoon",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 8,
+                "unitText": "Filovirus reference sequences",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hfv.lanl.gov/content/sequence/HFV/RESOURCES/Ebola_immunology_resources.html",
+                "encoding": "xlsx",
+                "dateModified": "2015-01-15"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hfv.lanl.gov/content/sequence/HFV/RESOURCES/Ebola_data.html",
+                "encoding": "xlsx",
+                "dateModified": "1969-12-31"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hfv.lanl.gov/content/sequence/HFV/RESOURCES/outbreak_maps/outbreak_maps.html",
+                "encoding": "pdf",
+                "dateModified": "2015-02-05"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://doi.org/10.25504/FAIRsharing.dd4j8j"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q112201203"
+        ],
+        "hasPart": [
+            {
+                "@type": "ComputationalTool",
+                "name": "Ebola Genome Browser",
+                "url": "https://hfv.lanl.gov/content/sequence/genome_browser/browser_ebola.html"
+            },
+            {
+                "@type": "WebPage",
+                "name": "Site map & Tools",
+                "url": "https://hfv.lanl.gov/content/sequence/HFV/ToolsOutline.html"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "HFV Blast",
+                "url": "https://hfv.lanl.gov/content/sequence/BASIC_BLAST/basic_blast.html"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "HIV Databases",
+                "url": "https://www.hiv.lanl.gov/content/index"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Viral genome analysis and knowledge management",
+                "pmid": 23192551
+            },
+            {
+                "@type": "WebPage",
+                "name": "Pathogen Research Databases",
+                "url": "https://collaboration.lanl.gov/pathogen-database/"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Other LANL Virus Databases",
+                "url": "https://www.hiv.lanl.gov/content/otherviruses.html"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11266",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1513236",
+            "http://purl.obolibrary.org/obo/NCBITaxon_186536",
+            "http://purl.obolibrary.org/obo/NCBITaxon_186537",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11617",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1980413",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1980415",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11572",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11584",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11051",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11095",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1980442",
+            "http://purl.obolibrary.org/obo/NCBITaxon_260964",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2843070",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11019"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0018087"
+        ],
+        "topicCategory": [
+            "http://purl.obolibrary.org/obo/MONDO_0018087",
+            "http://edamontology.org/topic_0781",
+            "http://edamontology.org/topic_0622"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_0080",
+            "http://edamontology.org/operation_3208",
+            "http://www.bioassayontology.org/bao#BAO_0000502",
+            "http://purl.obolibrary.org/obo/OBI_1110001"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0002567",
+            "http://purl.obolibrary.org/obo/OBI_0200000",
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C13445",
+            "http://edamontology.org/topic_3293",
+            "http://purl.obolibrary.org/obo/NCIT_C18234"
+        ]
+    },
+    {
+        "name": "Hepatitis C Virus Database Project (HCV)",
+        "url": "https://hcv.lanl.gov/content/index",
+        "identifier": "https://hcv.lanl.gov/content/index",
+        "alternateName": "HCV Databases",
+        "license": "https://about.lanl.gov/lanl-resources/web-policies/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://about.lanl.gov/lanl-resources/web-policies/"
+        },
+        "abstract": "Hepatitis C Virus Database Project (HCV) is a NIAID supported IID repository that includes genomic data.",
+        "description": "The Hepatitis C Virus (HCV) Database Project was initially funded by the Division of Microbiology and Infectious Diseases of the National Institute of Allergies and Infectious Diseases (NIAID). The HCV database group strives to present HCV-associated, hand-annotated genetic data in a userfriendly way, by providing access to the central database via web-accessible search interfaces and supplying a number of analysis tools.\n\nThis project is deeply indebted to the HIV Database Group, led by Dr. Bette Korber, for much of its tools, infrastructure and philosophy; the two databases continue to collaborate closely and to share software and resources.\n\nTo our users Please note that the HCV database site is no longer funded by NIH. We try to keep the database updated and the tools running, but we cannot guarantee we can quickly resolve problems.",
+        "collectionType": "Knowledgebase",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2011-10-31",
+        "datePublished": "2003-07-15",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Carla Kuiken",
+                "givenName": "Carla",
+                "familyName": "Kuiken",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Karina Yusim",
+                "givenName": "Karina",
+                "familyName": "Yusim",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Laura Boykin",
+                "givenName": "Laura",
+                "familyName": "Boykin",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Russell Richardson",
+                "givenName": "Russell",
+                "familyName": "Richardson",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Anita Dalwani",
+                "givenName": "Anita",
+                "familyName": "Dalwani",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ning Tao",
+                "givenName": "Ning",
+                "familyName": "Tao",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ashish Agrawal",
+                "givenName": "Ashish",
+                "familyName": "Agrawal",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "James Szinger",
+                "givenName": "James",
+                "familyName": "Szinger",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Robert Funkhouser",
+                "givenName": "Robert",
+                "familyName": "Funkhouser",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Bette Korber",
+                "givenName": "Bette",
+                "familyName": "Korber",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 30000,
+                "unitText": "HCV sequences",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hcv.lanl.gov/content/immuno/tables/ctl_summary.html",
+                "encoding": "csv",
+                "dateModified": "2007-09-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hcv.lanl.gov/content/immuno/tables/helper_summary.html",
+                "encoding": "csv",
+                "dateModified": "2007-09-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hcv.lanl.gov/content/immuno/tables/ab_summary.html",
+                "encoding": "csv",
+                "dateModified": "2007-09-01"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "HCV Sequence Database",
+                "url": "https://hcv.lanl.gov/content/sequence/HCV/ToolsOutline.html"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "HCV Immunology Database",
+                "url": "https://hcv.lanl.gov/content/immuno/immuno-main.html"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "HIV Databases",
+                "url": "https://www.hiv.lanl.gov/content/index"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Viral genome analysis and knowledge management",
+                "pmid": 23192551
+            },
+            {
+                "@type": "WebPage",
+                "name": "Pathogen Research Databases",
+                "url": "https://collaboration.lanl.gov/pathogen-database/"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Other LANL Virus Databases",
+                "url": "https://www.hiv.lanl.gov/content/otherviruses.html"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_3052230"
+        ],
+        "topicCategory": [
+            "http://purl.obolibrary.org/obo/MONDO_0018087",
+            "http://edamontology.org/topic_0781",
+            "http://edamontology.org/topic_0622"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0002567",
+            "http://purl.obolibrary.org/obo/OBI_0200000",
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C13445",
+            "http://edamontology.org/topic_3293",
+            "http://purl.obolibrary.org/obo/NCIT_C18234"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_0080",
+            "http://edamontology.org/operation_3208",
+            "http://www.bioassayontology.org/bao#BAO_0000502",
+            "http://purl.obolibrary.org/obo/OBI_1110001"
+        ]
+    },
+    {
+        "name": "HIV Databases",
+        "url": "https://www.hiv.lanl.gov/content/index",
+        "identifier": "https://www.hiv.lanl.gov/content/index",
+        "license": "https://about.lanl.gov/lanl-resources/web-policies/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://about.lanl.gov/lanl-resources/web-policies/"
+        },
+        "abstract": "HIV Databases is a NIAID supported IID repository that includes genomic data.",
+        "description": "The HIV databases contain comprehensive data on HIV genetic sequences and immunological epitopes. The website also gives access to a large number of tools that can be used to analyze and visualize these data. This project has been funded in whole or in part with Federal funds from the National Institute of Allergy and Infectious Diseases, National Institutes of Health, Department of Health and Human Services, under Interagency Agreement No. AAI12007-001-00000. Our content is reviewed by an Editorial Board.",
+        "collectionType": "Knowledgebase",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2024-07-23",
+        "datePublished": "1998-06-06",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "AAI22007001",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "AAI21004001",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Theoretical Biology and Biophysics Group",
+                "parentOrganization": "Los Alamos National Laboratory"
+            },
+            {
+                "@type": "Organization",
+                "name": "HIV Sequence Database External Editors"
+            },
+            {
+                "@type": "Organization",
+                "name": "HIV Immunology Database External Editors"
+            },
+            {
+                "@type": "Person",
+                "name": "Bette Korber",
+                "givenName": "Bette",
+                "familyName": "Korber",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Brian Foley",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Thomas Leitner",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jennifer L. Mamrosh",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Elizabeth-Sharon David-Fung",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Los Alamos National Laboratory"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 1677,
+                "unitText": "Intra-patient sequence sets",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.hiv.lanl.gov/components/sequence/HIV/neutralization/download_db.comp",
+                "encoding": "fasta",
+                "dateModified": "2024-07-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.hiv.lanl.gov/content/sequence/HIV/COMPENDIUM/compendium.html",
+                "encoding": "pdf",
+                "dateModified": "2023-03-22"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "HIV Sequence Database",
+                "url": "https://www.hiv.lanl.gov/content/sequence/HIV/mainpage.html"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "HIV Molecular Immunology Database",
+                "url": "https://www.hiv.lanl.gov/content/immunology/index.html"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Other LANL Virus Databases",
+                "url": "https://www.hiv.lanl.gov/content/otherviruses.html"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "VideoObject",
+                "name": "HIV Sequences Database Keystone Workshop",
+                "url": "https://www.youtube.com/watch?v=k6mStFZZ50U"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Article",
+                "name": "Stalking the AIDS Virus",
+                "url": "https://www.hiv.lanl.gov/content/sequence/TUTORIALS/StalkingAIDS_ResearchQuarterly2003.pdf"
+            },
+            {
+                "@type": "WebPage",
+                "name": "Pathogen Research Databases",
+                "url": "https://collaboration.lanl.gov/pathogen-database/"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11723",
+            "http://purl.obolibrary.org/obo/NCBITaxon_57667",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049"
+        ],
+        "topicCategory": [
+            "http://purl.obolibrary.org/obo/MONDO_0018087",
+            "http://edamontology.org/topic_0781",
+            "http://edamontology.org/topic_0622"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0002567",
+            "http://purl.obolibrary.org/obo/OBI_0200000",
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C13445",
+            "http://edamontology.org/topic_3293",
+            "http://purl.obolibrary.org/obo/NCIT_C18234"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_0080",
+            "http://edamontology.org/operation_3208",
+            "http://www.bioassayontology.org/bao#BAO_0000502",
+            "http://purl.obolibrary.org/obo/OBI_1110001"
+        ]
+    }
+]

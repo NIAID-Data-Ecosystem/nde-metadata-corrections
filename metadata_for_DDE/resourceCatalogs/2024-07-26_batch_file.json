@@ -1,0 +1,444 @@
+[
+    {
+        "name": "EcoCyc",
+        "url": "https://ecocyc.org/",
+        "identifier": "https://ecocyc.org/",
+        "alternateName": "EcoCyc E. coli Database",
+        "license": "https://ecocyc.org/ptools-academic-license.shtml",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://biocyc.org/download.shtml"
+        },
+        "abstract": "EcoCyc is a NIAID supported IID repository that includes multiomic data.",
+        "description": "EcoCyc captures information from 44,000 publications for Escherichia coli K-12 substr. MG1655. Use EcoCyc to search for knowledge on E. coli genes, regulation, and metabolism; analyze transcriptomics data; perform comparative analyses; and run a metabolic model.",
+        "collectionType": "Knowledgebase",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v28.0",
+        "genre": "IID",
+        "dateModified": "2024-04-02",
+        "datePublished": "2000-07-18",
+        "@type": "nde:ResourceCatalog",
+        "date": "2024-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/view/niaid/",
+            "nde": "https://discovery.biothings.io/view/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01RR007861",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Research Resources",
+                    "alternateName": "NCRR",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R29LM005413-01A1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R24GM150703",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01GM077678",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "AI160719",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Peter D. Karp",
+                "givenName": "Peter",
+                "familyName": "Karp",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Suzanne Paley",
+                "givenName": "Suzanne",
+                "familyName": "Paley",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ron Caspi",
+                "givenName": "Ron",
+                "familyName": "Caspi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Anamika Kothari",
+                "givenName": "Anamika",
+                "familyName": "Kothari",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Markus Krummenacker",
+                "givenName": "Markus",
+                "familyName": "Krummenacker",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lisa Moore",
+                "givenName": "Lisa",
+                "familyName": "Moore",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Pallavi Subhraveti",
+                "givenName": "Pallavi",
+                "familyName": "Subhraveti",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Peter Midford",
+                "givenName": "Peter",
+                "familyName": "Midford",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "SRI International"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ian Paulsen",
+                "givenName": "Ian",
+                "familyName": "Paulsen",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Macquarie University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Liam Elbourne",
+                "givenName": "Liam",
+                "familyName": "Elbourne",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Macquarie University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Amanda Mackie",
+                "givenName": "Amanda",
+                "familyName": "Mackie",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Macquarie University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Julio Collado-Vides",
+                "givenName": "Julio",
+                "familyName": "Collado-Vides",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Socorro Gama-Castro",
+                "givenName": "Socorro",
+                "familyName": "Gama-Castro",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "C\u00e9sar Bonavides-Martinez",
+                "givenName": "C\u00e9sar",
+                "familyName": "Bonavides-Martinez",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Luis Mu\u00f1iz-Rascado",
+                "givenName": "Luis",
+                "familyName": "Mu\u00f1iz-Rascado",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Paloma Lara",
+                "givenName": "Paloma",
+                "familyName": "Lara",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Markus Covert",
+                "givenName": "Markus",
+                "familyName": "Covert",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Stanford University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Gwanggyu Sun",
+                "givenName": "Gwanggyu",
+                "familyName": "Sun",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Stanford University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Travis Horst",
+                "givenName": "Travis",
+                "familyName": "Horst",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Stanford University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Heejo Choi",
+                "givenName": "Heejo",
+                "familyName": "Choi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Stanford University"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 376,
+                "unitText": "Pathways",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3237,
+                "unitText": "Reactions",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1735,
+                "unitText": "Enzymes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 298,
+                "unitText": "Transporters",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 4557,
+                "unitText": "Genes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3742,
+                "unitText": "Transcription Units",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 44348,
+                "unitText": "Citations",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.65dmtr"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100011277"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q5333109"
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "BioCyc",
+                "url": "https://biocyc.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "MetaCyc",
+                "url": "https://biocyc.org/metacyc/index.shtml"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ComputationalTool",
+                "name": "Pathway Tools",
+                "url": "https://pathwaytools.com/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "EcoCyc Genome Browser",
+                "url": "https://ecocyc.org/genbro/genbro.shtml?orgid=ECOLI&replicon=COLI-K12"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "EcoCyc Metabolic Network Browser",
+                "url": "https://ecocyc.org/overviewsWeb/celOv.shtml?orgid=ECOLI"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "EcoCyc Cellullar Overview",
+                "url": "https://ecocyc.org/overviewsWeb/celOv.shtml?orgid=ECOLI"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "RegulonDB",
+                "url": "https://regulondb.ccg.unam.mx/"
+            },
+            {
+                "@type": "Dataset",
+                "name": "Escherichia coli str. K-12 substr. MG1655, complete genome",
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/U00096.3"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "ENZYME database",
+                "url": "http://www.expasy.ch/enzyme"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "UniProt",
+                "url": "http://www.uniprot.org/"
+            },
+            {
+                "@type": "Dataset",
+                "name": "Escherichia coli str. K-12 substr. MG1655, complete genome",
+                "url": "https://www.ncbi.nlm.nih.gov/nuccore/U00096.1"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Escherichia coli K-12: a cooperatively developed annotation snapshot--2005",
+                "pmid": 16397293
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://edamontology.org/operation_0525",
+            "http://purl.obolibrary.org/obo/NCIT_C17565"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_511145",
+            "http://purl.obolibrary.org/obo/NCBITaxon_562"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0602",
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_0204"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/OBI_0302840",
+            "http://semanticscience.org/resource/SIO_010308",
+            "http://edamontology.org/operation_3208"
+        ]
+    }
+]
