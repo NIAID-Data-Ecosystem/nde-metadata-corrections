@@ -7,12 +7,6 @@
             "alternateName": ["CREID","Centers for Research in Emerging Infectious Disease"],
             "url": "https://creid-network.org/",
             "parentOrganization": "NIAID"
-        },
-        {
-            "@type": "ResearchProject",
-            "name": "NIAID Data Ecosystem",
-            "url": "https://data.niaid.nih.gov",
-            "parentOrganization": "NIAID"
         }
     ]
 }
