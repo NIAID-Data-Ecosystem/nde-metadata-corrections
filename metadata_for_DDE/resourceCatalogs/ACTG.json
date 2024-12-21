@@ -274,5 +274,19 @@
             "unitText": "Clinical Trials"
         }
     ],
-    "collectionType": "Registry"
+    "collectionType": "Registry",
+    "about": [
+        {
+            "name": "ClinicalStudy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+            "description": "For schema, consider https://schema.org/MedicalStudy",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample",
+            "description": "Not distinct from Specimen as a schema. For schema, consider https://bioschemas.org/types/BioSample/",
+            "@type": "DefinedTerm"
+        }
+    ]
 }

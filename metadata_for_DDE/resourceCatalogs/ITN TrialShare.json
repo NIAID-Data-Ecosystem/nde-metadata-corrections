@@ -72,5 +72,31 @@
         "name": "Data Discovery Engine",
         "url": "https://discovery.biothings.io/portal/nde"
     },
-    "genre": "IID"
+    "genre": "IID",
+    "about": [
+        {
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample",
+            "description": "Not distinct from Specimen as a schema",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "ClinicalStudy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+            "description": "For schema, consider https://schema.org/MedicalStudy",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Dataset",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+            "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Publication",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+            "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+            "@type": "DefinedTerm"
+        }
+    ]
 }

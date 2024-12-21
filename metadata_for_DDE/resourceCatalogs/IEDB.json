@@ -239,5 +239,19 @@
     "conditionsOfAccess": "Open",
     "hasAPI": true,
     "hasDownload": "All content",
-    "genre": "IID"
+    "genre": "IID",
+    "about": [
+        {
+            "name": "Experiment",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C42790",
+            "description": "Not distinct from study as a schema",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Epitope",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C13189",
+            "description": "Subclass of MolecularEntity",
+            "@type": "DefinedTerm"
+        }
+    ]
 }

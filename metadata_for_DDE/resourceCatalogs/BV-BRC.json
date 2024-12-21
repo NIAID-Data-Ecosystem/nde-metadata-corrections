@@ -159,5 +159,56 @@
     "version": "3.33.16",
     "hasAPI": true,
     "hasDownload": "All content",
-    "genre": "IID"
+    "genre": "IID",
+    "about": [
+        {
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample",
+            "description": "Not distinct from Specimen as a schema",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Genome",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+            "description": "Subclass of BioChemEntity",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Protein",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+            "description": "For schema, consider https://schema.org/Protein",
+            "@type": "DefinedTerm"
+        },
+
+        {
+            "name": "Software",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+            "description": "For schema use ComputationalTool",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Taxon",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C40098",
+            "description": "For schema, consider https://schema.org/Taxon",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "GeneVariant",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+            "description": "Subclass of Gene",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Experiment",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C42790",
+            "description": "Not distinct from study as a schema",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Pathway",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C54214",
+            "description": "A class encompassing networks, pathways, and knowledgegraphs",
+            "@type": "DefinedTerm"
+        }
+    ]
 }

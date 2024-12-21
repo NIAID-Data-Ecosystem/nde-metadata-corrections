@@ -1893,5 +1893,24 @@
         "url": "https://discovery.biothings.io/portal/nde"
     },
     "hasAPI": false,
-    "hasDownload": "Prohibited"
+    "hasDownload": "Prohibited",
+    "about": [
+        {
+            "name": "Sample",
+            "url": "http://www.w3.org/ns/sosa/Sample",
+            "description": "Not distinct from Specimen as a schema",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "ClinicalStudy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+            "description": "For schema, consider https://schema.org/MedicalStudy",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Patient",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16960",
+            "description": "For schema, consider https://schema.org/Patient",
+            "@type": "DefinedTerm"
+        }
 }

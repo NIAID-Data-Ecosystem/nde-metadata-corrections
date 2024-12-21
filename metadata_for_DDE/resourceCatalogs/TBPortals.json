@@ -367,6 +367,32 @@
     "collectionType": "Portal",
     "hasAPI": false,
     "hasDownload": "All content",
-    "genre": "IID"
+    "genre": "IID",
+    "about": [
+        {
+            "name": "Genome",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+            "description": "Subclass of BioChemEntity",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "ClinicalStudy",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+            "description": "For schema, consider https://schema.org/MedicalStudy",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Dataset",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+            "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+            "@type": "DefinedTerm"
+        },
+        {
+            "name": "Image",
+            "url": "http://purl.obolibrary.org/obo/NCIT_C48179",
+            "description": "For schema, consider ImageObject https://schema.org/ImageObject",
+            "@type": "DefinedTerm"
+        }
+    ]
 }
 
