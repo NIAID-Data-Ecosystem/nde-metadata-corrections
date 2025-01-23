@@ -1,0 +1,963 @@
+[
+    {
+        "name": "Papillomavirus Episteme",
+        "url": "https://pave.niaid.nih.gov/",
+        "identifier": "https://pave.niaid.nih.gov/",
+        "alternateName": "PaVE",
+        "license": "https://pave.niaid.nih.gov/about#licenses",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://pave.niaid.nih.gov/about#general"
+        },
+        "abstract": "Papillomavirus Episteme (PaVE) is a NIAID supported IID repository that includes genomic data.",
+        "description": "The PapillomaVirus Episteme (PaVE) has been established to provide highly organized and curated papillomavirus genomics information and tools to the scientific community. The PaVE consists of a database and web applications that support the storage, annotation, analysis, and exchange of information. To the extent possible, the PaVE adopts an open source software approach and emphasizes integration and reuse of existing tools",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2.0",
+        "genre": "IID",
+        "dateModified": "2024-10-23",
+        "datePublished": "2009-04-01",
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-01-23",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1ZIAAI001071",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GS35F0373X",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Alison McBride",
+                "givenName": "Alison",
+                "familyName": "McBride",
+                "identifier": "https://orcid.org/0000-0001-5607-5157",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Alix Warburton",
+                "givenName": "Alix",
+                "familyName": "Warburton",
+                "identifier": "https://orcid.org/0000-0002-6302-5171",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jennifer Dommer",
+                "givenName": "Jennifer",
+                "familyName": "Dommer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Cyrus Afrasiabi",
+                "givenName": "Cyrus",
+                "familyName": "Afrasiabi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Samuel Ezeji",
+                "givenName": "Samuel",
+                "familyName": "Ezeji",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lewis Kim",
+                "givenName": "Lewis",
+                "familyName": "Kim",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Krishnaveni Kaladi",
+                "givenName": "Krishnaveni",
+                "familyName": "Kaladi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David Liou",
+                "givenName": "David",
+                "familyName": "Liou",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Huy Nguyen",
+                "givenName": "Huy",
+                "familyName": "Nguyen",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Yamil Boo Irizarry",
+                "givenName": "Yamil",
+                "familyName": "Irizarry",
+                "alternateName": "Yamil B Irizarry",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Duc Doan",
+                "givenName": "Duc",
+                "familyName": "Doan",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Kristen Browne",
+                "givenName": "Kristen",
+                "familyName": "Browne",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Mike Dolan",
+                "givenName": "Mike",
+                "familyName": "Dolan",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Wei Lu",
+                "givenName": "Wei",
+                "familyName": "Lu",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Piet Maes",
+                "givenName": "Piet",
+                "familyName": "Maes",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Rega Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Koenraad van Doorslaer",
+                "givenName": "Koenraad",
+                "familyName": "van Doorslaer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Arizona"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Josh Pace",
+                "givenName": "Josh",
+                "familyName": "Pace",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Arizona"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 853,
+                "unitText": "annotated papillomavirus genomes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 6687,
+                "unitText": "protein sequences",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 108,
+                "unitText": "protein structures",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 11338,
+                "unitText": "genes and regions",
+                "@type": "PropertyValue"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Human Papillomaviruses Database",
+                "url": "https://pave.niaid.nih.gov/lanl-archives/index.html",
+                "description": "The original Human Papillomaviruses Database developed and hosted by the Los Alamos National Laboratory (LANL) between 1994 and 1997"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Classification of papillomaviruses",
+                "pmid": 15183049
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Classification of papillomaviruses (PVs) based on 189 PV types and proposal of taxonomic amendments",
+                "pmid": 20206957
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "MAFFT",
+                "url": "https://mafft.cbrc.jp/alignment/software/",
+                "description": "Multiple alignment program for amino acid or nucleotide sequences"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "BLAST",
+                "url": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+                "description": "Basic Local Alignment Search Tool"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Review Chapters",
+                "url": "https://pave.niaid.nih.gov/explore/review_chapters"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Multiple Sequence Alignment Tool",
+                "url": "https://pave.niaid.nih.gov/analyze/multiple_sequence_alignment",
+                "description": "PaVE Uses MAFFT which computes the alignment based on the fast Fourier transform."
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Protein Structure Viewer",
+                "url": "https://pave.niaid.nih.gov/analyze/protein_structure_viewer",
+                "description": "The Protein Structure Viewer module displays a NGL Viewer rendering of PDB structures of Papillomavirus proteins"
+            },
+            {
+                "@type": "Collection",
+                "name": "Resources",
+                "url": "https://pave.niaid.nih.gov/resources",
+                "description": "Papillomavirus Links, Articles, and Conferences"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Papers that reference PaVE",
+                "url": "https://scholar.google.com/scholar?start=0&q=pave.niaid.nih.gov&hl=en&as_sdt=0,21"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Database Commons ",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/377"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Research Resource Identification Portal",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_016599/resolver?q=*&l=&i=rrid:scr_016599"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A human papillomavirus whole genome plasmid repository: A resource for HPV DNA quality control reagents ",
+                "pmid": 37499306
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q114731524"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0781",
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_0084",
+            "http://edamontology.org/topic_0219"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005161"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_151340"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_32525",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8782",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8292",
+            "http://purl.obolibrary.org/obo/NCBITaxon_32561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_186625"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://www.bioassayontology.org/bao#BAO_0002206",
+            "http://purl.obolibrary.org/obo/OBI_0002567"
+        ],
+        "variableMeasured": [
+            "http://edamontology.org/data_2044",
+            "http://edamontology.org/data_2523",
+            "http://www.ebi.ac.uk/efo/EFO_0004828"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_2814",
+            "http://edamontology.org/topic_3295",
+            "http://edamontology.org/operation_3208"
+        ],
+        "about": [
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "description": "Subclass of BioChemEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Gene",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16612",
+                "description": "For schema, consider https://schema.org/Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "Infectious Diseases Data Observatory",
+        "url": "https://www.iddo.org/",
+        "identifier": "https://www.iddo.org/",
+        "alternateName": "IDDO",
+        "license": "https://www.iddo.org/data-sharing",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.iddo.org/data-sharing"
+        },
+        "abstract": "Infectious Diseases Data Observatory (IDDO) is a Wellcome Trust supported IID repository that includes clinical data.",
+        "description": "The Infectious Diseases Data Observatory (IDDO) brings together members of the global infectious disease community across the research and humanitarian sectors to collaborate in the generation, analysis and application of data to improve outcomes for patients. IDDO\u2019s coordinating office is based in the Centre for Tropical Medicine and Global Health at the University of Oxford.",
+        "collectionType": "Repository",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2024-11-22",
+        "dateCreated": "2012-02-21",
+        "datePublished": "2016-10-25",
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-01-23",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": 208378,
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Wellcome Trust"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory",
+                "alternateName": "IDDO",
+                "identifier": "https://ror.org/04tp3cz81",
+                "parentOrganization": "Oxford University"
+            },
+            {
+                "@type": "Person",
+                "name": "Philippe Gu\u00e9rin",
+                "givenName": "Philippe",
+                "familyName": "Gu\u00e9rin",
+                "identifier": "https://orcid.org/0000-0002-6008-2963",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "James Watson",
+                "givenName": "James",
+                "familyName": "Watson",
+                "identifier": "https://orcid.org/0000-0001-5524-0325",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Mahidol Oxford Tropical Medicine Research Unit"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Emmanuelle Bitoun",
+                "givenName": "Emmanuelle",
+                "familyName": "Bitoun",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Prabin Dahal",
+                "givenName": "Prabin",
+                "familyName": "Dahal",
+                "identifier": "https://orcid.org/0000-0002-2158-846X",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Kalynn Kennon",
+                "givenName": "Kalynn",
+                "familyName": "Kennon",
+                "identifier": "https://orcid.org/0000-0003-3531-0298",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Charvy Narain",
+                "givenName": "Charvy",
+                "familyName": "Narain",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Caitlin Naylor",
+                "givenName": "Caitlin",
+                "familyName": "Naylor",
+                "identifier": "https://orcid.org/0000-0002-5922-7539",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Caitlin Richmond",
+                "givenName": "Caitlin",
+                "familyName": "Richmond",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Samuel Dhol Ayuen",
+                "givenName": "Samuel Dhol",
+                "familyName": "Ayuen",
+                "alternateName": "Dhol Ayuen",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lucie Kafkova",
+                "givenName": "Lucie",
+                "familyName": "Kafkova",
+                "identifier": "https://orcid.org/0000-0001-9072-8019",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Samantha McGregor",
+                "givenName": "Samantha",
+                "familyName": "McGregor",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jakub Mizio\u0142ek",
+                "givenName": "Jakub",
+                "familyName": "Mizio\u0142ek",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Shanti Rochester",
+                "givenName": "Shanti",
+                "familyName": "Rochester",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 237,
+                "unitText": "Publications",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/vlSurveyor/#0",
+                "encoding": "csv",
+                "dateModified": "2022-11-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/mqsurveyor/",
+                "encoding": "xlsx",
+                "dateModified": "2022-11-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/surveyor/NMFI/#0",
+                "encoding": "xlsx",
+                "dateModified": "2016-12-31"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "WorldWide Antimalarial Resistance Network",
+                "url": "https://www.iddo.org/wwarn"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "WorldWide Antimalarial Resistance Network",
+                "url": "https://www.iddo.org/wwarn"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013358"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/biodbcore-001473/"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q59536049"
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://www.iddo.org/research/publications"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_4013",
+            "http://edamontology.org/topic_3377"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005737",
+            "http://purl.obolibrary.org/obo/MONDO_0005445",
+            "http://purl.obolibrary.org/obo/MONDO_0005136",
+            "http://purl.obolibrary.org/obo/MONDO_0015254",
+            "http://purl.obolibrary.org/obo/MONDO_0004664",
+            "http://purl.obolibrary.org/obo/MONDO_0001444",
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/HP_0001945",
+            "http://purl.obolibrary.org/obo/MONDO_0019365",
+            "http://purl.obolibrary.org/obo/MONDO_0001249",
+            "http://purl.obolibrary.org/obo/MONDO_0017775",
+            "http://purl.obolibrary.org/obo/MONDO_0005761"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_186536",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5658",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5820",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6181",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10232",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6340",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6157",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6231",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5693",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_784",
+            "http://purl.obolibrary.org/obo/NCBITaxon_813",
+            "http://purl.obolibrary.org/obo/NCBITaxon_28450",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6293",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6279"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C15719",
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C15206"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C17248",
+            "http://purl.obolibrary.org/obo/CMO_0001109",
+            "http://purl.obolibrary.org/obo/NCIT_C39547"
+        ],
+        "keywords": [
+            "https://www.wikidata.org/wiki/Q261468",
+            "http://purl.obolibrary.org/obo/OBI_0200111",
+            "http://purl.obolibrary.org/obo/GSSO_006344"
+        ],
+        "about": [
+            {
+                "name": "Protocol",
+                "url": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ComputationalTool",
+                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "WorldWide Antimalarial Resistance Network",
+        "url": "https://www.iddo.org/wwarn",
+        "identifier": "https://www.iddo.org/wwarn",
+        "alternateName": "WWARN",
+        "license": "https://www.iddo.org/data-sharing",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.iddo.org/data-sharing"
+        },
+        "abstract": "WorldWide Antimalarial Resistance Network (WWARN) is a Bill and Melinda Gates Foundation supported IID repository that includes clinical data.",
+        "description": "The WorldWide Antimalarial Resistance Network (WWARN) is a collaborative platform generating innovative resources and reliable evidence to inform the malaria community on the factors affecting the efficacy of antimalarial medicines.",
+        "collectionType": "Repository",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2024-11-22",
+        "dateCreated": "2008-11-11",
+        "datePublished": "2009-06-12",
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-01-23",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP48807_01",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory",
+                "alternateName": "IDDO",
+                "identifier": "https://ror.org/04tp3cz81",
+                "parentOrganization": "Oxford University"
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 7,
+                "unitText": "analytical tools",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 201,
+                "unitText": "documents and protocols",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 97,
+                "unitText": "Publications",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 39,
+                "unitText": "active study groups",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 24,
+                "unitText": "completed study groups",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 94,
+                "unitText": "procedures",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/document/wwarn-clinical-trials-publication-library-download",
+                "encoding": "xlsx",
+                "dateModified": "2024-08-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/document/extracted-data-p-vivax-antimalarial-efficacy-study-sites",
+                "encoding": "xlsx",
+                "dateModified": "2023-12-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/wwarn/wwarn-vivax-library",
+                "encoding": "xlsx",
+                "dateModified": "2024-10-01"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Infectious Diseases Data Observatory",
+                "url": "https://www.iddo.org/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "EducationalOccupationalProgram",
+                "name": "Online Courses",
+                "url": "https://www.iddo.org/wwarn/tools-resources/online-courses"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Infectious Diseases Data Observatory",
+                "url": "https://www.iddo.org/"
+            }
+        ],
+        "sameAs": [
+            "https://www.wwarn.org",
+            "https://www.wikidata.org/wiki/Q26883825"
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100011924"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://www.iddo.org/wwarn/impact/publications"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_4013",
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_3377"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005136"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_5833",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5855",
+            "http://purl.obolibrary.org/obo/NCBITaxon_36330",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5820"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C15719",
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C15206"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C271",
+            "http://purl.obolibrary.org/obo/NCIT_C93245",
+            "http://purl.obolibrary.org/obo/NCIT_C25464"
+        ],
+        "keywords": [
+            "https://www.wikidata.org/wiki/Q261468",
+            "http://purl.obolibrary.org/obo/OBI_0200111",
+            "http://purl.obolibrary.org/obo/GSSO_006344"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "about": [
+            {
+                "name": "Protocol",
+                "url": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Course",
+                "url": "For schema, consider https://bioschemas.org/profiles/Course/1.0-RELEASE",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ComputationalTool",
+                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
+                "@type": "DefinedTerm"
+            }
+        ]
+    }
+]
