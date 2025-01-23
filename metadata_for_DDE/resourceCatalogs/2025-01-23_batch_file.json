@@ -448,7 +448,7 @@
         "funding": [
             {
                 "@type": "MonetaryGrant",
-                "identifier": 208378,
+                "identifier": "208378",
                 "funder": {
                     "@type": "Organization",
                     "name": "Wellcome Trust"
@@ -726,22 +726,26 @@
         "about": [
             {
                 "name": "Protocol",
-                "url": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42651",
+                "description": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "ScholarlyArticle",
-                "url": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "Dataset",
-                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "ComputationalTool",
-                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
                 "@type": "DefinedTerm"
             }
         ]
@@ -935,27 +939,32 @@
         "about": [
             {
                 "name": "Protocol",
-                "url": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42651",
+                "description": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "ScholarlyArticle",
-                "url": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "Dataset",
-                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "Course",
-                "url": "For schema, consider https://bioschemas.org/profiles/Course/1.0-RELEASE",
+                "url": "http://schema.org/Course",
+                "description": "For schema, consider https://bioschemas.org/profiles/Course/1.0-RELEASE",
                 "@type": "DefinedTerm"
             },
             {
                 "name": "ComputationalTool",
-                "url": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
                 "@type": "DefinedTerm"
             }
         ]
