@@ -1,0 +1,15 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID HIPC Network",
+            "description": "The Human Immunology Project Consortium (HIPC) is a network of researchers established to create a public resource that characterizes the diverse states of the human immune system. HIPC investigators use modern analytic tools to profile the immune system before and after infection, vaccination, or treatment with an adjuvant.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/human-immunology-project-consortium",
+            "alternateName": [
+                "HIPC",
+                "Human Immunology Project Consortium"
+            ],
+            "url": "https://immunespace.org/",
+            "parentOrganization": "NIAID"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CRSTAL-ID program",
+            "description": "The CRSTAL-ID program, formerly known as the Structural Genomics Centers, supports the characterization of the 3D structure of proteins of infectious disease pathogens. Each Center is a collaborative effort consisting of teams from multiple academic institutions/companies. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/crstal-id",
+            "alternateName": [
+                "CRSTAL-ID",
+                "Centers for Research on Structural Biology of Infectious Diseases"
+            ],
+            "url": "https://www.niaid.nih.gov/research/crstal-id",
+            "parentOrganization": "NIAID"
+        }
+    ]
+}
