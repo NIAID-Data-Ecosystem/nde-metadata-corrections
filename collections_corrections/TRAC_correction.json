@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID TRACs",
+            "description": "The main goal of the TRACs is to provide administrative and shared research support to foster and elevate multidisciplinary TB research and provide exceptional mentorship to new investigators. TRACs will provide core facilities, services and mentoring opportunities to achieve the goals of the program. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/tuberculosis-research-advancement-centers",
+            "alternateName": [
+                "TRAC",
+                "Tuberculosis Research Advancement Centers",
+                "TRACs"
+            ],
+            "url": "https://tb.ucsf.edu/uc-trac",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

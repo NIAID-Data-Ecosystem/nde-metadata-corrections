@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID SAVE Program",
+            "description": "To support the generation of data for the SARS-CoV-2 Interagency Group (SIG), NIAID has created the SARS-CoV-2 Assessment of Viral Evolution (SAVE) risk-assessment pipeline for SARS-CoV-2 variant viruses. SAVE provides a comprehensive real-time risk assessment of emerging mutations in SARS-CoV-2 that could impact transmissibility, virulence, and susceptibility to infection- or vaccine-induced immunity. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/sars-cov-2-assessment-viral-evolution-program",
+            "alternateName": [
+                "SAVE",
+                "SARS-CoV-2 Assessment of Viral Evolution"
+            ],
+            "url": "https://www.niaid.nih.gov/research/sars-cov-2-assessment-viral-evolution-program",
+            "parentOrganization": [
+                "NIAID",
+                "SARS-CoV-2 Interagency Group"
+            ]
+        }
+    ]
+}

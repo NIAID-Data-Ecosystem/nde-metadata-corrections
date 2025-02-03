@@ -1,0 +1,19 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID GVIRF Platform",
+            "description": "The Global Vaccine and Immunization Research Forum (GVIRF) is a platform for scientific exchange and engagement among vaccine and immunization research communities, intended to enhance vaccine discovery, development, and deployment.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/global-vaccine-immunization-research-forum",
+            "alternateName": [
+                "GVIRF",
+                "Global Vaccine and Immunization Research Forum"
+            ],
+            "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/product-and-delivery-research/the-global-vaccine-and-immunization-research-forum-(gvirf)",
+            "parentOrganization": [
+                "NIAID",
+                "Bill and Melinda Gates Foundation",
+                "WHO"
+            ]
+        }
+    ]
+}

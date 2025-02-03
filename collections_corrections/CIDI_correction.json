@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CIDI Program",
+            "description": "CIDI is a partnership between NIAID and Radiology and Imaging Sciences at the National Institutes of Health Clinical Center. It was established to perform basic science, translational, and clinical research on the imaging features of infectious disease. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/center-infectious-disease-imaging",
+            "alternateName": [
+                "CIDI",
+                "Center for Infectious Disease Imaging"
+            ],
+            "url": "https://www.cc.nih.gov/radis/cidi",
+            "parentOrganization": [
+                "NIAID",
+                "Radiology and Imaging Sciences at the NIH Clinical Center"
+            ]
+        }
+    ]
+}

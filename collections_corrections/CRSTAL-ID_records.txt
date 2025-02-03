@@ -1,2 +1,9 @@
-https://data.niaid.nih.gov/resources?id=dryad_31zcrjdtj
+https://data.niaid.nih.gov/resources?id=empiar-10599
+https://data.niaid.nih.gov/resources?id=pxd010494
+https://data.niaid.nih.gov/resources?id=msv000085097
+https://data.niaid.nih.gov/resources?id=gse185369
+https://data.niaid.nih.gov/resources?id=gse135228
+https://data.niaid.nih.gov/resources?id=gse153940
 https://data.niaid.nih.gov/resources?id=s-scdt-10_1038-s44320-024-00076-z
+https://data.niaid.nih.gov/resources?id=gse171703
+https://data.niaid.nih.gov/resources?id=gse149036

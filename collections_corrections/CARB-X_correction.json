@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CARB-X Network",
+            "description": "CARB-X is focused on the preclinical discovery and development and Phase 1 clinical trials of new antibacterial products (including therapeutics, vaccines, and diagnostics) to help address the threat of antibiotic resistance. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/carb-x",
+            "alternateName": [
+                "CARB-X",
+                "Combating Antibiotic-Resistant Bacteria Biopharmaceutical Accelerator"
+            ],
+            "url": "https://carb-x.org/",
+            "parentOrganization": [
+                "NIAID",
+                "Boston University"
+            ]
+        }
+    ]
+}

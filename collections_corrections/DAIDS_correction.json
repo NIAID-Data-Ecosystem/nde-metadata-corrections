@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID DAIDS",
+            "description": "The Division of AIDS (DAIDS) was formed to develop and implement the national research agenda to address the HIV/AIDS epidemic. Toward that end, the division supports a global research portfolio to advance biological knowledge of HIV/AIDS, its related co-infections, and co-morbidities.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/about/daids",
+            "alternateName": [
+                "DAIDS",
+                "The Division of AIDS"
+            ],
+            "url": NaN,
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

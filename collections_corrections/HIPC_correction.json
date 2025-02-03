@@ -9,7 +9,9 @@
                 "Human Immunology Project Consortium"
             ],
             "url": "https://immunespace.org/",
-            "parentOrganization": "NIAID"
+            "parentOrganization": [
+                "NIAID"
+            ]
         }
     ]
 }

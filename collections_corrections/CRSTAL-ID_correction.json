@@ -9,7 +9,9 @@
                 "Centers for Research on Structural Biology of Infectious Diseases"
             ],
             "url": "https://www.niaid.nih.gov/research/crstal-id",
-            "parentOrganization": "NIAID"
+            "parentOrganization": [
+                "NIAID"
+            ]
         }
     ]
 }

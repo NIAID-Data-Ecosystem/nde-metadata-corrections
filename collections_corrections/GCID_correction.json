@@ -9,7 +9,9 @@
                 "Genomic Centers for Infectious Diseases"
             ],
             "url": "https://www.niaid.nih.gov/research/gcid-resources",
-            "parentOrganization": "NIAID"
+            "parentOrganization": [
+                "NIAID"
+            ]
         }
     ]
 }

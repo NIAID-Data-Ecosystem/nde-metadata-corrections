@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CCHI Program",
+            "description": "The long-term goal of the Cooperative Centers on Human Immunology (CCHI) program is to translate immunology research into clinical applications in humans in the areas of infectious disease and immune-mediated diseases. CCHI supports mechanistic and hypothesis-testing studies to discover novel molecules, mechanisms, or regulatory pathways governing function of the human immune system in both healthy and vulnerable populations (i.e., across lifespan, organ/tissue transplant recipients, and pregnant women). For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/cooperative-centers-human-immunology",
+            "alternateName": [
+                "CCHI",
+                "Cooperative Centers on Human Immunology"
+            ],
+            "url": NaN,
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
