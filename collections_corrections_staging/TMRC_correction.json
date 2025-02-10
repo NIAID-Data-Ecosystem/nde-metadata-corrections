@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID TMRCs Network",
+            "description": "NIAID established the Tropical Medicine Research Centers (TMRC) program to fund neglected tropical diseases (NTD) research centers in disease-endemic countries. The centers are designed to conduct research on the cause, diagnosis, prevention, and treatment of NTDs, and to build in-country research capacity. The program has increased capacity of local TMRC awardees to support independent research activities, conduct future clinical trials, and implement new treatment, prevention, and vector control strategies. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/tropical-medicine-research-centers",
+            "alternateName": [
+                "TMRC",
+                "Tropical Medicine Research Centers"
+            ],
+            "url": "https://tmrc-network.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

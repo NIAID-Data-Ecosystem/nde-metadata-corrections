@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID NACC Consortium",
+            "description": "The North American Cysticercosis Consortium is a working group of physicians and scientists interested in furthering the study and rational treatment of neurocysticercosis in North America. The establishment of this consortium is supported by the National Institutes of Health Office of Rare Diseases and NIAID, with an overarching goal of determining the feasibility of conducting collaborative, multicenter studies of neurocysticercosis and to pool the experience of practitioners in North America who are involved in the management of this disease. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/nacc-background",
+            "alternateName": [
+                "NACC",
+                "North American Cysticercosis Consortium"
+            ],
+            "url": "https://www.niaid.nih.gov/research/nacc-background",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
