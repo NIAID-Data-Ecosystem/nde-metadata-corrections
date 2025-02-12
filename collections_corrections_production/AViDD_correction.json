@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID AViDD Centers",
+            "description": "The AViDD Centers will conduct innovative, multidisciplinary research to develop candidate COVID-19 antivirals, especially those that can be taken in an outpatient setting, as well as antivirals targeting specific viral families with high potential to cause a pandemic in the future. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/antiviral-drug-discovery-centers-pathogens-pandemic-concern",
+            "alternateName": [
+                "AViDD",
+                "Antiviral Drug Discovery Centers"
+            ],
+            "url": "https://www.niaid.nih.gov/research/antiviral-drug-discovery-centers-pathogens-pandemic-concern",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

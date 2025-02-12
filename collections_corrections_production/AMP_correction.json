@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "AMP Network",
+            "description": "The Accelerating Medicines Partnership is a public-private collaboration among the National Institutes of Health, pharmaceutical companies, and non-profit organizations. The goal of the work is to pinpoint the genes, proteins, and cell signaling pathways involved in disease pathogenesis and response to current therapies, and to identify tissue specific targets for new therapies. Network researchers are employing emerging single cell technologies, big data tools, and invaluable samples obtained from consenting rheumatoid arthritis (RA) patients or lupus patients. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/accelerating-medicines-partnership-rheumatoid-arthritis-lupus",
+            "alternateName": [
+                "AMP",
+                "AMP-RA/SLE",
+                "Accelerating Medicines Partnership"
+            ],
+            "url": "https://fnih.org/our-programs/accelerating-medicines-partnership-amp/",
+            "parentOrganization": [
+                "NIH"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CETR Program",
+            "description": "The CETR program builds on work of previous NIAID-supported research and development programs to advance discovery, preclinical development, production, licensure and/or use of new or improved medical countermeasures (therapeutics, immunotherapeutics, vaccines, vaccine technologies, and medical diagnostics) or related technologies for emerging and re-emerging infectious diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/centers-excellence-translational-research",
+            "alternateName": [
+                "CETR",
+                "Centers of Excellence for Translational Research"
+            ],
+            "url": "https://www.niaid.nih.gov/research/centers-excellence-translational-research",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

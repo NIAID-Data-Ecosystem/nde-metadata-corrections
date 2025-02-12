@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CFAR Program",
+            "description": "The Centers for AIDS Research (CFAR) program at the National Institutes of Health provides administrative and shared research support to synergistically enhance and coordinate high quality AIDS research projects. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/centers-aids-research",
+            "alternateName": [
+                "CFAR",
+                "Centers for AIDS Research"
+            ],
+            "url": "https://www.niaid.nih.gov/research/about-centers-aids-research",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

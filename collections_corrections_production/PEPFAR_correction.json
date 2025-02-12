@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "PEPFAR",
+            "description": "PEPFAR is the U.S. government initiative to help save the lives of those living with and affected by HIV/AIDS around the world. This historic commitment is the largest by any nation to combat a single disease internationally, and PEPFAR investments also help alleviate suffering from other diseases across the global health spectrum. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/president-emergency-plan-aids-relief",
+            "alternateName": [
+                "PEPFAR",
+                "U.S. President's Emergency Plan for AIDS Relief"
+            ],
+            "url": "https://www.pepfar.gov/",
+            "parentOrganization": [
+                "U.S. Department of State"
+            ]
+        }
+    ]
+}

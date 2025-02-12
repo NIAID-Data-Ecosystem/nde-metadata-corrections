@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CHAVD Consortia",
+            "description": "CHAVD are two consortia established by NIAID to develop and select through iterative design HIV immunogens and regimens that induce broadly neutralizing antibody (bNAb) responses for advancement into clinical testing.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/chavi-id",
+            "alternateName": [
+                "CHAVD",
+                "CHAVI-ID",
+                "Center for HIV/AIDS Vaccine Immunology & Immunogen Discovery"
+            ],
+            "url": "https://www.niaid.nih.gov/research/chavi-id",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

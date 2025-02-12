@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID ACE Program",
+            "description": "NIAID established the Autoimmunity Centers of Excellence (ACE) to conduct collaborative basic and clinical research on autoimmune diseases. The ACE program enables close interaction between clinicians and basic researchers to accelerate the discovery, development, and translation of therapies for autoimmune diseases from the lab to use in the clinic. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/autoimmunity-centers-excellence",
+            "alternateName": [
+                "ACE",
+                "Autoimmunity Centers of Excellence"
+            ],
+            "url": "https://www.autoimmunitycenters.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
