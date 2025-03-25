@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Papillomavirus Episteme",
+        "url": "https://pave.niaid.nih.gov/",
+        "identifier": "https://pave.niaid.nih.gov/",
+        "alternateName": "PaVE",
+        "license": "https://pave.niaid.nih.gov/about#licenses",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://pave.niaid.nih.gov/about#general"
+        },
+        "abstract": "Papillomavirus Episteme (PaVE) is a NIAID supported IID repository that includes genomic data.",
+        "description": "The PapillomaVirus Episteme (PaVE) has been established to provide highly organized and curated papillomavirus genomics information and tools to the scientific community. The PaVE consists of a database and web applications that support the storage, annotation, analysis, and exchange of information. To the extent possible, the PaVE adopts an open source software approach and emphasizes integration and reuse of existing tools",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2.0",
+        "genre": "IID",
+        "dateModified": "2024-10-23",
+        "datePublished": "2009-04-01",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The Papillomavirus Episteme: a major update to the papillomavirus sequence database.",
+                "pmid": "28053164"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The Papillomavirus Episteme: a central resource for papillomavirus sequence data and analysis.",
+                "pmid": "23093593"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "PaVE 2.0: Behind the Scenes of the Papillomavirus Episteme.",
+                "pmid": "39732323"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-03-25",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1ZIAAI001071",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GS35F0373X",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Jennifer Dommer",
+                "givenName": "Jennifer",
+                "familyName": "Dommer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bioinformatics and Computational Biosciences Branch (BCBB)",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Koenraad Van Doorslaer",
+                "givenName": "Koenraad",
+                "familyName": "Van Doorslaer",
+                "identifier": "https://orcid.org/0000-0002-2985-0733",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Department of Immunobiology, College of Medicine, BIO5 Institute ",
+                    "parentOrganization": "University of Arizona"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Cyrus Afrasiabi",
+                "givenName": "Cyrus",
+                "familyName": "Afrasiabi",
+                "identifier": "https://orcid.org/0000-0001-7554-3454",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bioinformatics and Computational Biosciences Branch (BCBB)",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Kristen Browne",
+                "givenName": "Kristen",
+                "familyName": "Browne",
+                "identifier": "https://orcid.org/0000-0003-4066-7531",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bioinformatics and Computational Biosciences Branch (BCBB)",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Sam Ezeji",
+                "givenName": "Sam",
+                "familyName": "Ezeji",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bioinformatics and Computational Biosciences Branch (BCBB)",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lewis Kim",
+                "givenName": "Lewis",
+                "familyName": "Kim",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bioinformatics and Computational Biosciences Branch (BCBB)",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Michael Dolan",
+                "givenName": "Michael",
+                "familyName": "Dolan",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Bioinformatics and Computational Biosciences Branch (BCBB)",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Alison A. McBride",
+                "givenName": "Alison",
+                "familyName": "McBride",
+                "identifier": "https://orcid.org/0000-0001-5607-5157",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Laboratory of Viral Diseases",
+                    "parentOrganization": "National Institute of Allergy and Infectious Diseases"
+                }
+            }
+        ],
+        "collectionSize": [
+            {
+                "minValue": 853,
+                "unitText": "annotated papillomavirus genomes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 6687,
+                "unitText": "protein sequences",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 108,
+                "unitText": "protein structures",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 11338,
+                "unitText": "genes and regions",
+                "@type": "PropertyValue"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Human Papillomaviruses Database",
+                "url": "https://pave.niaid.nih.gov/lanl-archives/index.html",
+                "description": "The original Human Papillomaviruses Database developed and hosted by the Los Alamos National Laboratory (LANL) between 1994 and 1997"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Classification of papillomaviruses",
+                "pmid": 15183049
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Classification of papillomaviruses (PVs) based on 189 PV types and proposal of taxonomic amendments",
+                "pmid": 20206957
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "MAFFT",
+                "url": "https://mafft.cbrc.jp/alignment/software/",
+                "description": "Multiple alignment program for amino acid or nucleotide sequences"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "BLAST",
+                "url": "https://blast.ncbi.nlm.nih.gov/Blast.cgi",
+                "description": "Basic Local Alignment Search Tool"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Review Chapters",
+                "url": "https://pave.niaid.nih.gov/explore/review_chapters"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Multiple Sequence Alignment Tool",
+                "url": "https://pave.niaid.nih.gov/analyze/multiple_sequence_alignment",
+                "description": "PaVE Uses MAFFT which computes the alignment based on the fast Fourier transform."
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Protein Structure Viewer",
+                "url": "https://pave.niaid.nih.gov/analyze/protein_structure_viewer",
+                "description": "The Protein Structure Viewer module displays a NGL Viewer rendering of PDB structures of Papillomavirus proteins"
+            },
+            {
+                "@type": "Collection",
+                "name": "Resources",
+                "url": "https://pave.niaid.nih.gov/resources",
+                "description": "Papillomavirus Links, Articles, and Conferences"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Papers that reference PaVE",
+                "url": "https://scholar.google.com/scholar?start=0&q=pave.niaid.nih.gov&hl=en&as_sdt=0,21"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Database Commons ",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/377"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Research Resource Identification Portal",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_016599/resolver?q=*&l=&i=rrid:scr_016599"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A human papillomavirus whole genome plasmid repository: A resource for HPV DNA quality control reagents ",
+                "pmid": 37499306
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q114731524"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0781",
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_0084",
+            "http://edamontology.org/topic_0219"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005161"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_151340"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_32525",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8782",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8292",
+            "http://purl.obolibrary.org/obo/NCBITaxon_32561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_186625"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://www.bioassayontology.org/bao#BAO_0002206",
+            "http://purl.obolibrary.org/obo/OBI_0002567"
+        ],
+        "variableMeasured": [
+            "http://edamontology.org/data_2044",
+            "http://edamontology.org/data_2523",
+            "http://www.ebi.ac.uk/efo/EFO_0004828"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_2814",
+            "http://edamontology.org/topic_3295",
+            "http://edamontology.org/operation_3208"
+        ],
+        "about": [
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "description": "Subclass of BioChemEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Gene",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16612",
+                "description": "For schema, consider https://schema.org/Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            }
+        ]
+    }
+]
