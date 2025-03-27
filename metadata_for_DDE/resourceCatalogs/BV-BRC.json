@@ -134,7 +134,7 @@
         }
     ],
     "collectionType": "Cloud Ecosystem",
-    "isBasisOn": [
+    "isBasedOn": [
         {
         "@type": "ScholarlyArticle",
         "pmid": "27679478",
