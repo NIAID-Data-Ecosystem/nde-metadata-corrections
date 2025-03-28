@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID TRACs",
-            "description": "The main goal of the TRACs is to provide administrative and shared research support to foster and elevate multidisciplinary TB research and provide exceptional mentorship to new investigators. TRACs will provide core facilities, services and mentoring opportunities to achieve the goals of the program. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/tuberculosis-research-advancement-centers",
+            "abstract": "Tuberculosis Research Advancement Centers (TRACs) provide research support and mentorship to foster multidisciplinary tuberculosis research. These centers offer core facilities, services, and training to advance tuberculosis studies and support new investigators.",
+            "description": "The main goal of the Tuberculosis Research Advancement Centers (TRACs) is to provide administrative and shared research support to foster and elevate multidisciplinary tuberculosis research and provide exceptional mentorship to new investigators. TRACs will provide core facilities, services and mentoring opportunities to achieve the goals of the program. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/tuberculosis-research-advancement-centers",
             "alternateName": [
                 "TRAC",
                 "Tuberculosis Research Advancement Centers",

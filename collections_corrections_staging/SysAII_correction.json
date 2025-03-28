@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID SysAII Program",
+            "abstract": "The Systems Approach to Immunity and Inflammation (SysAII) Program combines forward genetic screens in mice with systems-level analysis to uncover key immune regulatory genes and signaling pathways. Findings are validated in human cells and tissues to improve understanding of immune and inflammatory processes.",
+            "description": "The Systems Approach to Immunity and Inflammation (SysAII) Program conducts forward genetic screens of mutant or genetically diverse mice, combined with systems level analysis, to identify previously unappreciated key immune regulatory genes, signaling pathways, or mechanisms; and includes validation of these pathways in human cells and tissues. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/systems-approach-immunity-inflammation",
+            "alternateName": [
+                "Systems Approach to Immunity and Inflammation Program"
+            ],
+            "url": "https://www.niaid.nih.gov/research/systems-approach-immunity-inflammation",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

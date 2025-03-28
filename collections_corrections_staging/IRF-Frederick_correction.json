@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID IRF-Frederick Program",
+            "abstract": "The Integrated Research Facility at Fort Detrick (IRF-Frederick) facilitates multidisciplinary research on emerging and highly virulent viruses. The facility supports efforts to understand, treat, prevent, and eradicate infectious diseases.",
+            "description": "The Integrated Research Facility at Fort Detrick (IRF-Frederick) serves as a collaborative resource that facilitates multidisciplinary research to understand, treat, prevent, and eradicate diseases caused by novel, emerging, and highly virulent viruses.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/frederick-integrated-research-facility",
+            "alternateName": [
+                "Integrated Research Facility at Fort Detrick",
+                "IRF-Frederick"
+            ],
+            "url": "https://www.niaid.nih.gov/research/frederick-integrated-research-facility",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

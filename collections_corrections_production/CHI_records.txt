@@ -1,7 +1,7 @@
-https://data.niaid.nih.gov/resources?id=gse138702
-https://data.niaid.nih.gov/resources?id=gse120444
-https://data.niaid.nih.gov/resources?id=gse53948
 https://data.niaid.nih.gov/resources?id=gse120446
-https://data.niaid.nih.gov/resources?id=phs003233
+https://data.niaid.nih.gov/resources?id=gse120444
+https://data.niaid.nih.gov/resources?id=gse138702
+https://data.niaid.nih.gov/resources?id=gse53948
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-zyq9
+https://data.niaid.nih.gov/resources?id=phs003233
 https://data.niaid.nih.gov/resources?id=gse120221

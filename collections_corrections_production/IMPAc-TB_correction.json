@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID IMPAc-TB Program",
+            "abstract": "The Immune Mechanisms of Protection Against Mycobacterium tuberculosis Centers (IMPAc-TB) investigates immune responses required to protect against Mycobacterium tuberculosis infection. The program aims to advance vaccine and therapeutic development by identifying key protective mechanisms.",
             "description": "The Immune Mechanisms of Protection Against Mycobacterium tuberculosis Centers (IMPAc-TB) program is an initiative established by NIAID in 2019 to elucidate the immune responses needed to protect against infection with Mycobacterium tuberculosis (Mtb). For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/immune-mechanisms-protection-mycobacterium-tuberculosis",
             "alternateName": [
                 "IMPAc-TB",

@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID IDCRP Program",
-            "description": "The IDCRP works to substantially reduce the impact of infectious diseases in the military population through a unique, adaptive, collaborative clinical research network. The IDCRP conducts infectious disease clinical research that is important to the military for informing health policy and clinical practice and disseminates findings throughout the scientific community. The work of the program has a direct impact on force readiness. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/infectious-disease-clinical-research-program",
+            "abstract": "The Infectious Disease Clinical Research Program (IDCRP) conducts clinical research to reduce the impact of infectious diseases in military populations, informing health policy and clinical practice. The program\u2019s collaborative network enhances force readiness by addressing key infectious disease challenges.",
+            "description": "The Infectious Disease Clinical Research Program (IDCRP) works to substantially reduce the impact of infectious diseases in the military population through a unique, adaptive, collaborative clinical research network. The IDCRP conducts infectious disease clinical research that is important to the military for informing health policy and clinical practice and disseminates findings throughout the scientific community. The work of the program has a direct impact on force readiness. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/infectious-disease-clinical-research-program",
             "alternateName": [
                 "IDCRP",
                 "Infectious Disease Clinical Research Program"

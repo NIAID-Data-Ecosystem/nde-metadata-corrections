@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID GHAVE",
-            "description": "An effective and widely available vaccine will be central to any global strategy to slow and end the HIV pandemic. Recognizing the need for increased cooperation, 30+ international organizations joined forces, forming the Global HIV Vaccine Enterprise (Enterprise), a voluntary alliance of public and private partners committed to working together, while maintaining independent decision-making authority. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/global-hiv-vaccine-enterprise",
+            "abstract": "The Global HIV Vaccine Enterprise (GHAVE) is an international alliance of public and private partners collaborating to accelerate HIV vaccine development. While maintaining independent decision-making, member organizations coordinate efforts to advance research and clinical trials.",
+            "description": "An effective and widely available vaccine will be central to any global strategy to slow and end the HIV pandemic. Recognizing the need for increased cooperation, 30+ international organizations joined forces, forming the Global HIV Vaccine Enterprise (GHAVE), a voluntary alliance of public and private partners committed to working together, while maintaining independent decision-making authority. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/global-hiv-vaccine-enterprise",
             "alternateName": [
                 "GHAVE",
                 "Global HIV Vaccine Enterprise"

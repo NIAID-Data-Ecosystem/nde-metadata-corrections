@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID PREMISE Program",
+            "abstract": "PREMISE (Pandemic REsponse REpository through Microbial and Immune Surveillance and Epidemiology), led by the NIAID Vaccine Research Center, supports pandemic preparedness by conducting virologic and immunologic screening. Through a network of investigators, the program detects immune responses to pathogens with pandemic potential.",
+            "description": "At the NIAID Vaccine Research Center, the PREMISE (Pandemic REsponse REpository through Microbial and Immune Surveillance and Epidemiology) program was established to support pandemic preparedness and response. Through a network of investigators and collaborators, PREMISE conducts virologic and immunologic screening of targeted and broad cohorts to detect reactivity against pathogens of pandemic potential.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/premise",
+            "alternateName": [
+                "PREMISE",
+                "Pandemic REsponse REpository through Microbial and Immune Surveillance and Epidemiology"
+            ],
+            "url": "https://www.niaid.nih.gov/research/premise",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

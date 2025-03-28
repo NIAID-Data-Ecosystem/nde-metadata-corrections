@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID HLA RGIMDC Program",
+            "abstract": "The HLA (human leukocyte antigen) Region Genetics in Immune-Mediated Diseases Consortium (HLA RGIMDC) studies how genetic variations in the HLA gene region and killer immunoglobulin-like receptor gene family influence immune-mediated diseases. The consortium aims to improve understanding of disease mechanisms and potential therapeutic targets.",
+            "description": "This purpose of HLA (human leukocyte antigen) Region Genetics in Immune-Mediated Diseases Consortium (HLA RGIMDC) is to understand how the HLA gene region and killer immunoglobulin-like receptor gene family are associated with immune-mediated diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hla-region-genetics-immune-mediated-diseases-consortium",
+            "alternateName": [
+                "HLA Region Genetics in Immune-Mediated Diseases Consortium"
+            ],
+            "url": "https://www.niaid.nih.gov/research/hla-region-genetics-immune-mediated-diseases-consortium",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

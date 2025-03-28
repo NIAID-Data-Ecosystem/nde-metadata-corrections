@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID ADRN Network",
-            "description": "The ADRN is a consortium of academic medical centers that conduct clinical research studies to learn more about skin infections associated with atopic dermatitis. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/atopic-dermatitis-research-network",
+            "abstract": "The Atopic Dermatitis Research Network (ADRN) is a consortium of academic medical centers studying skin infections associated with atopic dermatitis. The network conducts clinical research to improve understanding and treatment of these infections.",
+            "description": "The Atopic Dermatitis Research Network (ADRN) is a consortium of academic medical centers that conduct clinical research studies to learn more about skin infections associated with atopic dermatitis. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/atopic-dermatitis-research-network",
             "alternateName": [
                 "ADRN",
                 "Atopic Dermatitis Research Network"

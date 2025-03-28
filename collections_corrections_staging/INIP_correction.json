@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID INI Program",
+            "abstract": "The Immunity in Neonates and Infants (INI) Program supports research on immune system development during the first year of life. It encourages innovative studies using human infant tissues, cells, or animal models to define key pathways shaping neonatal and infant immunity.",
+            "description": "The Immunity in Neonates and Infants (INI) Program supports research of the developing immune system during the first year of life. This program encourages the use of innovative approaches using human infant tissues and cells, or relevant animal models, to define pathways and mechanisms that contribute to the immune status of the neonate and infant. Innovative studies that break new ground or extend discoveries toward new directions are encouraged. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/immunity-neonates-infants-program",
+            "alternateName": [
+                "Immunity in Neonates and Infants Program"
+            ],
+            "url": "https://www.niaid.nih.gov/research/immunity-neonates-infants-program",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID CSGADP Network",
-            "description": "CSGADP is a collaborative network of investigators with a focus on halting the development of autoimmune disease prior to clinical onset by means other than global immunosuppression with an emphasis on Type 1 diabetes. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/cooperative-study-group-autoimmune-disease-prevention",
+            "abstract": "Cooperative Study Group for Autoimmune Disease Prevention (CSGADP) is a collaborative research network focused on preventing autoimmune diseases, with an emphasis on Type 1 diabetes. The program explores strategies beyond global immunosuppression to halt disease development before clinical onset.",
+            "description": "Cooperative Study Group for Autoimmune Disease Prevention (CSGADP) is a collaborative network of investigators with a focus on halting the development of autoimmune disease prior to clinical onset by means other than global immunosuppression with an emphasis on Type 1 diabetes. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/cooperative-study-group-autoimmune-disease-prevention",
             "alternateName": [
                 "CSGADP",
                 "NIAID Cooperative Study Group for Autoimmune Disease Prevention"

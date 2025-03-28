@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CHIV-SB",
+            "abstract": "The Centers for HIV Structural Biology (CHIV-SB) use structural biology, biochemistry, and cell biology to map the three-dimensional structures of HIV proteins, nucleic acids, and their interactions with cellular components. This research provides insights into HIV mechanisms and identifies potential targets for new therapies and preventive vaccines.",
+            "description": "The Centers for HIV Structural Biology (CHIV-SB) integrate a variety of techniques from structural biology, biochemistry and cell biology to capture in unprecedented detail the three-dimensional structures of HIV proteins and nucleic acids and their interactions with cellular components. This information will help elucidate how the different components interact and reveal new approaches for disrupting those interactions, potentially leading to new targets for HIV therapies and preventive vaccines. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-structural-bio",
+            "alternateName": [
+                "Centers for HIV Structural Biology"
+            ],
+            "url": "https://www.niaid.nih.gov/research/hiv-structural-bio",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

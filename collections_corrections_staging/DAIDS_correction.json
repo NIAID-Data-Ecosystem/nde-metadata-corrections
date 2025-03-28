@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID DAIDS",
+            "abstract": "The Division of AIDS (DAIDS) leads the national HIV/AIDS research agenda, supporting a global portfolio to advance biological knowledge and treatment of HIV/AIDS and related co-infections. The division funds studies to develop new therapies, vaccines, and prevention strategies.",
             "description": "The Division of AIDS (DAIDS) was formed to develop and implement the national research agenda to address the HIV/AIDS epidemic. Toward that end, the division supports a global research portfolio to advance biological knowledge of HIV/AIDS, its related co-infections, and co-morbidities.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/about/daids",
             "alternateName": [
                 "DAIDS",

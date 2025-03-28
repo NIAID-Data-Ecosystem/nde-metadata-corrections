@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID TTIPO",
+            "abstract": "The Technology Transfer and Intellectual Property Office (TTIPO) facilitates collaborations between NIAID investigators and the broader scientific community by managing technology transfer agreements and intellectual property. The office oversees NIAID's patent portfolio and licensing efforts.",
+            "description": "The Technology Transfer and Intellectual Property Office (TTIPO) facilitates collaborative relationships between NIAID investigators and the broader scientific community. TTIPO staff members are experts in technology transfer and intellectual property and are NIAID\u2019s main resource for negotiating technology transfer agreements. TTIPO also oversees and manages NIAID\u2019s patent portfolio and licensing agreements. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/technology-transfer-and-intellectual-property-office",
+            "alternateName": [
+                "Technology Transfer and Intellectual Property Office",
+                "TTIPO"
+            ],
+            "url": "https://www.niaid.nih.gov/research/technology-transfer-and-intellectual-property-office",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

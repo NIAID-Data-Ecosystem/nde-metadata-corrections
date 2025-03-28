@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIH USIDNET Program",
-            "description": "The United States Immunodeficiency Network, a NIH-funded research program of the Immune Deficiency Foundation, was established to advance scientific research in primary immunodeficiency (PI) diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/us-immunodeficiency-network",
+            "abstract": "The United States Immunodeficiency Network (USIDNET) is a NIH-funded research program dedicated to advancing scientific knowledge on primary immunodeficiency (PI) diseases. The network collects patient data and supports research to improve diagnosis and treatment.",
+            "description": "The United States Immunodeficiency Network (USIDNET), a NIH-funded research program of the Immune Deficiency Foundation, was established to advance scientific research in primary immunodeficiency (PI) diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/us-immunodeficiency-network",
             "alternateName": [
                 "USIDNET",
                 "The United States Immunodeficiency Network"

@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID ARLG Program",
+            "abstract": "The Antibacterial Resistance Leadership Group (ARLG) is a clinical research initiative addressing the global challenge of antibacterial resistance by conducting studies in 19 countries. The program evaluates new drugs, diagnostic tools, and treatment strategies to combat multidrug-resistant bacteria.",
             "description": "In 2013, NIAID launched the Antibacterial Resistance Leadership Group (ARLG), a major clinical effort to address antibacterial resistance (AR). Since its inception, the program has established collaborations in 19 countries and conducted over 40 clinical research studies involving more than 20,000 volunteers. Studies conducted by the ARLG include clinical testing of new drugs to treat multidrug-resistant Gram-negative bacteria, evaluating diagnostic devices in clinical settings, and optimizing treatment regimens to reduce the emergence of resistance. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/antibacterial-resistance-leadership-group",
             "alternateName": [
                 "ARLG",

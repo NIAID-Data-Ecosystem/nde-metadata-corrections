@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID MIB Program",
+            "abstract": "NIAID Modeling Immunity for Biodefense (MIB) unites immunologists, microbiologists, bioinformaticians, and modelers to study immune responses triggered by infection and vaccination. The program aims to improve immune system modeling for biodefense applications.",
             "description": "The NIAID Modeling Immunity for Biodefense (MIB) program brings together immunologists, microbiologists, bioinformaticians, and modelers to advance our understanding of the complex immune mechanisms triggered by infection and/or vaccination. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/modeling-immunity-biodefense",
             "alternateName": [
                 "MIB",

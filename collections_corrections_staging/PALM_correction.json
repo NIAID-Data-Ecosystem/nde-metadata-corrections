@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID PALM Program",
+            "abstract": "Pamoja Tulinde Maisha (PALM) is a partnership between NIAID and the Democratic Republic of Congo\u2019s Ministry of Public Health to address infectious disease threats. The initiative brings together global scientific partners to develop collaborative solutions for diseases with worldwide impact.",
+            "description": "Pamoja Tulinde Maisha (PALM) is a government partnership between the National Institute of Allergy and Infectious Diseases (NIAID) of the United States of America (USA) and the Ministry of Public Health of the Democratic Republic of Congo (DRC), represented by the National Institute for Biomedical Research (INRB).  PALM aims to bring together additional scientific partners who promote a collaborative approach to solving critical infectious disease problems with global impact. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/pamoja-tulinde-maisha",
+            "alternateName": [
+                "Pamoja Tulinde Maisha",
+                "PALM"
+            ],
+            "url": "https://www.niaid.nih.gov/research/pamoja-tulinde-maisha",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

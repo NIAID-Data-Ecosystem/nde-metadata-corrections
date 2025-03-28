@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "EDCTP Program",
+            "abstract": "European and Developing Countries Clinical Trials Partnership (EDCTP) funds research to prevent and treat HIV/AIDS, tuberculosis, malaria, and neglected infectious diseases in sub-Saharan Africa. The program supports collaborative clinical trials to improve health outcomes in endemic regions.",
+            "description": "European and Developing Countries Clinical Trials Partnership (EDCTP)  funds research for prevention and treatment of HIV/AIDS, tuberculosis, malaria, and neglected infectious diseases in sub-Saharan Africa. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/clinical-trials-partnerships",
+            "alternateName": [
+                "European and Developing Countries Clinical Trials Partnership",
+                "EDCTP"
+            ],
+            "url": "http://www.edctp.org/",
+            "parentOrganization": [
+                "European Union"
+            ]
+        }
+    ]
+}

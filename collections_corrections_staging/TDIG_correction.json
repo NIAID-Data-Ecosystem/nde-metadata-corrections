@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIH TDIG Group",
+            "abstract": "The Targeted Delivery Interest Group (TDIG) is a multi-institutional NIH team focused on advancing targeted delivery of therapeutics to specific organs. The group identifies research gaps and opportunities to enhance treatments for autoimmune diseases, transplantation, cancer, neurodegeneration, cardiovascular diseases, and infectious diseases.",
+            "description": "The Targeted Delivery Interest Group (TDIG) is a NIH multi-institutional team that champions targeted delivery of therapeutics to different organs for selective and effective treatments with reduced harmful effects. The group aims to identify gaps and opportunities to advance basic, translational, and clinical research for multiple delivery platforms applicable for the treatment of multiple diseases including autoimmunity, transplantation, cancers, neurodegeneration, cardiovascular diseases, and infectious diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/nih-targeted-delivery-interest-group",
+            "alternateName": [
+                "TDIG",
+                "NIH Targeted Delivery Interest Group"
+            ],
+            "url": "https://www.niaid.nih.gov/research/nih-targeted-delivery-interest-group",
+            "parentOrganization": [
+                "NIH"
+            ]
+        }
+    ]
+}

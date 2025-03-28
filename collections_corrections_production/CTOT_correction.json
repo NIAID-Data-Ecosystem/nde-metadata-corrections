@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID CTOT program",
+            "abstract": "The Clinical Trials in Organ Transplantation (CTOT) is a research consortium conducting clinical and mechanistic studies to improve transplant outcomes. The program focuses on optimizing therapies and understanding immune responses to improve short and long-term graft and patient survival.",
             "description": "The Clinical Trials in Organ Transplantation (CTOT) program is an investigative consortium that conducts clinical and associated mechanistic studies to improve outcomes for transplant recipients. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/clinical-trials-organ-transplantation",
             "alternateName": [
                 "CTOT",

@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID GCID Network",
+            "abstract": "The NIAID Genomic Centers for Infectious Diseases (GCID) advances understanding of microbial biology, pathogenesis, and host interactions by providing high-throughput sequencing and other genomic technologies. These centers support diverse genomic research to improve infectious disease prevention and treatment.",
             "description": "The NIAID Genomic Centers for Infectious Diseases (GCID) provide insights into the biology of microbes, their role in pathogenesis, and their interactions with the host, including the microbiome, by supporting a diverse set of genomic capabilities, such as high-throughput sequencing and related genomic technologies. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/genomic-centers-infectious-diseases",
             "alternateName": [
                 "GCID",

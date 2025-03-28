@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID FEND for TB program",
-            "description": "The goal of the Feasibility of Novel Diagnostics for TB in Endemic Countries (FEND for TB) program is to support the evaluation of early-stage diagnostics and novel diagnostic strategies for TB to address an urgent need for improved diagnostics.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/fendtb",
+            "abstract": "Feasibility of Novel Diagnostics for TB in Endemic Countries (FEND for TB) supports the evaluation of early-stage diagnostic tools and novel strategies to improve tuberculosis detection in high-burden settings. The program aims to address the urgent need for more effective and accessible tuberculosis diagnostics.",
+            "description": "The goal of the Feasibility of Novel Diagnostics for TB in Endemic Countries (FEND for TB) program is to support the evaluation of early-stage diagnostics and novel diagnostic strategies for tuberculosis to address an urgent need for improved diagnostics.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/fendtb",
             "alternateName": [
                 "FEND for TB",
                 "Feasibility of Novel Diagnostics for TB"

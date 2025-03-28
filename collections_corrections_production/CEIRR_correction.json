@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID CEIRR Network",
+            "abstract": "The Centers of Excellence for Influenza Research and Response (CEIRR) is an international research network that studies the transmission and pathogenesis of influenza while providing critical infrastructure for outbreak responses. The program builds on prior influenza research initiatives to enhance global preparedness strategies.",
             "description": "NIAID established the Centers of Excellence for Influenza Research and Response (CEIRR) to study natural history, transmission, and pathogenesis of influenza and provide an international research infrastructure to address influenza outbreaks. CEIRR replaced the Centers of Excellence for Influenza Research and Surveillance (CEIRS) program, which was supported by contracts that concluded on March 31, 2021. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/centers-excellence-influenza-research-response",
             "alternateName": [
                 "CEIRR",

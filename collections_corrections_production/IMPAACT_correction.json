@@ -3,6 +3,7 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID IMPAACT Network",
+            "abstract": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global network conducting clinical trials to prevent and treat HIV in infants, children, adolescents, and pregnant or postpartum women. The network brings together investigators, institutions, and community representatives to advance HIV research and care.",
             "description": "The International Maternal Pediatric Adolescent AIDS Clinical Trials (IMPAACT) Network is a global collaboration of investigators, institutions, community representatives and other partners organized for the purpose of evaluating interventions to treat and prevent HIV infection and its consequences in infants, children, adolescents, and pregnant/postpartum women through the conduct of high quality clinical trials. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/impaact",
             "alternateName": [
                 "IMPAACT",

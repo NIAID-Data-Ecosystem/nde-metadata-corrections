@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID UCRC Center",
+            "abstract": "The Mali-University Clinical Research Center (UCRC) is a collaboration between the Malian government, the University of Science, Technology, and Technology of Bamako, and NIAID to support clinical research in Mali. The center aims to improve healthcare quality through high-standard research, capacity building, and training.",
+            "description": "The Mali-University Clinical Research Center (UCRC) is an initiative between the Malian Ministry of Health (MoH), the Ministry of Higher Education, University of Science, Technology and Technology of Bamako (USTTB) and NIAID.  The purpose of the collaboration is to facilitate clinical research in Mali.  The UCRC vision is to become an international clinical research center of excellence in West Africa.  Its mission is to improve the quality of healthcare nationally, regionally, and globally by facilitating excellent clinical research at international standards, strengthening research capacity and providing training. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/mali-university-clinical-research-center",
+            "alternateName": [
+                "Mali-University Clinical Research Center",
+                "UCRC"
+            ],
+            "url": "https://www.niaid.nih.gov/research/mali-university-clinical-research-center",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

@@ -3,7 +3,8 @@
         {
             "@type": "ResearchProject",
             "name": "NIAID IDAD Program",
-            "description": "The IDAD program aims to improve our understanding of the immunologic processes underlying the initiation, progression, and clinical course of autoimmune diseases. The research thus focuses on defining the immunologic states and dynamics that drive the development of autoimmune diseases with the goal of preventing autoimmunity or stalling its clinical progression. All IDAD projects are focused solely on human subjects. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/immune-drivers-autoimmune-disease-idad",
+            "abstract": "Immune Drivers of Autoimmune Disease (IDAD) investigates the immune processes that contribute to the onset and progression of autoimmune diseases. The program aims to identify immunologic mechanisms that drive autoimmunity and develop strategies to prevent disease progression.",
+            "description": "The Immune Drivers of Autoimmune Disease (IDAD) program aims to improve our understanding of the immunologic processes underlying the initiation, progression, and clinical course of autoimmune diseases. The research thus focuses on defining the immunologic states and dynamics that drive the development of autoimmune diseases with the goal of preventing autoimmunity or stalling its clinical progression. All IDAD projects are focused solely on human subjects. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/immune-drivers-autoimmune-disease-idad",
             "alternateName": [
                 "IDAD",
                 "Immune Drivers of Autoimmune Disease"

@@ -1,0 +1,17 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID TCRR-SAD Program",
+            "abstract": "T Cell Reagent Research for the Study of Allergic Diseases (TCRR-SAD) advances the identification, characterization, and validation of novel T-cell epitopes in food allergens and aeroallergens. This research enhances understanding of allergic disease mechanisms and informs therapeutic development.",
+            "description": "T Cell Reagent Research for the Study of Allergic Diseases (TCRR-SAD) supports novel T-cell epitope identification, characterization and validation of important food allergens and aeroallergens that have not been previously studied. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/t-cell-reagent-research-study-allergic-diseases",
+            "alternateName": [
+                "T Cell Reagent Research for the Study of Allergic Diseases"
+            ],
+            "url": "https://www.niaid.nih.gov/research/t-cell-reagent-research-study-allergic-diseases",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
