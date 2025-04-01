@@ -81,7 +81,7 @@
             "@type": "ComputationalTool",
             "name": "Data Exploration Portal",
             "url": "https://depot.tbportals.niaid.nih.gov/#/home",
-            "alternateNAme": "TB DEPOT"
+            "alternateName": "TB DEPOT"
         },
         {
             "@type": "ComputationalTool",
