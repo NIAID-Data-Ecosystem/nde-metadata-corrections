@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Centers of Excellence for Influenza Research and Response (CEIRR)",
+        "url": "https://www.ceirr-network.org/",
+        "identifier": "https://www.ceirr-network.org/",
+        "alternateName": "CEIRR, CEIRR Network Resources, CEIRR Network",
+        "license": "https://www.ceirr-network.org/resources/data-standards",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.niaid.nih.gov/research/data-sharing-guidelines"
+        },
+        "abstract": "Centers of Excellence for Influenza Research and Response (CEIRR) is a NIAID supported IID repository that includes reagent data.",
+        "description": "The Centers of Excellence for Influenza Research and Response (CEIRR) Network is a multidisciplinary and collaborative research network funded by the National Institute of Allergy and Infectious Diseases (NIAID) to study the natural history, transmission and pathogenesis of influenza, and provide an international research infrastructure to address influenza outbreaks.\n\nCEIRR Centers conduct studies both in the United States and abroad to study key influenza research areas and provide pandemic response. Centers undertake projects that aim to better understand the immune response to influenza vaccination and infection and identify which immunological factors can determine disease severity. Surveillance projects investigate how influenza viruses infect, evolve, and transmit in both human and animal infections. ",
+        "collectionType": "Portal",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2025-01-17",
+        "dateCreated": "2021-04-23",
+        "datePublished": "2021-07-12",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Influenza response planning for the centers of excellence for influenza research and surveillance: Science preparedness for enhancing global health security.",
+                "pmid": "32306541"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-04-18",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00007",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00014",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00015",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00017",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00045",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00018",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93021C00016",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 3576,
+                "unitText": "Publications",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1190,
+                "unitText": "Ferret reagents",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 10379,
+                "unitText": "Reagents",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 7,
+                "unitText": "Data standard types",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isBasedOn": [
+            {
+                "@type": "ResearchProject",
+                "name": "CEIRS Program",
+                "url": "https://www.ceirr-network.org/about/the-legacy-of-ceirs"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "DataCatalog",
+                "name": "ImmPort",
+                "url": "https://www.immport.org/home"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "NCBI SRA",
+                "url": "https://www.ncbi.nlm.nih.gov/sra"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "BV-BRC",
+                "url": "https://www.bv-brc.org/"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "BioProjects",
+                "url": "https://www.ncbi.nlm.nih.gov/bioproject/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Meetings",
+                "url": "https://www.ceirr-network.org/news/meetings"
+            },
+            {
+                "@type": "Collection",
+                "name": "Data Standards",
+                "url": "https://www.ceirr-network.org/resources/data-standards",
+                "description": "The CEIRR Data Standards represent the evolution of the CEIRR Program and the culmination of efforts under the previous CEIRS Programs. The CEIRR Data Standards are used for all data submissions to the iDPCC but are made generally available to anyone who finds them useful to adopt and extend."
+            },
+            {
+                "@type": "Collection",
+                "name": "Reagents",
+                "url": "https://www.ceirr-network.org/resources/reagents",
+                "description": "The CEIRR Reagents webpage is a searchable and filterable catalog of over 10,000 free and unique reagents developed by CEIRR investigators, which are made available to the broad scientific community to help advance influenza and other viral research worldwide."
+            },
+            {
+                "@type": "Collection",
+                "name": "Ferret Reagents",
+                "url": "https://www.ceirr-network.org/resources/ferret-reagents",
+                "description": "The CEIRR Ferret Reagents webpage is a searchable and filterable catalog of over 1,000 free and unique immunological reagents for the ferret model produced by CEIRR investigators that are made available to the broad scientific community."
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Interactive Data Model",
+                "url": "https://www.ceirr-network.org/resources/idm"
+            },
+            {
+                "@type": "Organization",
+                "name": "Center for Influenza Disease and Emergence Research (CIDER)",
+                "url": "https://www.ceirr-network.org/centers/cider"
+            },
+            {
+                "@type": "Organization",
+                "name": "Center for Research on Influenza Pathogenesis and Transmission (CRIPT)",
+                "url": "https://www.ceirr-network.org/centers/cript"
+            },
+            {
+                "@type": "Organization",
+                "name": "CEIRR Influenza Data Processing and Communication Center (iDPCC)",
+                "url": "https://www.ceirr-network.org/centers/idpcc"
+            },
+            {
+                "@type": "Organization",
+                "name": "Emory University CEIRR (Emory-CEIRR)",
+                "url": "https://www.ceirr-network.org/centers/emory-ceirr"
+            },
+            {
+                "@type": "Organization",
+                "name": "Johns Hopkins CEIRR (JH-CEIRR)",
+                "url": "https://www.ceirr-network.org/centers/jh-ceirr"
+            },
+            {
+                "@type": "Organization",
+                "name": "University of Pennsylvania (Penn-CEIRR)",
+                "url": "https://www.ceirr-network.org/centers/penn-ceirr"
+            },
+            {
+                "@type": "Organization",
+                "name": "St. Jude Children\u2019s Research Hospital (SJCEIRR)",
+                "url": "https://www.ceirr-network.org/centers/sjceirr"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://www.ceirr-network.org/resources/publications",
+                "description": "The CEIRR Publications webpage is a searchable and filterable catalog of all publications that were published under the exploring transmission, pathogenesis, and host immune response to influenza and other viruses."
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema. For schema consider, https://bioschemas.org/types/BioSample/",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Schema",
+                "url": "http://purl.obolibrary.org/obo/T4FS_0000138",
+                "description": "Not distinct from data standards as a schema. For schema, treat as CreativeWork",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Organization",
+                "url": "http://www.w3.org/ns/prov#Organization",
+                "description": "https://schema.org/Organization",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Event",
+                "url": "http://purl.org/dc/dcmitype/Event",
+                "description": "For schema, use https://schema.org/Event",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3305",
+            "http://edamontology.org/topic_3966",
+            "http://edamontology.org/topic_3324"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005812",
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11552",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11320",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11520"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8782",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9825"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C15719",
+            "http://purl.obolibrary.org/obo/NCIT_C25217",
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://www.bioassayontology.org/bao#BAO_0002785",
+            "http://purl.obolibrary.org/obo/OBI_0002115",
+            "http://purl.obolibrary.org/obo/OBI_0001985",
+            "http://purl.obolibrary.org/obo/MMO_0000458",
+            "http://purl.obolibrary.org/obo/MMO_0000075",
+            "http://purl.obolibrary.org/obo/MMO_0000617",
+            "http://purl.obolibrary.org/obo/NCIT_C120688",
+            "http://purl.obolibrary.org/obo/MMO_0000496",
+            "http://purl.obolibrary.org/obo/MMO_0000659",
+            "http://purl.obolibrary.org/obo/NCIT_C120696"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C175885",
+            "http://purl.obolibrary.org/obo/NCIT_C17248",
+            "http://purl.obolibrary.org/obo/NCIT_C17930",
+            "http://purl.obolibrary.org/obo/NCIT_C168796",
+            "http://purl.obolibrary.org/obo/CMO_0001109",
+            "http://purl.obolibrary.org/obo/NCIT_C184385"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C802",
+            "http://purl.obolibrary.org/obo/NCIT_C103180",
+            "http://purl.obolibrary.org/obo/NCIT_C92442"
+        ]
+    },
+    {
+        "name": "ChemDB HIV, Opportunistic Infection and Tuberculosis Therapeutics Database",
+        "url": "https://chemdb.niaid.nih.gov/",
+        "identifier": "https://chemdb.niaid.nih.gov/",
+        "alternateName": "Division of AIDS Anti-HIV/OI/TB Therapeutics Database, DAIDS Anti-HIV/OI TB Therapeutics Database, NIAID ChemDB",
+        "license": "The NIAID ChemDB information received cannot be sold and is only to be used for research purposes",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "None"
+        },
+        "abstract": "ChemDB HIV, Opportunistic Infection and Tuberculosis Therapeutics Database is a NIAID supported IID repository that includes therapeutics data.",
+        "description": "The ChemDB HIV, Opportunistic Infection and Tuberculosis Therapeutics Database is a tool developed by NIAID to compile and annotate preclinical data on compounds with potential therapeutic action against HIV/AIDS and related opportunistic infections. This database is continually updated with information extracted from published literature, including the structure and activity of compounds that have been tested against HIV, HIV enzymes or opportunistic pathogens.\nEntries in the database are organized according to chemical properties and biological activity. Biological activity is broken down into three categories: activity against HIV in a cellular system, activity against HIV enzymes in a cell-free system, and activity against opportunistic pathogens associated with AIDS.",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "No downloads",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2.0",
+        "genre": "IID",
+        "dateModified": "2025-01-31",
+        "dateCreated": "1988-12-31",
+        "datePublished": "1988-12-31",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A 35-Year Review of Pre-Clinical HIV Therapeutics Research Reported by NIH ChemDB: Influences of Target Discoveries, Drug Approvals and Research Funding.",
+                "pmid": "33364074"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-04-18",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HHSN272201500001G",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93020C00031",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Mohamed Nasr",
+                "givenName": "Mohamed",
+                "familyName": "Nasr",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Glen Noble",
+                "givenName": "Glen",
+                "familyName": "Noble",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Matthew Whiting",
+                "givenName": "Matthew",
+                "familyName": "Whiting",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Sumner",
+                "givenName": "Louise",
+                "familyName": "Sumner",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Margaret Rush",
+                "givenName": "Margaret",
+                "familyName": "Rush",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rocco Casagrande",
+                "givenName": "Rocco",
+                "familyName": "Casagrande",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 1634,
+                "unitText": "Literature Surveillance Memos",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 88,
+                "unitText": "Archived HCV drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 24,
+                "unitText": "Archived Herpes drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 18,
+                "unitText": "Archived Protozoal drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 20,
+                "unitText": "Archived Fungal drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 80,
+                "unitText": "HIV drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 26,
+                "unitText": "HBV drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 39,
+                "unitText": "TB drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 300690,
+                "unitText": "Substances",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q6954254"
+        ],
+        "creditText": [
+            {
+                "@type": "Text",
+                "name": "National Institute of Allergy and Infectious Diseases ChemDB: Division of AIDS Therapeutics Database https://chemdb.niaid.nih.gov/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Literature surveillance memo libaray",
+                "url": "https://chemdb.niaid.nih.gov/memo/memos.aspx"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "DataCatalog",
+                "name": "PubChem",
+                "url": "https://pubchem.ncbi.nlm.nih.gov/"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Multiple Machine Learning Comparisons of HIV Cell-based and Reverse Transcriptase Data Sets",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30779585/",
+                "pmid": 30779585
+            }
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0012268",
+            "http://purl.obolibrary.org/obo/MONDO_0005109",
+            "http://purl.obolibrary.org/obo/HP_0031690",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0005231",
+            "http://purl.obolibrary.org/obo/MONDO_0005794",
+            "http://purl.obolibrary.org/obo/MONDO_0005055"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11723",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11673",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1763",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10359",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10376",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10298",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10310",
+            "http://purl.obolibrary.org/obo/NCBITaxon_37296",
+            "http://purl.obolibrary.org/obo/NCBITaxon_12092",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10407",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3052230",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4754",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5206",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5475",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5052",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6029",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5811",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5807",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5820"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3343",
+            "http://edamontology.org/topic_0154",
+            "http://edamontology.org/topic_3375"
+        ],
+        "about": [
+            {
+                "name": "ChemicalSubstance",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C103205",
+                "description": "For schema, consider https://schema.org/ChemicalSubstance",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/OBI_0001514",
+            "http://purl.obolibrary.org/obo/OBI_0001180",
+            "http://purl.obolibrary.org/obo/OBI_0001191",
+            "http://www.bioassayontology.org/bao#BAO_0002993",
+            "http://purl.obolibrary.org/obo/NCIT_C18223"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/OMIT_0014663",
+            "http://purl.obolibrary.org/obo/OMIT_0002292",
+            "http://biomodels.net/SBO/SBO_0000408"
+        ]
+    }
+]
