@@ -1,0 +1,636 @@
+[
+    {
+        "name": "ChemDB HIV, Opportunistic Infection and Tuberculosis Therapeutics Database",
+        "url": "https://chemdb.niaid.nih.gov/",
+        "identifier": "https://chemdb.niaid.nih.gov/",
+        "alternateName": "Division of AIDS Anti-HIV/OI/TB Therapeutics Database, DAIDS Anti-HIV/OI TB Therapeutics Database, NIAID ChemDB",
+        "license": "The NIAID ChemDB information received cannot be sold and is only to be used for research purposes",
+        "conditionsOfAccess": "Open",
+        "abstract": "ChemDB HIV, Opportunistic Infection and Tuberculosis Therapeutics Database is a NIAID supported IID repository that includes therapeutics data.",
+        "description": "The ChemDB HIV, Opportunistic Infection and Tuberculosis Therapeutics Database is a tool developed by NIAID to compile and annotate preclinical data on compounds with potential therapeutic action against HIV/AIDS and related opportunistic infections. This database is continually updated with information extracted from published literature, including the structure and activity of compounds that have been tested against HIV, HIV enzymes or opportunistic pathogens.\nEntries in the database are organized according to chemical properties and biological activity. Biological activity is broken down into three categories: activity against HIV in a cellular system, activity against HIV enzymes in a cell-free system, and activity against opportunistic pathogens associated with AIDS.",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "No downloads",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2.0",
+        "genre": "IID",
+        "dateModified": "2025-01-31",
+        "dateCreated": "1988-12-31",
+        "datePublished": "1988-12-31",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A 35-Year Review of Pre-Clinical HIV Therapeutics Research Reported by NIH ChemDB: Influences of Target Discoveries, Drug Approvals and Research Funding.",
+                "pmid": "33364074"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-04-24",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HHSN272201500001G",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93020C00031",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Mohamed Nasr",
+                "givenName": "Mohamed",
+                "familyName": "Nasr",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Glen Noble",
+                "givenName": "Glen",
+                "familyName": "Noble",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Matthew Whiting",
+                "givenName": "Matthew",
+                "familyName": "Whiting",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Louise Sumner",
+                "givenName": "Louise",
+                "familyName": "Sumner",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Margaret Rush",
+                "givenName": "Margaret",
+                "familyName": "Rush",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rocco Casagrande",
+                "givenName": "Rocco",
+                "familyName": "Casagrande",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Gryphon Scientific LLC",
+                    "parentOrganization": "Deloitte"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 1634,
+                "unitText": "Literature Surveillance Memos",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 88,
+                "unitText": "Archived HCV drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 24,
+                "unitText": "Archived Herpes drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 18,
+                "unitText": "Archived Protozoal drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 20,
+                "unitText": "Archived Fungal drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 80,
+                "unitText": "HIV drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 26,
+                "unitText": "HBV drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 39,
+                "unitText": "TB drugs in development",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 300690,
+                "unitText": "Substances",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q6954254"
+        ],
+        "creditText": "National Institute of Allergy and Infectious Diseases ChemDB: Division of AIDS Therapeutics Database https://chemdb.niaid.nih.gov/",
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Literature surveillance memo libaray",
+                "url": "https://chemdb.niaid.nih.gov/memo/memos.aspx"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "DataCatalog",
+                "name": "PubChem",
+                "url": "https://pubchem.ncbi.nlm.nih.gov/"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Multiple Machine Learning Comparisons of HIV Cell-based and Reverse Transcriptase Data Sets",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/30779585/",
+                "pmid": 30779585
+            }
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0012268",
+            "http://purl.obolibrary.org/obo/MONDO_0005109",
+            "http://purl.obolibrary.org/obo/HP_0031690",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0005231",
+            "http://purl.obolibrary.org/obo/MONDO_0005794",
+            "http://purl.obolibrary.org/obo/MONDO_0005055"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11723",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11673",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1763",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10359",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10376",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10298",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10310",
+            "http://purl.obolibrary.org/obo/NCBITaxon_37296",
+            "http://purl.obolibrary.org/obo/NCBITaxon_12092",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10407",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3052230",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4754",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5206",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5475",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5052",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6029",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5811",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5807",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5820"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3343",
+            "http://edamontology.org/topic_0154",
+            "http://edamontology.org/topic_3375"
+        ],
+        "about": [
+            {
+                "name": "ChemicalSubstance",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C103205",
+                "description": "For schema, consider https://schema.org/ChemicalSubstance",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/OBI_0001514",
+            "http://purl.obolibrary.org/obo/OBI_0001180",
+            "http://purl.obolibrary.org/obo/OBI_0001191",
+            "http://www.bioassayontology.org/bao#BAO_0002993",
+            "http://purl.obolibrary.org/obo/NCIT_C18223"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/OMIT_0014663",
+            "http://purl.obolibrary.org/obo/OMIT_0002292",
+            "http://biomodels.net/SBO/SBO_0000408"
+        ]
+    },
+    {
+        "name": "MTB Network Portal",
+        "url": "http://networks.systemsbiology.net/mtb/",
+        "identifier": "http://networks.systemsbiology.net/mtb/",
+        "alternateName": "MTB",
+        "conditionsOfAccess": "Open",
+        "abstract": "MTB Network Portal is a NIAID supported IID repository that includes multiomic data.",
+        "description": "Mycobacterium tuberculosis (MTB) causes ~12 million cases of active disease and 1.4 million deaths each year, and our tools to combat tuberculosis (TB) disease are universally outdated and overmatched. We anticipate that a systems-based analysis, with large-scale, multi-omics data collection and iterative cycles of modeling, prediction and testing, is the ideal means to detect patterns in the underlying complexity and define the critical regulatory components. This website serves as a portal for computational modeling program to generate an integrated, predictive gene regulatory network model of host/pathogen interactions. ",
+        "collectionType": "Portal",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2.0",
+        "genre": "IID",
+        "dateModified": "2019-12-31",
+        "dateCreated": "2014-01-20",
+        "datePublished": "2014-01-20",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A comprehensive map of genome-wide gene regulation in Mycobacterium tuberculosis.",
+                "pmid": "25977815"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The DNA-binding network of Mycobacterium tuberculosis.",
+                "pmid": " 25581030"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-04-24",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U19AI135976",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U19 AI106761",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Serdar Turkarslan",
+                "givenName": "Serdar",
+                "familyName": "Turkarslan",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Institute for Systems Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Eliza J R Peterson",
+                "givenName": "Eliza J R",
+                "familyName": "Peterson",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Institute for Systems Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Tige R Rustad",
+                "givenName": "Tige R",
+                "familyName": "Rustad",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Seattle Biomedical Research Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Kyle J Minch",
+                "givenName": "Kyle J",
+                "familyName": "Minch",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Seattle Biomedical Research Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David J Reiss",
+                "givenName": "David J",
+                "familyName": "Reiss",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Institute for Systems Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Robert Morrison",
+                "givenName": "Robert",
+                "familyName": "Morrison",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Seattle Biomedical Research Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Shuyi Ma",
+                "givenName": "Shuyi",
+                "familyName": "Ma",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Institute for Systems Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Nathan D Price",
+                "givenName": "Nathan D",
+                "familyName": "Price",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Institute for Systems Biology"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David R Sherman",
+                "givenName": "David R",
+                "familyName": "Sherman",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Seattle Biomedical Research Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Nitin S Baliga",
+                "givenName": "Nitin S",
+                "familyName": "Baliga",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Institute for Systems Biology"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 39,
+                "unitText": "Publications",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 108,
+                "unitText": "Genes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 17,
+                "unitText": "Computational Tools",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 2380,
+                "unitText": "Regulators",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 493,
+                "unitText": "Regulatory Modules",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1192,
+                "unitText": "Regulatory Motifs",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 588,
+                "unitText": "SSGCID Records",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://networks.systemsbiology.net/mtb/sites/default/files/MTB-Signed-TRN.xls",
+                "encoding": "xls",
+                "dateModified": "2014-09-14"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://networks.systemsbiology.net/mtb/sites/default/files/file_attach/tfoe.searchable_130115.xlsx",
+                "encoding": "xlsx",
+                "dateModified": "2015-02-29"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://networks.systemsbiology.net/mtb/publications"
+            },
+            {
+                "@type": "Collection",
+                "name": "Software",
+                "url": "https://networks.systemsbiology.net/mtb/software"
+            },
+            {
+                "@type": "Collection",
+                "name": "Data",
+                "url": "https://networks.systemsbiology.net/mtb/data-center"
+            },
+            {
+                "@type": "Dataset",
+                "name": "TFOE Searchable Data Set ",
+                "url": "https://networks.systemsbiology.net/mtb/content/TFOE-Searchable-Data-File"
+            },
+            {
+                "@type": "Dataset",
+                "name": "ChIP-Seq Data Files ",
+                "url": "http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA255984"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Omics4TB",
+                "url": "https://www.omics4tb.org/"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Contained Mycobacterium tuberculosis infection induces concomitant and heterologous protection ",
+                "pmid": 32673357
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "Dataset",
+                "name": "MTB Signed Transcriptional Regulatory Network",
+                "url": "https://networks.systemsbiology.net/mtb/sites/default/files/MTB-Signed-TRN.xls"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "UniProt",
+                "url": "https://www.uniprot.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "PATRIC",
+                "url": "http://patricbrc.org/portal/portal/patric/Home"
+            }
+        ],
+        "about": [
+            {
+                "name": "Gene",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16612",
+                "description": "For schema, consider https://schema.org/Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Software",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema use ComputationalTool",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0204",
+            "http://edamontology.org/topic_0085",
+            "http://edamontology.org/topic_0160",
+            "http://edamontology.org/topic_0749"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0018076"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0000716",
+            "http://purl.obolibrary.org/obo/MMO_0000650",
+            "http://purl.obolibrary.org/obo/MMO_0000659"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/GO_0045893",
+            "http://purl.obolibrary.org/obo/NCIT_C16608",
+            "http://purl.obolibrary.org/obo/GO_0045892",
+            "http://edamontology.org/data_1353"
+        ],
+        "keywords": [
+            "http://edamontology.org/operation_2437",
+            "http://purl.obolibrary.org/obo/OHPI_0000001",
+            "http://purl.obolibrary.org/obo/ECO_0000120"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9544"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773"
+        ]
+    }
+]
