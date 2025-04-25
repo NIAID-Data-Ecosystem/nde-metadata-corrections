@@ -1,0 +1,235 @@
+[
+    {
+        "name": "PeptideAtlas",
+        "url": "http://www.peptideatlas.org/",
+        "identifier": "http://www.peptideatlas.org/",
+        "license": "https://peptideatlas.org/repository/",
+        "conditionsOfAccess": "Open",
+        "abstract": "PeptideAtlas is a NIH supported generalist repository that includes proteomic data.",
+        "description": "PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched using the latest search engines and protein sequences. All results of sequence and spectral library searching are subsequently processed through the Trans Proteomic Pipeline to derive a probability of correct identification for all results in a uniform manner to insure a high quality database, along with false discovery rates at the whole atlas level. Results may be queried and browsed at the PeptideAtlas web site. The raw data, search results, and full builds can also be downloaded for other uses. ",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "Generalist",
+        "dateModified": "2024-02-07",
+        "dateCreated": "2010-02-01",
+        "datePublished": "2010-02-01",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The PeptideAtlas Project.",
+                "pmid": "20013378"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The PeptideAtlas project.",
+                "pmid": "16381952"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-04-25",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-2324882",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-1933311",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "IOS-1922871",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM148372",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM087221",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "N01-HV-28179",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "alternateName": "NHLBI",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Moritz Lab",
+                "parentOrganization": "Institute for Systems Biology"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 96,
+                "unitText": "build",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://peptideatlas.org/builds/",
+                "dateModified": "2019-02-01"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "ProteoMapper Online",
+                "url": "https://peptideatlas.org/map/",
+                "description": "A tool for mapping a peptide sequence or list of sequences to PeptideAtlas"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "DataCatalog",
+                "name": "Tiered Human Integrated Search Proteome",
+                "url": "https://peptideatlas.org/thisp/",
+                "description": "In order to provide human proteomics MS/MS search databases that are well defined, comprehensive, and frequently updated, we have developed an automated system that integrates all of major sources of human protein sequences into a set of search databases. These databases are tiered into several levels of complexity from which researchers may choose depending on the goal of the experiment and the data processing resources available."
+            }
+        ],
+        "sameAs": [
+            "https://registry.identifiers.org/registry/peptideatlas",
+            "https://www.wikidata.org/wiki/Q24884023"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_3702",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6945",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7215",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7460",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9796",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4577",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9913",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4530",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_84645",
+            "http://purl.obolibrary.org/obo/NCBITaxon_64091"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_5868",
+            "http://purl.obolibrary.org/obo/NCBITaxon_38323",
+            "http://purl.obolibrary.org/obo/NCBITaxon_224326",
+            "http://purl.obolibrary.org/obo/NCBITaxon_237561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_562",
+            "http://purl.obolibrary.org/obo/NCBITaxon_173",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5833",
+            "http://purl.obolibrary.org/obo/NCBITaxon_73239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_287",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93062",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93061",
+            "http://purl.obolibrary.org/obo/NCBITaxon_373153",
+            "http://purl.obolibrary.org/obo/NCBITaxon_170187",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1314",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4932",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4896"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C17156",
+            "http://purl.obolibrary.org/obo/NCIT_C18475",
+            "http://purl.obolibrary.org/obo/NCIT_C122168",
+            "http://edamontology.org/topic_3520"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C84383"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0121",
+            "http://edamontology.org/topic_0078",
+            "http://edamontology.org/topic_3922"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_3366",
+            "http://edamontology.org/topic_0102",
+            "http://edamontology.org/data_0945"
+        ],
+        "about": [
+            {
+                "name": "Peptide",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C735",
+                "description": "A subclass of MolecularEntity with the same properties as Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "SpectralLibrary",
+                "url": "http://purl.obolibrary.org/obo/MS_1003170",
+                "description": "A subclass of Collection",
+                "@type": "DefinedTerm"
+            }
+        ]
+    }
+]
