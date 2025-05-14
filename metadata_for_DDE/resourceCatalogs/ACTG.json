@@ -4,9 +4,9 @@
         "schema": "http://schema.org/",
         "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-        "bioschemas": "https://discovery.biothings.io/view/bioschemas/",
-        "niaid": "https://discovery.biothings.io/view/niaid/",
-        "nde": "https://discovery.biothings.io/view/nde/"
+        "bioschemas": "https://discovery.biothings.io/ns/bioschemas/",
+        "niaid": "https://discovery.biothings.io/ns/niaid/",
+        "nde": "https://discovery.biothings.io/ns/nde/"
     },
     "citedBy": [
         {
@@ -98,6 +98,7 @@
     "conditionsOfAccess": "Open",
     "hasAPI": false,
     "hasDownload": "Record-level",
+    "includedInDataCatalog": {"@type": "DataCatalog", "name": "Data Discovery Engine", "url": "https://discovery.biothings.io/portal/nde"},
     "isAccessibleForFree": true,
     "alternateName": "ACTG",
     "description": "ACTG is a global clinical trials network that conducts research to improve the management of HIV and its comorbidities; develop a cure for HIV; and innovate treatments for tuberculosis, hepatitis B, and emerging infectious diseases. ACTG is the world’s largest and longest running clinical trials network focused on HIV and other infectious diseases and the people living with them. Founded in 1987, it comprises thousands of dedicated researchers, staff, and community members who are pursuing research into novel treatments and cures for infectious diseases at 65 locations across four continents, with the ultimate goal of advancing science that meaningfully impacts the lives of the people we serve.",
