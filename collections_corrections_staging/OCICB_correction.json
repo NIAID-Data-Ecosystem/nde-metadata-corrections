@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID OCICB",
+            "abstract": "The Office of Cyber Infrastructure and Computational Biology (OCICB) manages technologies supporting NIAID biomedical research programs.",
+            "description": "The Office of Cyber Infrastructure and Computational Biology (OCICB) provides a spectrum of management, technologies development, applications/software engineering, bioinformatics support, and professional development. OCICB works closely with NIAID intramural, extramural, and administrative staff to provide technical support, liaison, coordination, and consultation on a wide variety of ventures. These projects and initiatives are aimed at ensuring ever-increasing interchange and dissemination of scientific information within the federal government and among the worldwide scientific network of biomedical researchers.  For more information, visit the NIAID office page: https://www.niaid.nih.gov/about/cyber-infrastructure-computational-biology-contacts",
+            "alternateName": [
+                "Office of Cyber Infrastructure and Computational Biology",
+                "OCICB"
+            ],
+            "url": "https://www.niaid.nih.gov/about/daids",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
