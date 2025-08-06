@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID Systems Biology",
+            "abstract": "The NIAID/Division of Microbiology and Infectious Diseases (DMID) Systems Biology Consortium for Infectious Diseases brings together interdisciplinary scientists across microbiology, immunology, infectious diseases, computational biology, and advanced data science. Their collaborative work integrates experimental and computational approaches, including machine learning and mathematical modeling.",
+            "description": "The NIAID/Division of Microbiology and Infectious Diseases (DMID) Systems Biology Consortium for Infectious Diseases is a group of interdisciplinary scientists that bridge disparate scientific disciplines including microbiology, immunology, infectious diseases, microbiome, mathematics, physics, bioinformatics, computational biology, machine learning, statistical methods, and mathematical modeling. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/systems-biology-consortium",
+            "alternateName": [
+                "NIAID SysBio",
+                "NIAID/DMID Systems Biology Consortium for Infectious Diseases"
+            ],
+            "url": "https://www.niaid.nih.gov/research/systems-biology-consortium",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

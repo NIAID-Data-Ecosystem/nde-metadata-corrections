@@ -1,3 +1,5 @@
 https://data.niaid.nih.gov/resources?id=gse236335
-https://data.niaid.nih.gov/resources?id=zenodo_12626877
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna765452
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna851804
 https://data.niaid.nih.gov/resources?id=pxd050199
+https://data.niaid.nih.gov/resources?id=zenodo_12626877
