@@ -84,3 +84,7 @@ https://data.niaid.nih.gov/resources?id=sdy3097
 https://data.niaid.nih.gov/resources?id=sdy3098
 https://data.niaid.nih.gov/resources?id=sdy3103
 https://data.niaid.nih.gov/resources?id=sdy3119
+https://data.niaid.nih.gov/resources?id=sdy3135
+https://data.niaid.nih.gov/resources?id=sdy3164
+https://data.niaid.nih.gov/resources?id=sdy3165
+https://data.niaid.nih.gov/resources?id=sdy3172
