@@ -188,6 +188,7 @@ https://data.niaid.nih.gov/resources?id=mtbls31
 https://data.niaid.nih.gov/resources?id=mtbls32
 https://data.niaid.nih.gov/resources?id=mtbls33
 https://data.niaid.nih.gov/resources?id=mtbls34
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1303992
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna339973
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna339974
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna356625

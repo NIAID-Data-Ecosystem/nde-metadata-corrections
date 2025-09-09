@@ -70,6 +70,7 @@ https://data.niaid.nih.gov/resources?id=gse90909
 https://data.niaid.nih.gov/resources?id=gse95066
 https://data.niaid.nih.gov/resources?id=gse95733
 https://data.niaid.nih.gov/resources?id=gse99176
+https://data.niaid.nih.gov/resources?id=mendeley_h6bkpczmwj
 https://data.niaid.nih.gov/resources?id=model2307180001
 https://data.niaid.nih.gov/resources?id=model2307180002
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna338172

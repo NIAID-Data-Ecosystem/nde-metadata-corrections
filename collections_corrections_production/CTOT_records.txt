@@ -16,6 +16,7 @@ https://data.niaid.nih.gov/resources?id=gse65163
 https://data.niaid.nih.gov/resources?id=gse65204
 https://data.niaid.nih.gov/resources?id=gse65205
 https://data.niaid.nih.gov/resources?id=gse96783
+https://data.niaid.nih.gov/resources?id=mendeley_wcdf42drs7
 https://data.niaid.nih.gov/resources?id=phs001667
 https://data.niaid.nih.gov/resources?id=phs002921
 https://data.niaid.nih.gov/resources?id=sdy2270
