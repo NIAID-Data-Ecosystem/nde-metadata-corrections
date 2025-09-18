@@ -19,4 +19,6 @@ https://data.niaid.nih.gov/resources?id=gse233713
 https://data.niaid.nih.gov/resources?id=gse233716
 https://data.niaid.nih.gov/resources?id=gse234253
 https://data.niaid.nih.gov/resources?id=gse235824
+https://data.niaid.nih.gov/resources?id=pdb_6vwb
+https://data.niaid.nih.gov/resources?id=pdb_7tuj
 https://data.niaid.nih.gov/resources?id=pxd043980
