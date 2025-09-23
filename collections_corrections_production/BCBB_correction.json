@@ -1,0 +1,20 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID OCICB BCBB",
+            "abstract": "The Bioinformatics and Computational Biosciences Branch (BCBB) collection provides innovative bioinformatics tools and resources that empower researchers globally. By integrating computational data-driven science and analysis, BCBB advances biomedical research to drive breakthroughs in treatments for infectious, immunologic, and allergic diseases. For Bioinformatics Software at BCBB, visit: https://www.niaid.nih.gov/research/bioinformatics-software-bcbb",
+            "description": "The Bioinformatics and Computational Biosciences Branch (BCBB) collection provides innovative bioinformatics tools and resources that empower researchers globally. By integrating computational data-driven science and analysis, BCBB advances biomedical research to drive breakthroughs in treatments for infectious, immunologic, and allergic diseases. For Bioinformatics Software at BCBB, visit: https://www.niaid.nih.gov/research/bioinformatics-software-bcbb",
+            "alternateName": [
+                "Office of Cyber Infrastructure and Computational Biology, Bioinformatics and Computational Biosciences Branch",
+                "OCICB Bioinformatics and Computational Biosciences Branch",
+                "OCICB BCBB",
+                "BCBB"
+            ],
+            "url": "https://www.niaid.nih.gov/research/bioinformatics-computational-biosciences-branch",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
