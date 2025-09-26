@@ -6,6 +6,7 @@ https://data.niaid.nih.gov/resources?id=gse153940
 https://data.niaid.nih.gov/resources?id=gse171703
 https://data.niaid.nih.gov/resources?id=gse185369
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna638697
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna912676
 https://data.niaid.nih.gov/resources?id=pdb_4wjz
 https://data.niaid.nih.gov/resources?id=pdb_4wrr
 https://data.niaid.nih.gov/resources?id=pdb_4wzu
