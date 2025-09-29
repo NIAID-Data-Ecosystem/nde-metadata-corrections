@@ -1,0 +1,1567 @@
+[
+    {
+        "name": "Open Germline Receptor Database",
+        "url": "https://ogrdb.airr-community.org/",
+        "identifier": "https://ogrdb.airr-community.org/",
+        "alternateName": "OGRDB",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://ogrdb.airr-community.org/render_page/privacy_statement.html"
+        },
+        "abstract": "ORGDB is a NIAID supported IID repository that includes immune data.",
+        "description": "The Adaptive Immune Receptor Repertoire (AIRR) Community was formed to promote and share good practice in adaptive immune repertoire sequencing. In 2017, it established the Inferred Allele Review Committee (IARC) to evaluate inferred alleles for inclusion in relevant germline databases. OGRDB was created and designed to support that process, and provide a real-time record of affirmed sequences.",
+        "collectionType": "Database",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2025.08.25",
+        "genre": "IID",
+        "dateModified": "2024-10-15",
+        "dateCreated": "2018-03-27",
+        "datePublished": "2019-10-04",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "OGRDB: a reference database of inferred immune receptor genes.",
+                "pmid": "31566225"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-09-29",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U01AI136677",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21AI142590",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R24AI138963",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "2016-01720",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Swedish Research Council",
+                    "alternateName": "SRC",
+                    "parentOrganization": "Ministry of Education and Research"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "AIRR Community",
+                "identifier": "https://www.wikidata.org/wiki/Q124021323",
+                "parentOrganization": "The Antibody Society"
+            },
+            {
+                "@type": "Person",
+                "name": "William D Lees",
+                "givenName": "William",
+                "familyName": "Lees",
+                "identifier": "https://orcid.org/0000-0001-9834-6840",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Birkbeck University of London"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 48,
+                "unitText": "Germline Sets",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3717,
+                "unitText": "Sequences",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 2,
+                "unitText": "Species",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ogrdb.airr-community.org/germline_sets/Homo%20sapiens",
+                "dateModified": "2024-10-12"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ogrdb.airr-community.org/germline_sets/Homo%20sapiens",
+                "dateModified": "2024-10-15"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Integbio Database Catalog",
+                "url": "https://catalog.integbio.jp/dbcatalog/en/record/nbdc02580"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q111310250"
+        ],
+        "creditText": "\"If you use OGRDB in your research, please cite:\nOGRDB: a reference database of inferred immune receptor genes\nLees et al., Nucleic Acids Research, September 2019.\"",
+        "isPartOf": [
+            {
+                "@type": "DataCatalog",
+                "name": "AIRR Knowledge Commons project",
+                "url": "https://airr-knowledge.org/"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "CreativeWork",
+                "name": "AIRR Community Standards",
+                "url": "https://docs.airr-community.org/en/stable/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "WebPage",
+                "name": "Help & Documentation ",
+                "url": "https://ogrdb.airr-community.org/help"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Enhancing sequence alignment of adaptive immune receptors through multi-task deep learning",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40650972/",
+                "pmid": 40650972
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Polymorphisms in human immunoglobulin heavy chain variable genes and their upstream regions.",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32365177/",
+                "pmid": 32365177
+            },
+            {
+                "@type": "Collection",
+                "name": "PubMed records citing OGRDB",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=31566225"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "receptor_utils package",
+                "url": "https://pypi.org/project/receptor-utils/",
+                "description": "Some tools useful for working with IG/TR receptor sequences, including support for allele sequence naming and the creation of custom IgBlast databases"
+            }
+        ],
+        "about": [
+            {
+                "name": "Gene",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16612",
+                "description": "For schema, consider https://schema.org/Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "SequenceAnnotation",
+                "url": "http://purl.uniprot.org/core/Sequence_Annotation",
+                "description": "For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation/",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3930",
+            "http://edamontology.org/topic_0199",
+            "http://edamontology.org/topic_3948"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C158249",
+            -1,
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C17565"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C44272",
+            "http://edamontology.org/data_2044"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C20971",
+            -1,
+            "http://purl.obolibrary.org/obo/NCIT_C164810"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090"
+        ]
+    },
+    {
+        "name": "OrthoMCL",
+        "url": "https://orthomcl.org/orthomcl/app",
+        "identifier": "https://orthomcl.org/orthomcl/app",
+        "alternateName": "Ortholog Groups of Protein Sequences, OrthoMCL-DB",
+        "license": "https://orthomcl.org/common/downloads/software/v2.0/SoftwareLicense.txt",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://orthomcl.org/orthomcl/app/static-content/OrthoMCL/about.html"
+        },
+        "abstract": "OrthoMCL is a NIAID supported IID repository that includes proteomic data.",
+        "description": "OrthoMCL is a genome-scale algorithm for grouping orthologous protein sequences, which are defined as sharing a common ancestor. Such orthologous sequences not only share evolutionary history, but also share function. Thus, orthology is important in predicting the function of newly identified proteins. Each protein in every species is assigned to precisely one ortholog group within OrthoMCL. Importantly, proteins in OrthoMCL groups have been shown to display a high degree of functional conservation (e.g., a group's proteins have consistent EC numbers) (Li et al. 2003), highlighting that OrthoMCL is useful for functional annotation of newly sequenced genomes.",
+        "collectionType": "Database",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v7.0",
+        "genre": "IID",
+        "dateModified": "2025-04-16",
+        "dateCreated": "2008-02-01",
+        "datePublished": "2008-02-28",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Assessing performance of orthology detection strategies applied to eukaryotic genomes.",
+                "pmid": " 17440619"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "OrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups.",
+                "pmid": "16381887"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Using OrthoMCL to assign proteins to OrthoMCL-DB groups or to cluster proteomes into new ortholog groups.",
+                "pmid": " 21901743"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "OrthoMCL: identification of ortholog groups for eukaryotic genomes.",
+                "pmid": " 12952885"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-09-29",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01 AI058515",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HHSN266200400037C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "HHSN272200900038C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "N01-AI900038C",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Cristina Aurrecoechea",
+                "givenName": "Cristina",
+                "familyName": "Aurrecoechea",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Georgia"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "John Brestelli",
+                "givenName": "John",
+                "familyName": "Brestelli",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Stuart Brown",
+                "givenName": "Stuart",
+                "familyName": "Brown",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Brian Brunk",
+                "givenName": "Brian",
+                "familyName": "Brunk",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Praveen Chakravarthula",
+                "givenName": "Praveen",
+                "familyName": "Chakravarthula",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Feng Chen",
+                "givenName": "Feng",
+                "familyName": "Chen",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Richard Demko",
+                "givenName": "Richard",
+                "familyName": "Demko",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ryan Doherty",
+                "givenName": "Ryan",
+                "familyName": "Doherty",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David Falke",
+                "givenName": "David",
+                "familyName": "Falke",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Georgia"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Steve Fischer",
+                "givenName": "Steve",
+                "familyName": "Fischer",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Bindu Gajria",
+                "givenName": "Bindu",
+                "familyName": "Gajria",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jerric Gao",
+                "givenName": "Jerric",
+                "familyName": "Gao",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Omar Harb",
+                "givenName": "Omar",
+                "familyName": "Harb",
+                "identifier": "https://orcid.org/0000-0003-4446-6200",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Elizabeth Harper",
+                "givenName": "Elizabeth",
+                "familyName": "Harper",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Mark Hickman",
+                "givenName": "Mark",
+                "familyName": "Hickman",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Nupur Kittur",
+                "givenName": "Nupur",
+                "familyName": "Kittur",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Georgia"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Li Li",
+                "givenName": "Li",
+                "familyName": "Li",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Robert MacCallum",
+                "givenName": "Robert",
+                "familyName": "MacCallum",
+                "identifier": "https://orcid.org/0000-0001-5070-4493",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Imperial College London "
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Aaron Mackey",
+                "givenName": "Aaron",
+                "familyName": "Mackey",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David S. Roos",
+                "givenName": "David",
+                "familyName": "Roos",
+                "identifier": "https://orcid.org/0000-0001-6725-4089",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Christian J. Stoeckert, Jr",
+                "givenName": "Christian",
+                "familyName": "Stoeckert",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Charles Treatman",
+                "givenName": "Charles",
+                "familyName": "Treatman",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Penn Center for Bioinformatics",
+                    "parentOrganization": "University of Pennsylvania"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 789914,
+                "unitText": "Ortholog Groups",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 8651743,
+                "unitText": "Proteins",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://orthomcl.org/orthomcl/app/downloads/release-7/",
+                "dateModified": "2025-09-03"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://orthomcl.org/orthomcl/app/downloads/software/v2.0/",
+                "encoding": "tar.gz",
+                "dateModified": "2013-07-18"
+            }
+        ],
+        "creditText": "\"Feng Chen, Aaron J. Mackey, Christian J. Stoeckert, Jr., and David S. Roos\nOrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups\nNucleic Acids Res. 2006 34: D363-8. \n* Please cite this paper if you publish research results benefited from OrthoMCL-DB\"",
+        "isBasedOn": [
+            {
+                "@type": "ComputationalTool",
+                "name": "Markov Cluster algorithm (MCL)",
+                "url": "https://micans.org/mcl/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "OrthoMCL Software",
+                "url": "https://orthomcl.org/orthomcl/app/downloads/software/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "VEuPathDB",
+                "url": "https://veupathdb.org/veupathdb/app"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "VEuPathDB",
+                "url": "https://veupathdb.org/veupathdb/app"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ComputationalTool",
+                "name": "BLAST search page",
+                "url": "https://orthomcl.org/orthomcl/app/search/sequence/ByBlast"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "SoftwareSourceCode",
+                "name": "OrthoMCL Pipeline",
+                "url": "https://github.com/apetkau/orthomcl-pipeline"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "https://fairsharing.org/",
+                "url": "https://fairsharing.org/FAIRsharing.283caf"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "Database Commons",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/1562"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "https://rrid.site/",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_007839/resolver?q=rrid:scr_007839"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "https://www.re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100012462"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "PubMed records citing OGRDB",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=16381887"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0797",
+            "http://edamontology.org/topic_0085",
+            "http://edamontology.org/topic_3945"
+        ],
+        "about": [
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ProteinSet",
+                "description": "A subclass of Collection and Protein, will overlap considerably with GeneSet",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/MMO_0000575",
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://purl.obolibrary.org/obo/NCIT_C17565"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C19640",
+            "http://edamontology.org/data_2044"
+        ],
+        "keywords": [
+            -1
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_210",
+            "http://purl.obolibrary.org/obo/NCBITaxon_287",
+            "http://purl.obolibrary.org/obo/NCBITaxon_491",
+            "http://purl.obolibrary.org/obo/NCBITaxon_562",
+            "http://purl.obolibrary.org/obo/NCBITaxon_813",
+            "http://purl.obolibrary.org/obo/NCBITaxon_818",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1097",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1108",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1299",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1392",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1902",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2097",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2190",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2214",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2234",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2242",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2269",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2280",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2285",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2309",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2320",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2336",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3055",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3068",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3075",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5843",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5851",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5888",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5911",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6183",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6238",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6412",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10228",
+            "http://purl.obolibrary.org/obo/NCBITaxon_13773",
+            "http://purl.obolibrary.org/obo/NCBITaxon_28262",
+            "http://purl.obolibrary.org/obo/NCBITaxon_31271",
+            "http://purl.obolibrary.org/obo/NCBITaxon_33072",
+            "http://purl.obolibrary.org/obo/NCBITaxon_33075",
+            "http://purl.obolibrary.org/obo/NCBITaxon_34488",
+            "http://purl.obolibrary.org/obo/NCBITaxon_35128",
+            "http://purl.obolibrary.org/obo/NCBITaxon_35554",
+            "http://purl.obolibrary.org/obo/NCBITaxon_36329",
+            "http://purl.obolibrary.org/obo/NCBITaxon_39416",
+            "http://purl.obolibrary.org/obo/NCBITaxon_43687",
+            "http://purl.obolibrary.org/obo/NCBITaxon_44689",
+            "http://purl.obolibrary.org/obo/NCBITaxon_45157",
+            "http://purl.obolibrary.org/obo/NCBITaxon_46632",
+            "http://purl.obolibrary.org/obo/NCBITaxon_54248",
+            "http://purl.obolibrary.org/obo/NCBITaxon_54252",
+            "http://purl.obolibrary.org/obo/NCBITaxon_54254",
+            "http://purl.obolibrary.org/obo/NCBITaxon_55529",
+            "http://purl.obolibrary.org/obo/NCBITaxon_57266",
+            "http://purl.obolibrary.org/obo/NCBITaxon_57267",
+            "http://purl.obolibrary.org/obo/NCBITaxon_63363",
+            "http://purl.obolibrary.org/obo/NCBITaxon_69332",
+            "http://purl.obolibrary.org/obo/NCBITaxon_76856",
+            "http://purl.obolibrary.org/obo/NCBITaxon_81824",
+            "http://purl.obolibrary.org/obo/NCBITaxon_94694",
+            "http://purl.obolibrary.org/obo/NCBITaxon_105231",
+            "http://purl.obolibrary.org/obo/NCBITaxon_109876",
+            "http://purl.obolibrary.org/obo/NCBITaxon_126793",
+            "http://purl.obolibrary.org/obo/NCBITaxon_137071",
+            "http://purl.obolibrary.org/obo/NCBITaxon_145262",
+            "http://purl.obolibrary.org/obo/NCBITaxon_160232",
+            "http://purl.obolibrary.org/obo/NCBITaxon_160233",
+            "http://purl.obolibrary.org/obo/NCBITaxon_166501",
+            "http://purl.obolibrary.org/obo/NCBITaxon_169963",
+            "http://purl.obolibrary.org/obo/NCBITaxon_173480",
+            "http://purl.obolibrary.org/obo/NCBITaxon_176299",
+            "http://purl.obolibrary.org/obo/NCBITaxon_177416",
+            "http://purl.obolibrary.org/obo/NCBITaxon_185431",
+            "http://purl.obolibrary.org/obo/NCBITaxon_192222",
+            "http://purl.obolibrary.org/obo/NCBITaxon_192875",
+            "http://purl.obolibrary.org/obo/NCBITaxon_195102",
+            "http://purl.obolibrary.org/obo/NCBITaxon_214684",
+            "http://purl.obolibrary.org/obo/NCBITaxon_222929",
+            "http://purl.obolibrary.org/obo/NCBITaxon_227321",
+            "http://purl.obolibrary.org/obo/NCBITaxon_227377",
+            "http://purl.obolibrary.org/obo/NCBITaxon_229533",
+            "http://purl.obolibrary.org/obo/NCBITaxon_235443",
+            "http://purl.obolibrary.org/obo/NCBITaxon_237561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_237631",
+            "http://purl.obolibrary.org/obo/NCBITaxon_240176",
+            "http://purl.obolibrary.org/obo/NCBITaxon_242507",
+            "http://purl.obolibrary.org/obo/NCBITaxon_243164",
+            "http://purl.obolibrary.org/obo/NCBITaxon_243276",
+            "http://purl.obolibrary.org/obo/NCBITaxon_243277",
+            "http://purl.obolibrary.org/obo/NCBITaxon_246409",
+            "http://purl.obolibrary.org/obo/NCBITaxon_246410",
+            "http://purl.obolibrary.org/obo/NCBITaxon_265606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_267377",
+            "http://purl.obolibrary.org/obo/NCBITaxon_267608",
+            "http://purl.obolibrary.org/obo/NCBITaxon_272947",
+            "http://purl.obolibrary.org/obo/NCBITaxon_273057",
+            "http://purl.obolibrary.org/obo/NCBITaxon_273121",
+            "http://purl.obolibrary.org/obo/NCBITaxon_273507",
+            "http://purl.obolibrary.org/obo/NCBITaxon_281847",
+            "http://purl.obolibrary.org/obo/NCBITaxon_283643",
+            "http://purl.obolibrary.org/obo/NCBITaxon_284590",
+            "http://purl.obolibrary.org/obo/NCBITaxon_284591",
+            "http://purl.obolibrary.org/obo/NCBITaxon_284592",
+            "http://purl.obolibrary.org/obo/NCBITaxon_284593",
+            "http://purl.obolibrary.org/obo/NCBITaxon_284812",
+            "http://purl.obolibrary.org/obo/NCBITaxon_284813",
+            "http://purl.obolibrary.org/obo/NCBITaxon_294381",
+            "http://purl.obolibrary.org/obo/NCBITaxon_294746",
+            "http://purl.obolibrary.org/obo/NCBITaxon_294747",
+            "http://purl.obolibrary.org/obo/NCBITaxon_294748",
+            "http://purl.obolibrary.org/obo/NCBITaxon_294750",
+            "http://purl.obolibrary.org/obo/NCBITaxon_296587",
+            "http://purl.obolibrary.org/obo/NCBITaxon_306901",
+            "http://purl.obolibrary.org/obo/NCBITaxon_306902",
+            "http://purl.obolibrary.org/obo/NCBITaxon_311400",
+            "http://purl.obolibrary.org/obo/NCBITaxon_321614",
+            "http://purl.obolibrary.org/obo/NCBITaxon_322104",
+            "http://purl.obolibrary.org/obo/NCBITaxon_330879",
+            "http://purl.obolibrary.org/obo/NCBITaxon_331117",
+            "http://purl.obolibrary.org/obo/NCBITaxon_332648",
+            "http://purl.obolibrary.org/obo/NCBITaxon_332952",
+            "http://purl.obolibrary.org/obo/NCBITaxon_333668",
+            "http://purl.obolibrary.org/obo/NCBITaxon_334819",
+            "http://purl.obolibrary.org/obo/NCBITaxon_336722",
+            "http://purl.obolibrary.org/obo/NCBITaxon_336963",
+            "http://purl.obolibrary.org/obo/NCBITaxon_338192",
+            "http://purl.obolibrary.org/obo/NCBITaxon_341663",
+            "http://purl.obolibrary.org/obo/NCBITaxon_344612",
+            "http://purl.obolibrary.org/obo/NCBITaxon_347515",
+            "http://purl.obolibrary.org/obo/NCBITaxon_352472",
+            "http://purl.obolibrary.org/obo/NCBITaxon_352914",
+            "http://purl.obolibrary.org/obo/NCBITaxon_353151",
+            "http://purl.obolibrary.org/obo/NCBITaxon_353152",
+            "http://purl.obolibrary.org/obo/NCBITaxon_353153",
+            "http://purl.obolibrary.org/obo/NCBITaxon_353154",
+            "http://purl.obolibrary.org/obo/NCBITaxon_362976",
+            "http://purl.obolibrary.org/obo/NCBITaxon_367110",
+            "http://purl.obolibrary.org/obo/NCBITaxon_367775",
+            "http://purl.obolibrary.org/obo/NCBITaxon_370354",
+            "http://purl.obolibrary.org/obo/NCBITaxon_370355",
+            "http://purl.obolibrary.org/obo/NCBITaxon_379508",
+            "http://purl.obolibrary.org/obo/NCBITaxon_380704",
+            "http://purl.obolibrary.org/obo/NCBITaxon_383855",
+            "http://purl.obolibrary.org/obo/NCBITaxon_392613",
+            "http://purl.obolibrary.org/obo/NCBITaxon_396776",
+            "http://purl.obolibrary.org/obo/NCBITaxon_397948",
+            "http://purl.obolibrary.org/obo/NCBITaxon_402676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_403673",
+            "http://purl.obolibrary.org/obo/NCBITaxon_403677",
+            "http://purl.obolibrary.org/obo/NCBITaxon_412133",
+            "http://purl.obolibrary.org/obo/NCBITaxon_413071",
+            "http://purl.obolibrary.org/obo/NCBITaxon_413949",
+            "http://purl.obolibrary.org/obo/NCBITaxon_418459",
+            "http://purl.obolibrary.org/obo/NCBITaxon_420245",
+            "http://purl.obolibrary.org/obo/NCBITaxon_425011",
+            "http://purl.obolibrary.org/obo/NCBITaxon_425264",
+            "http://purl.obolibrary.org/obo/NCBITaxon_425265",
+            "http://purl.obolibrary.org/obo/NCBITaxon_426428",
+            "http://purl.obolibrary.org/obo/NCBITaxon_429131",
+            "http://purl.obolibrary.org/obo/NCBITaxon_431241",
+            "http://purl.obolibrary.org/obo/NCBITaxon_431595",
+            "http://purl.obolibrary.org/obo/NCBITaxon_432359",
+            "http://purl.obolibrary.org/obo/NCBITaxon_435258",
+            "http://purl.obolibrary.org/obo/NCBITaxon_441375",
+            "http://purl.obolibrary.org/obo/NCBITaxon_441959",
+            "http://purl.obolibrary.org/obo/NCBITaxon_441960",
+            "http://purl.obolibrary.org/obo/NCBITaxon_443226",
+            "http://purl.obolibrary.org/obo/NCBITaxon_447093",
+            "http://purl.obolibrary.org/obo/NCBITaxon_447095",
+            "http://purl.obolibrary.org/obo/NCBITaxon_451804",
+            "http://purl.obolibrary.org/obo/NCBITaxon_454284",
+            "http://purl.obolibrary.org/obo/NCBITaxon_477976",
+            "http://purl.obolibrary.org/obo/NCBITaxon_481877",
+            "http://purl.obolibrary.org/obo/NCBITaxon_482561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_483514",
+            "http://purl.obolibrary.org/obo/NCBITaxon_484906",
+            "http://purl.obolibrary.org/obo/NCBITaxon_486041",
+            "http://purl.obolibrary.org/obo/NCBITaxon_498846",
+            "http://purl.obolibrary.org/obo/NCBITaxon_500485",
+            "http://purl.obolibrary.org/obo/NCBITaxon_502779",
+            "http://purl.obolibrary.org/obo/NCBITaxon_502780",
+            "http://purl.obolibrary.org/obo/NCBITaxon_507601",
+            "http://purl.obolibrary.org/obo/NCBITaxon_508771",
+            "http://purl.obolibrary.org/obo/NCBITaxon_510516",
+            "http://purl.obolibrary.org/obo/NCBITaxon_510951",
+            "http://purl.obolibrary.org/obo/NCBITaxon_510953",
+            "http://purl.obolibrary.org/obo/NCBITaxon_513050",
+            "http://purl.obolibrary.org/obo/NCBITaxon_515849",
+            "http://purl.obolibrary.org/obo/NCBITaxon_535722",
+            "http://purl.obolibrary.org/obo/NCBITaxon_544712",
+            "http://purl.obolibrary.org/obo/NCBITaxon_554155",
+            "http://purl.obolibrary.org/obo/NCBITaxon_559297",
+            "http://purl.obolibrary.org/obo/NCBITaxon_559298",
+            "http://purl.obolibrary.org/obo/NCBITaxon_559305",
+            "http://purl.obolibrary.org/obo/NCBITaxon_559515",
+            "http://purl.obolibrary.org/obo/NCBITaxon_559882",
+            "http://purl.obolibrary.org/obo/NCBITaxon_572307",
+            "http://purl.obolibrary.org/obo/NCBITaxon_573729",
+            "http://purl.obolibrary.org/obo/NCBITaxon_573826",
+            "http://purl.obolibrary.org/obo/NCBITaxon_578454",
+            "http://purl.obolibrary.org/obo/NCBITaxon_578456",
+            "http://purl.obolibrary.org/obo/NCBITaxon_578458",
+            "http://purl.obolibrary.org/obo/NCBITaxon_578461",
+            "http://purl.obolibrary.org/obo/NCBITaxon_578462",
+            "http://purl.obolibrary.org/obo/NCBITaxon_602072",
+            "http://purl.obolibrary.org/obo/NCBITaxon_630390",
+            "http://purl.obolibrary.org/obo/NCBITaxon_644352",
+            "http://purl.obolibrary.org/obo/NCBITaxon_644358",
+            "http://purl.obolibrary.org/obo/NCBITaxon_645133",
+            "http://purl.obolibrary.org/obo/NCBITaxon_645134",
+            "http://purl.obolibrary.org/obo/NCBITaxon_647933",
+            "http://purl.obolibrary.org/obo/NCBITaxon_658429",
+            "http://purl.obolibrary.org/obo/NCBITaxon_660025",
+            "http://purl.obolibrary.org/obo/NCBITaxon_660027",
+            "http://purl.obolibrary.org/obo/NCBITaxon_660029",
+            "http://purl.obolibrary.org/obo/NCBITaxon_660122",
+            "http://purl.obolibrary.org/obo/NCBITaxon_665079",
+            "http://purl.obolibrary.org/obo/NCBITaxon_667725",
+            "http://purl.obolibrary.org/obo/NCBITaxon_679716",
+            "http://purl.obolibrary.org/obo/NCBITaxon_690307",
+            "http://purl.obolibrary.org/obo/NCBITaxon_691883",
+            "http://purl.obolibrary.org/obo/NCBITaxon_695850",
+            "http://purl.obolibrary.org/obo/NCBITaxon_741276",
+            "http://purl.obolibrary.org/obo/NCBITaxon_744533",
+            "http://purl.obolibrary.org/obo/NCBITaxon_747089",
+            "http://purl.obolibrary.org/obo/NCBITaxon_747676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_747725",
+            "http://purl.obolibrary.org/obo/NCBITaxon_759273",
+            "http://purl.obolibrary.org/obo/NCBITaxon_763407",
+            "http://purl.obolibrary.org/obo/NCBITaxon_763924",
+            "http://purl.obolibrary.org/obo/NCBITaxon_767769",
+            "http://purl.obolibrary.org/obo/NCBITaxon_767770",
+            "http://purl.obolibrary.org/obo/NCBITaxon_771870",
+            "http://purl.obolibrary.org/obo/NCBITaxon_794803",
+            "http://purl.obolibrary.org/obo/NCBITaxon_858893",
+            "http://purl.obolibrary.org/obo/NCBITaxon_859272",
+            "http://purl.obolibrary.org/obo/NCBITaxon_860569",
+            "http://purl.obolibrary.org/obo/NCBITaxon_860570",
+            "http://purl.obolibrary.org/obo/NCBITaxon_861557",
+            "http://purl.obolibrary.org/obo/NCBITaxon_869250",
+            "http://purl.obolibrary.org/obo/NCBITaxon_876142",
+            "http://purl.obolibrary.org/obo/NCBITaxon_881290",
+            "http://purl.obolibrary.org/obo/NCBITaxon_885311",
+            "http://purl.obolibrary.org/obo/NCBITaxon_885315",
+            "http://purl.obolibrary.org/obo/NCBITaxon_885318",
+            "http://purl.obolibrary.org/obo/NCBITaxon_885319",
+            "http://purl.obolibrary.org/obo/NCBITaxon_890382",
+            "http://purl.obolibrary.org/obo/NCBITaxon_907965",
+            "http://purl.obolibrary.org/obo/NCBITaxon_911350",
+            "http://purl.obolibrary.org/obo/NCBITaxon_929439",
+            "http://purl.obolibrary.org/obo/NCBITaxon_933077",
+            "http://purl.obolibrary.org/obo/NCBITaxon_933801",
+            "http://purl.obolibrary.org/obo/NCBITaxon_935652",
+            "http://purl.obolibrary.org/obo/NCBITaxon_935791",
+            "http://purl.obolibrary.org/obo/NCBITaxon_936456",
+            "http://purl.obolibrary.org/obo/NCBITaxon_943118",
+            "http://purl.obolibrary.org/obo/NCBITaxon_943119",
+            "http://purl.obolibrary.org/obo/NCBITaxon_943120",
+            "http://purl.obolibrary.org/obo/NCBITaxon_943122",
+            "http://purl.obolibrary.org/obo/NCBITaxon_943167",
+            "http://purl.obolibrary.org/obo/NCBITaxon_948595",
+            "http://purl.obolibrary.org/obo/NCBITaxon_981087",
+            "http://purl.obolibrary.org/obo/NCBITaxon_983644",
+            "http://purl.obolibrary.org/obo/NCBITaxon_985895",
+            "http://purl.obolibrary.org/obo/NCBITaxon_986730",
+            "http://purl.obolibrary.org/obo/NCBITaxon_989654",
+            "http://purl.obolibrary.org/obo/NCBITaxon_989655",
+            "http://purl.obolibrary.org/obo/NCBITaxon_993615",
+            "http://purl.obolibrary.org/obo/NCBITaxon_999809",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1003232",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1003335",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1033177",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1036611",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1036612",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1055687",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1068625",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1069680",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1073089",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1073090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1074872",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1074873",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1076696",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1076935",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1089451",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1089452",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1094619",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1097556",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1111077",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1120755",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1126212",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1130820",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1130821",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1133968",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1137138",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1137139",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1137211",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1156394",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1157616",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1160497",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1169474",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1169540",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1170230",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1178016",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1182543",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1182544",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1182545",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1186058",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1202531",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1206056",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1206058",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1208370",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1209962",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1220924",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1220926",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1223555",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1223556",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1223557",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1223558",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1223559",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1223560",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1227346",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1229664",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1230383",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1237626",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1240240",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1247875",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1257118",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1262450",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1263082",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1268274",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1274352",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1276135",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1276537",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1279043",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1279085",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1280524",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1288291",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1295531",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1295532",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1295824",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1295825",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296100",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296103",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296105",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296108",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296111",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296119",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296121",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1296122",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1303197",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1328758",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1353008",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1354746",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1355160",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1355477",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1358809",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1392248",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1392250",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1392255",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1392256",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1397361",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1398154",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1408657",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1408658",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1421051",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1442368",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1442369",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1442370",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1442371",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1447872",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448314",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448315",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448316",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448318",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448319",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448320",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1448321",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1450537",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1505232",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1537102",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1653476",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1708541",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1743103",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1813461",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1866961",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1882831",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2059318",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2249419",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2301183",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2557866",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2853592",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2853593",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2902605",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3039483"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_3218",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3702",
+            "http://purl.obolibrary.org/obo/NCBITaxon_3988",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4577",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7029",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7070",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7227",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7460",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7574",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7668",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7719",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7739",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7918",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8364",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9258",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9615",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9755",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9785",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9796",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10195",
+            "http://purl.obolibrary.org/obo/NCBITaxon_31033",
+            "http://purl.obolibrary.org/obo/NCBITaxon_39947",
+            "http://purl.obolibrary.org/obo/NCBITaxon_45027",
+            "http://purl.obolibrary.org/obo/NCBITaxon_45351",
+            "http://purl.obolibrary.org/obo/NCBITaxon_59463",
+            "http://purl.obolibrary.org/obo/NCBITaxon_76193",
+            "http://purl.obolibrary.org/obo/NCBITaxon_99883",
+            "http://purl.obolibrary.org/obo/NCBITaxon_101832",
+            "http://purl.obolibrary.org/obo/NCBITaxon_400682",
+            "http://purl.obolibrary.org/obo/NCBITaxon_947166",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1943391",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2912840"
+        ]
+    },
+    {
+        "name": "Polygenic Score Catalog",
+        "url": "https://www.pgscatalog.org/",
+        "identifier": "https://www.pgscatalog.org/",
+        "alternateName": "PGS Catalog",
+        "license": "https://www.ebi.ac.uk/about/terms-of-use/",
+        "conditionsOfAccess": "Open",
+        "abstract": "Polygenic Score Catalog is a NIH supported generalist repository that includes polygenic scores data.",
+        "description": "The PGS Catalog is an open database of published polygenic scores (PGS). Each PGS in the Catalog is consistently annotated with relevant metadata; including scoring files (variants, effect alleles/weights), annotations of how the PGS was developed and applied, and evaluations of their predictive performance. See the PGS Catalog Data Description page for a complete description of the metadata captured for PGS, Samples, Performance Metrics, Traits, and Publications.",
+        "collectionType": "Database",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "v2025.08.06",
+        "genre": "Generalist",
+        "dateModified": "2025-08-06",
+        "dateCreated": "2019-08-06",
+        "datePublished": "2019-10-14",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The Polygenic Score Catalog as an open database for reproducibility and systematic evaluation.",
+                "pmid": "33692568"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Enhancing the Polygenic Score Catalog with tools for score calculation and ancestry normalization.",
+                "pmid": " 39327485"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-09-29",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "MR/L003120/1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "UK Medical Research Council",
+                    "alternateName": "MRC",
+                    "parentOrganization": "UKRI"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "RG/13/13/30194",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "British Heart Foundation",
+                    "alternateName": "BHF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "RG/18/13/33946",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "British Heart Foundation",
+                    "alternateName": "BHF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U41HG007823",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "RG/F/23/110103",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "British Heart Foundation",
+                    "alternateName": "BHF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1U24HG012542",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "BRC-1215\u201320014",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Cambridge Biomedical Research Centre",
+                    "parentOrganization": "NIHR"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NIHR203312",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Cambridge Biomedical Research Centre",
+                    "parentOrganization": "NIHR"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "RE/18/1/34212",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Cambridge BHF Centre of Research Excellence",
+                    "parentOrganization": "BHF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "CH/12/2/29428",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "British Heart Foundation Chair Award",
+                    "alternateName": "BHF Chair Award",
+                    "parentOrganization": "BHF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "No 101016775 INTERVENE",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Horizon 2020 research and innovation programme",
+                    "parentOrganization": "European Union"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Person",
+                "name": "Samuel Lambert",
+                "givenName": "Samuel",
+                "familyName": "Lambert",
+                "identifier": "https://orcid.org/0000-0001-8222-008X",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "EBI Samples, Phenotypes and Ontologies team",
+                    "parentOrganization": "EBI"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Michael Inouye",
+                "givenName": "Michael",
+                "familyName": "Inouye",
+                "identifier": "https://orcid.org/0000-0001-9413-6520",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Cambridge"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Laurent Gil",
+                "givenName": "Laurent",
+                "familyName": "Gil",
+                "identifier": "https://orcid.org/0000-0002-9475-4502",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Health Data Research - UK"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Helen Parkinson",
+                "givenName": "Helen",
+                "familyName": "Parkinson",
+                "identifier": "https://orcid.org/0000-0003-3035-4195",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "EBI Samples, Phenotypes and Ontologies team",
+                    "parentOrganization": "EBI"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Aoife McMahon",
+                "givenName": "Aoife",
+                "familyName": "McMahon",
+                "identifier": "https://orcid.org/0000-0003-0978-0309",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Genome-Phenome Archive and European Variation Archive ",
+                    "parentOrganization": "EBI"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Laura Harris",
+                "givenName": "Laura",
+                "familyName": "Harris",
+                "identifier": "https://orcid.org/0000-0003-4312-7223",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "NHGRI-EBI GWAS Catalog",
+                    "parentOrganization": "EBI"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 5161,
+                "unitText": "Polygenic Scores",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 659,
+                "unitText": "Traits",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 739,
+                "unitText": "Publications",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 9791,
+                "unitText": "Sample Sets",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/",
+                "encoding": "txt.gz",
+                "dateModified": "2025-08-06"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ebi.ac.uk/pub/databases/spot/pgs/metadata/pgs_all_metadata.tar.gz",
+                "encoding": "tar.gz",
+                "dateModified": "2025-08-06"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.pmv2gA"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://rrid.site/",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_023558/resolver?q=rrid:scr_023558"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://www.re3data.org"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://registry.identifiers.org/registry/pgs"
+        ],
+        "creditText": "\"If you use the Catalog or Calculator in your research we ask that you cite our below flagship publications:\n\nSamuel A. Lambert, Benjamin Wingfield, Joel T. Gibson, Laurent Gil, Santhi Ramachandran, Florent Yvon, Shirin Saverimuttu, Emily Tinsley, Elizabeth Lewis, Scott C. Ritchie, Jingqin Wu, Rodrigo Canovas, Aoife McMahon, Laura W. Harris, Helen Parkinson, Michael Inouye\nEnhancing the Polygenic Score Catalog with tools for score calculation and ancestry normalization\nNature Geneticsdoi: 10.1038/s41588-024-01937-x (2024).\n\nSamuel A. Lambert, Laurent Gil, Simon Jupp, Scott C. Ritchie, Yu Xu, Annalisa Buniello, Aoife McMahon, Gad Abraham, Michael Chapman, Helen Parkinson, John Danesh, Jacqueline A. L. MacArthur, Michael Inouye\nThe Polygenic Score Catalog as an open database for reproducibility and systematic evaluation\nNature Genetics volume 53, pages420\u2013425doi: 10.1038/s41588-021-00783-5 (2021).\"\n",
+        "isBasedOn": [
+            {
+                "@type": "CreativeWork",
+                "name": "ClinGen Complex Disease PRS Reporting Standards",
+                "url": "https://clinicalgenome.org/docs/clingen-complex-disease-prs-reporting-standards/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "CreativeWork",
+                "name": "FAQ",
+                "url": "https://www.pgscatalog.org/docs/faq/"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "CreativeWork",
+                "name": "NIH Open Domain-Specific Data Sharing Resources",
+                "url": "https://www.nlm.nih.gov/NIHbmic/domain_specific_repositories.html"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "pgsc_calc workflow tool",
+                "url": "https://pgsc-calc.readthedocs.io/en/latest/"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Unsupervised Ensemble Learning for Efficient Integration of Pre-trained Polygenic Risk Scores",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/40235488/",
+                "pmid": 40235488
+            }
+        ],
+        "about": [
+            {
+                "name": "MedicalRiskScore",
+                "url": "http://www.ebi.ac.uk/efo/EFO_0030082",
+                "description": "For the schema, consider https://schema.org/MedicalRiskScore",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Phenotype",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16977",
+                "description": "For the schema, consider https://bioschemas.org/types/Phenotype",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MedicalCondition",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C156809",
+                "description": "For schema, consider https://schema.org/MedicalCondition",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema. For schema consider, https://bioschemas.org/types/BioSample/",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3055",
+            "http://edamontology.org/topic_3305",
+            "http://edamontology.org/topic_0625"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://edamontology.org/topic_3517",
+            "http://purl.obolibrary.org/obo/NCIT_C25694"
+        ],
+        "variableMeasured": [
+            "http://www.ebi.ac.uk/efo/EFO_0030082",
+            "http://purl.obolibrary.org/obo/NCIT_C44272",
+            "http://purl.obolibrary.org/obo/CMO_0000021",
+            "http://purl.obolibrary.org/obo/CMO_0000001",
+            "http://purl.obolibrary.org/obo/CMO_0000035",
+            "http://www.ebi.ac.uk/efo/EFO_0004872",
+            "http://www.ebi.ac.uk/efo/EFO_0005105"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0004995",
+            "http://purl.obolibrary.org/obo/MONDO_0004335",
+            "http://purl.obolibrary.org/obo/MONDO_0005046",
+            "http://purl.obolibrary.org/obo/MONDO_0005066",
+            "http://purl.obolibrary.org/obo/MONDO_0005071",
+            "http://purl.obolibrary.org/obo/MONDO_0004992",
+            "http://purl.obolibrary.org/obo/DOID_0080577"
+        ],
+        "keywords": [
+            "http://id.nlm.nih.gov/mesh/D000096442",
+            "http://id.nlm.nih.gov/mesh/D020022",
+            "http://id.nlm.nih.gov/mesh/D000078182"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_10239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2"
+        ]
+    }
+]
