@@ -88,7 +88,7 @@
     ],
     "species": "http://purl.obolibrary.org/obo/NCBITaxon_9606",
     "measurementTechnique": "http://purl.obolibrary.org/obo/NCIT_C71104",
-    "abstract": "ACTG is a NIAID supported IID repository that includes clinical study results",
+    "abstract": "ACTG Resources is a NIAID supported IID repository that includes clinical study results",
     "author": {
         "@type": "Organization",
         "name": "AIDS Clinical Trials Group network",
