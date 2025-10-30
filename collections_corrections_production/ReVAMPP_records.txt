@@ -9,3 +9,5 @@ https://data.niaid.nih.gov/resources?id=pdb_9p3i
 https://data.niaid.nih.gov/resources?id=pdb_9p3x
 https://data.niaid.nih.gov/resources?id=pdb_9p3m
 https://data.niaid.nih.gov/resources?id=pdb_9p3l
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1156747
+https://data.niaid.nih.gov/resources?id=pdb_6vkf
