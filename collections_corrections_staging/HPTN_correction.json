@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID HPTN Network",
+            "abstract": "The HIV Prevention Trials Network (HPTN) conducts clinical trials to evaluate the safety and efficacy of non-vaccine HIV prevention strategies. Research areas include pre-exposure prophylaxis, behavioral interventions, and novel biomedical approaches to reduce HIV transmission.",
+            "description": "The HIV Prevention Trials Network (HPTN) develops and tests the safety and efficacy of primarily non-vaccine interventions designed to prevent the transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/hiv-prevention-trials-network",
+            "alternateName": [
+                "HPTN",
+                "HIV Prevention Trials Network"
+            ],
+            "url": "https://www.hptn.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

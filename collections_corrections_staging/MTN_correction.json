@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID MTN Network",
+            "abstract": "The Microbicide Trials Network (MTN) is an NIAID-funded global research network focused on preventing the sexual transmission of HIV. The network conducts clinical trials to evaluate microbicides and other biomedical prevention strategies.",
+            "description": "The Microbicide Trials Network (MTN) is an NIAID-funded worldwide collaborative clinical trials network focused on preventing the sexual transmission of HIV. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/microbicide-trials-network",
+            "alternateName": [
+                "MTN",
+                "Microbicide Trials Network"
+            ],
+            "url": "http://www.mtnstopshiv.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

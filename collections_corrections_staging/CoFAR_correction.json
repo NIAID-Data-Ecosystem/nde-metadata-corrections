@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CoFAR Centers",
+            "abstract": "The Consortium for Food Allergy Research (CoFAR) conducts clinical research to improve understanding, diagnosis, and treatment of food allergies. The consortium focuses on advancing therapies to prevent and manage allergic reactions.",
+            "description": "The Consortium for Food Allergy Research (CoFAR) was established to support clinical research on food allergy. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/consortium-food-allergy-research",
+            "alternateName": [
+                "CoFAR",
+                "Consortium for Food Allergy Research"
+            ],
+            "url": "https://www.niaid.nih.gov/research/consortium-food-allergy-research",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

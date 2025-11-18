@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID IeDEA Consortium",
+            "abstract": "The International Epidemiology Databases to Evaluate AIDS (IeDEA) Cohort Consortium is a global research consortium that harmonizes and pools HIV/AIDS data from seven international regions. This collaborative effort supports large-scale epidemiological studies to improve HIV/AIDS treatment and prevention strategies worldwide.",
+            "description": "The International Epidemiology Databases to Evaluate AIDS (IeDEA) Cohort Consortium collaborates to collect and define key variables, harmonize data, and implement methodology to effectively pool data as a cost-effective means of generating large data sets. IeDEA collects HIV/AIDS data from seven international regional data centers, including four in Africa, and one each in the Asia-Pacific region, the Central/South America/Caribbean region, and North America. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/iedea-cohort-consortium",
+            "alternateName": [
+                "IeDEA",
+                "International Epidemiology Databases to Evaluate AIDS Cohort Consortium"
+            ],
+            "url": "http://www.iedea.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

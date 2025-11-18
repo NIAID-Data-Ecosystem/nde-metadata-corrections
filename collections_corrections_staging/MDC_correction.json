@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID MDC Program",
+            "abstract": "The Martin Delaney Collaboratories (MDC) for HIV Cure Research is NIH\u2019s flagship program for HIV cure research, fostering collaboration among basic, applied, and clinical researchers. The program focuses on understanding HIV persistence and developing potential curative strategies.",
+            "description": "The Martin Delaney Collaboratories (MDC) for HIV Cure Research is the flagship NIH program on HIV cure research. The purpose is to foster dynamic, multidisciplinary collaborations between basic, applied, and clinical researchers studying HIV persistence and developing potential curative strategies.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/mdc",
+            "alternateName": [
+                "Martin Delaney Collaboratories for HIV Cure Research",
+                "MDC"
+            ],
+            "url": "https://www.niaid.nih.gov/research/mdc",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

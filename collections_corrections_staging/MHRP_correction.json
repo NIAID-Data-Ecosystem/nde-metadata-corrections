@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID MHRP Program",
+            "abstract": "The U.S. Military HIV Research Program (MHRP) focuses on HIV vaccine development, prevention, disease surveillance, and treatment to protect U.S. military personnel. The program also contributes to global HIV research and public health initiatives.",
+            "description": "The U.S. Military HIV Research Program (MHRP) was established to protect U.S. troops entering endemic HIV areas and is dedicated to HIV vaccine development, prevention, disease surveillance, and HIV care and treatment.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/military-hiv-research-program",
+            "alternateName": [
+                "MHRP",
+                "The U.S. Military HIV Research Program"
+            ],
+            "url": "https://www.hivresearch.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

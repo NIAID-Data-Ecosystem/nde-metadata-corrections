@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CARBIRU Program",
+            "abstract": "The Combating Antibiotic-Resistant Bacteria Interdisciplinary Research Units (CARBIRUs) are multidisciplinary research centers investigating bacterial pathogens identified as public health threats due to antibiotic resistance. These centers explore treatment strategies, resistance mechanisms, and novel bacterial targets to combat antibiotic-resistant infections.",
+            "description": "The Combating Antibiotic-Resistant Bacteria Interdisciplinary Research Units (CARBIRUs) are multidisciplinary research centers focused on bacterial pathogens for which antibiotic resistance poses a significant public health concern, as designated by the CDC\u2019s 2019 Report on Antibiotic Resistance Threats in the United States. Each center brings together investigators from multiple disciplines to investigate non-antibiotic alternative treatment and preventive strategies, including bacteriophage, monoclonal antibodies, ligand mimetics, and defined microbial consortia; poorly understood resistance mechanisms contributing to bacterial persistence and antibiotic treatment failure; and identification and validation of novel bacterial targets for antibiotic intervention. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/carbiru",
+            "alternateName": [
+                "CARBIRU",
+                "Combating Antibiotic-Resistant Bacteria Interdisciplinary Research Units"
+            ],
+            "url": "https://www.niaid.nih.gov/research/carbiru",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

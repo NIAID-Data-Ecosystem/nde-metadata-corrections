@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID IXCRP Program",
+            "abstract": "The Immunobiology of Xenotransplantation Cooperative Research Program (IXCRP) develops preclinical porcine-to-nonhuman primate models for islet, kidney, heart, lung, and liver xenotransplantation. The program aims to advance xenotransplantation research to address organ shortages and improve transplantation outcomes.",
+            "description": "The Immunobiology of Xenotransplantation Cooperative Research Program (IXCRP) aims to develop preclinical porcine to nonhuman primate models of islet, kidney, heart, lung, or liver xenotransplantation. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/immunobiology-xenotransplantation-cooperative-research-program",
+            "alternateName": [
+                "IXCRP",
+                "Immunobiology of Xenotransplantation Cooperative Research Program"
+            ],
+            "url": "https://www.niaid.nih.gov/research/immunobiology-xenotransplantation-cooperative-research-program",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

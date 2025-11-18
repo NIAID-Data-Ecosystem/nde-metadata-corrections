@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CITC Network",
+            "abstract": "The Clinical Islet Transplantation Consortium (CITC) is a research network conducting studies on islet transplantation for patients with type 1 diabetes. The program aims to improve transplantation techniques and long-term outcomes for individuals with the disease.",
+            "description": "The Clinical Islet Transplantation Consortium (CITC) is a network of clinical centers and a data coordinating center established in 2004 to conduct studies of islet transplantation in patients with type 1 diabetes. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/clinical-islet-transplantation-consortium",
+            "alternateName": [
+                "CITC",
+                "The Clinical Islet Transplantation Consortium"
+            ],
+            "url": "https://www.citisletstudy.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

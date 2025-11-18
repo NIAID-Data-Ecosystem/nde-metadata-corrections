@@ -1,0 +1,20 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID NBLs/RBLs",
+            "abstract": "The National Biocontainment Laboratories (NBLs) and Regional Biocontainment Laboratories (RBLs) provide high-containment (BSL4/3/2 and BSL3/2) facilities for research on biodefense and emerging infectious diseases. These laboratories support national preparedness and response efforts for infectious disease threats.",
+            "description": "The National Biocontainment Laboratories (NBLs) and Regional Biocontainment Laboratories (RBLs) provide BSL4/3/2 and BSL3/2 biocontainment facilities, respectively, for research on biodefense and emerging infectious disease agents.  For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/biocontainment-research-facilities",
+            "alternateName": [
+                "National Biocontainment Laboratories",
+                "NBLs",
+                "Regional Biocontainment Laboratories",
+                "RBLs"
+            ],
+            "url": "https://www.niaid.nih.gov/research/biocontainment-research-facilities",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

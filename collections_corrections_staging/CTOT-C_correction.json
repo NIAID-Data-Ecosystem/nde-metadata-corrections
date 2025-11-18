@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CTOT-C Program",
+            "abstract": "Clinical Trials in Organ Transplantation in Children (CTOT-C) addresses challenges in pediatric organ transplantation through collaborative clinical trials. The program builds on previous NIAID pediatric transplantation research to improve long-term transplant outcomes.",
+            "description": "The Clinical Trials in Organ Transplantation in Children (CTOT-C) program focuses on the specific challenges associated with pediatric organ transplantation. This program is a continuation of the first NIAID pediatric transplantation clinical trial consortium, the Cooperative Clinical Trials in Pediatric Transplantation program. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/clinical-trials-organ-transplantation-children",
+            "alternateName": [
+                "Clinical Trials in Organ Transplantation in Children",
+                "CTOT-C"
+            ],
+            "url": "https://www.ctotc.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

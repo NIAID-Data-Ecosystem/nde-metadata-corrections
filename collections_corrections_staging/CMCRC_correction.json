@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CMCRC Network",
+            "abstract": "The Medical Countermeasures against Radiation Consortium (CMCRC) is a network of research centers developing medical countermeasures for radiological and nuclear emergencies. The program focuses on creating effective treatments applicable to all civilian populations.",
+            "description": "The Medical Countermeasures against Radiation Consortium (CMCRC) is a network of national research centers working together to develop effective and comprehensive medical countermeasures applicable to all subsets of the civilian population in the event of radiological or nuclear emergencies. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/centers-medical-countermeasures-against-radiation-consortium",
+            "alternateName": [
+                "Medical Countermeasures against Radiation Consortium",
+                "CMCRC"
+            ],
+            "url": "https://www.niaid.nih.gov/research/centers-medical-countermeasures-against-radiation-consortium",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

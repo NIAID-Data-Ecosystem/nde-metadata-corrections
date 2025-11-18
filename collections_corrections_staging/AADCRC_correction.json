@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID AADCRC Program",
+            "abstract": "The Asthma and Allergic Diseases Cooperative Research Centers (AADCRCs) lead multidisciplinary research on the immunological mechanisms, diagnosis, treatment, and prevention of asthma and allergic diseases. This program is central to NIAID\u2019s efforts to advance understanding and improve therapies for these conditions.",
+            "description": "The Asthma and Allergic Diseases Cooperative Research Centers (AADCRCs) program is the cornerstone of NIAID efforts to promote multidisciplinary basic and clinical research on the immunological basis, pathobiology, diagnosis, treatment, and preven\u200btion of asthma and allergic diseases. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/cooperative-research-centers",
+            "alternateName": [
+                "AADCRC",
+                "Asthma and Allergic Diseases Cooperative Research Centers"
+            ],
+            "url": "https://www.niaid.nih.gov/research/cooperative-research-centers",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CAUSE Network",
+            "abstract": "Childhood Asthma in Urban Settings (CAUSE) studies how environmental factors, allergens, and genetics influence asthma development and severity in children. The network aims to improve asthma prevention and treatment strategies in urban communities.",
+            "description": "The Childhood Asthma in Urban Settings (CAUSE) network focuses on understanding how the environment, allergens, and genetics interact with the body\u2019s immune system to cause asthma and aggravate its symptoms. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/childhood-asthma-in-urban-settings",
+            "alternateName": [
+                "Childhood Asthma in Urban Settings",
+                "CAUSE"
+            ],
+            "url": "https://www.niaid.nih.gov/research/childhood-asthma-in-urban-settings",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID ACTG Network",
+            "abstract": "Advancing Clinical Therapeutics Globally (ACTG) supports the world's largest network of clinical and translational investigators conducting therapeutic research, with a focus on resource-limited settings. These experts lead HIV/AIDS clinical trials, treatment programs, and training initiatives to improve outcomes worldwide.",
+            "description": "Advancing Clinical Therapeutics Globally (ACTG) established and supports the largest Network of expert clinical and translational investigators and therapeutic clinical trials units in the world, including sites in resource-limited countries. These investigators and units serve as the major resource for HIV/AIDS research, treatment, care, and training/education in their communities. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/ACTG",
+            "alternateName": [
+                "ACTG",
+                "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections"
+            ],
+            "url": "https://actgnetwork.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

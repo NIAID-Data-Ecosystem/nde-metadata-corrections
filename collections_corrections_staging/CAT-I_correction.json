@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CAT-I Program",
+            "abstract": "The Center for Advanced Tissue Imaging (CAT-I) is a collaborative effort between NIAID and NCI to develop advanced imaging methods for high-dimensional tissue analysis. The center supports interdisciplinary studies to enhance the visualization of complex biological systems.",
+            "description": "The Center for Advanced Tissue Imaging (CAT-I) is an NIAID and NCI supported effort involving collaborative studies between experts in the Laboratory of Immune System Biology, Division of Intramural Research (DIR), NIAID and investigators in the DIR, NIAID and Center for Cancer Research (CCR), NCI. CAT-I is intended to support the application of evolving advanced imaging methods to multiplex, high-dimension tissue analysis. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/center-advanced-tissue-imaging",
+            "alternateName": [
+                "Center for Advanced Tissue Imaging",
+                "CAT-I"
+            ],
+            "url": "https://www.niaid.nih.gov/research/center-advanced-tissue-imaging",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}

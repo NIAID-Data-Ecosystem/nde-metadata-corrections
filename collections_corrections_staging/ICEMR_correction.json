@@ -1,0 +1,18 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID ICEMR Network",
+            "abstract": "The International Centers of Excellence for Malaria Research (ICEMR) is a global network of research centers in malaria-endemic regions dedicated to understanding, controlling, and preventing malaria. These centers generate critical knowledge and tools to combat malaria effectively.",
+            "description": "The International Centers of Excellence for Malaria Research (ICEMR) network are a global network of independent research centers in malaria-endemic settings, established by NIAID to provide the knowledge, tools, and evidence-based strategies crucial to understanding, controlling, and, ultimately, preventing malaria. For more information, visit the NIAID program page: https://www.niaid.nih.gov/research/excellence-malaria-research",
+            "alternateName": [
+                "ICEMR",
+                "International Centers of Excellence for Malaria Research"
+            ],
+            "url": "https://www.niaid.nih.gov/research/icemr-regional-centers",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ]
+}
