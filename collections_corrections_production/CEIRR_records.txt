@@ -1,3 +1,4 @@
+https://data.niaid.nih.gov/resources?id=dde_5a908221f16d72c6
 https://data.niaid.nih.gov/resources?id=dde_b004a7de1f900bc2
 https://data.niaid.nih.gov/resources?id=dde_b43070652157b982
 https://data.niaid.nih.gov/resources?id=dryad_b8gtht7jf
@@ -65,6 +66,7 @@ https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1283293
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1301408
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1301409
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1308136
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1338723
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna297868
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna760481
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna762269

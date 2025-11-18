@@ -1,3 +1,5 @@
+https://data.niaid.nih.gov/resources?id=empiar-10837
+https://data.niaid.nih.gov/resources?id=empiar-10838
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-zzy3
 https://data.niaid.nih.gov/resources?id=gse102012
 https://data.niaid.nih.gov/resources?id=gse10325
@@ -70,4 +72,5 @@ https://data.niaid.nih.gov/resources?id=phs001392
 https://data.niaid.nih.gov/resources?id=pxd021309
 https://data.niaid.nih.gov/resources?id=pxd021672
 https://data.niaid.nih.gov/resources?id=pxd033015
+https://data.niaid.nih.gov/resources?id=pxd056465
 https://data.niaid.nih.gov/resources?id=vdj_prjna669143
