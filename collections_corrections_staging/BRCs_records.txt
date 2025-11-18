@@ -1,1 +1,17 @@
 https://data.niaid.nih.gov/resources?id=accessclinicaldata_actt
+https://data.niaid.nih.gov/resources?id=gse138723
+https://data.niaid.nih.gov/resources?id=gse139411
+https://data.niaid.nih.gov/resources?id=gse139607
+https://data.niaid.nih.gov/resources?id=gse139608
+https://data.niaid.nih.gov/resources?id=gse139609
+https://data.niaid.nih.gov/resources?id=gse139610
+https://data.niaid.nih.gov/resources?id=gse139611
+https://data.niaid.nih.gov/resources?id=gse139644
+https://data.niaid.nih.gov/resources?id=gse139645
+https://data.niaid.nih.gov/resources?id=gse139649
+https://data.niaid.nih.gov/resources?id=gse139654
+https://data.niaid.nih.gov/resources?id=gse139655
+https://data.niaid.nih.gov/resources?id=gse158029
+https://data.niaid.nih.gov/resources?id=gse211922
+https://data.niaid.nih.gov/resources?id=gse218604
+https://data.niaid.nih.gov/resources?id=gse270349
