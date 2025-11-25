@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Collaboration for AIDS Vaccine and Discovery (CAVD) DataSpace",
+        "url": "https://dataspace.cavd.org",
+        "identifier": "https://dataspace.cavd.org",
+        "alternateName": "CAVD DataSpace",
+        "license": "https://www.cavd.org/about/legal-forms-and-guidance",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://ghiaa.org/wp-content/uploads/2020/05/05_CAVD-Data-Materials-Sharing-Agreement.pdf"
+        },
+        "abstract": "CAVD DataSpace is a Gates Foundation supported IID repository that includes immune data.",
+        "description": "The DataSpace data sharing and discovery tool was created for the HIV vaccine research community to enable and encourage exploration of data beyond the primary analyses, make the community more aware of research being conducted in the field, and facilitate inter-network collaboration among researchers.\n\nDataSpace provides a publicly accessible environment optimized for sharing data and information from HIV vaccine studies and the complex immunogenicity data these studies generate. In DataSpace:\n\n    Datasets for standardized immunogenicity assays are integrated and compiled across studies using a standard data structure and controlled terminology to facilitate meta-analysis. Additional datasets for non-integrated assays and those used for publication analyses are available on the study and publication pages,\n\n    Data processing is performed in coordination with statistical and data management staff to maintain reproducibility of analyses,\n\n    Studies are curated with descriptions and metadata (e.g., summary of study findings, vaccine strategies, treatment schedules and products used, assays performed, and relationships between studies), as well as links to publications and data summary reports to promote well-informed interpretation of the data,\n\n    Datasets are easily accessible using the in-application export feature or the DataSpaceR application programming interface (API),\n\n    Data permissions are defined for each study, and\n\n    Outreach activities promote data use and inform members about new findings and work being done in the field.\n\nThe DataSpace application is an integral part of the larger Collaborative DataSpace Program \u2013 combining a rich data catalog, engaging user support, and an adjustable security model to fulfill data governance requirements \u2013 all in an easy-to-use discovery tool that enables researchers to quickly locate, visualize and export data of interest.\n\nThe DataSpace was developed for the Collaboration for AIDS Vaccine and Discovery (CAVD) and is currently implemented as the CAVD DataSpace.",
+        "collectionType": "Dataset Repository",
+        "hasAPI": true,
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2022-06-28",
+        "datePublished": "2015-12-06",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Accelerating Innovation: Advancing Opportunities in HIV Vaccine Development.",
+                "pmid": "'40735981'"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-11-25",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP1032325",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP1084285",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP1154793",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "LabKey"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fred Hutchinson Cancer Research Center",
+                "alternateName": "Fred Hutch, FHCRC",
+                "identifier": "https://ror.org/007ps6h72"
+            },
+            {
+                "@type": "Organization",
+                "name": "Collaboration for AIDS Vaccine Discovery",
+                "alternateName": "CAVD"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 746,
+                "unitText": "Products",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 395,
+                "unitText": "Studies",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 5074,
+                "unitText": "Subjects",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 6,
+                "unitText": "Assays",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isPartOf": [
+            {
+                "@type": "WebSite",
+                "name": "CAVD",
+                "url": "https://www.cavd.org/"
+            }
+        ],
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            }
+        ]
+    }
+]
