@@ -1,0 +1,1015 @@
+[
+    {
+        "name": "Yale University Open Data Access (YODA) Project",
+        "url": "https://yoda.yale.edu/",
+        "identifier": "https://yoda.yale.edu/",
+        "alternateName": "YODA Project",
+        "license": "https://yoda.yale.edu/about/policies-procedures/",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://yoda.yale.edu/about/policies-procedures/data-use-agreement/"
+        },
+        "abstract": "Yale University Open Data Access (YODA) Project is a Yale and industry partners supported generalist repository that includes clinical data.",
+        "description": "The Yale University Open Data Access (YODA) Project advocates for the responsible sharing of clinical research data. The Project is committed to open science and data transparency, and supports research attempting to produce concrete benefits to patients, the medical community, and society as a whole. Through experience and input from the public and stakeholders, the YODA Project has iteratively developed a model to make data available to researchers in a sustainable way, in which data sharing becomes a part of the clinical research enterprise of the future. The mission of the YODA Project is to not only increase access to clinical research data, but to promote its use to generate new knowledge.",
+        "collectionType": "Dataset Repository",
+        "hasAPI": false,
+        "hasDownload": "No downloads",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "Generalist",
+        "dateModified": "2025-11-01",
+        "dateCreated": "2011-08-01",
+        "datePublished": "2014-01-30",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The Yale Open Data Access (YODA) Project--A Mechanism for Data Sharing.",
+                "pmid": "27518657"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-12-04",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U01HL105270",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "alternateName": "NHLBI",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Center for Outcomes Research & Evaluation",
+                "alternateName": "CORE",
+                "identifier": "https://www.wikidata.org/wiki/Q112085270",
+                "parentOrganization": "Yale School of Medicine"
+            },
+            {
+                "@type": "Person",
+                "name": "Harlan M. Krumholz",
+                "givenName": "Harlan M",
+                "familyName": "Krumholz",
+                "identifier": "https://orcid.org/0000-0003-2046-127X",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Joseph S. Ross",
+                "givenName": "Joseph S",
+                "familyName": "Ross",
+                "identifier": "https://orcid.org/0000-0002-9218-3320",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Cary P. Gross",
+                "givenName": "Cary P",
+                "familyName": "Gross",
+                "identifier": "https://orcid.org/0000-0002-4974-935X",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Nihar Desai",
+                "givenName": "Nihar",
+                "familyName": "Desai",
+                "identifier": "https://orcid.org/0000-0003-2384-2545",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Richard Lehman",
+                "givenName": "Richard",
+                "familyName": "Lehman",
+                "identifier": "https://orcid.org/0000-0003-3259-0239",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Birmingham, UK"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Joshua D. Wallach",
+                "givenName": "Joshua D",
+                "familyName": "Wallach",
+                "identifier": "https://orcid.org/0000-0002-2816-6905",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Emory University"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jessica Ritchie Klein",
+                "givenName": "Jessica Ritchie ",
+                "familyName": "Klein",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Molly K. Willeford",
+                "givenName": "Molly K",
+                "familyName": "Willeford",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Erfan Taherifard",
+                "givenName": "Erfan",
+                "familyName": "Taherifard",
+                "identifier": "https://orcid.org/0000-0002-9101-0321",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Yale School of Medicine"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 499,
+                "unitText": "Clinical Studies",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.b6b091"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://rrid.site/",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_022761/resolver?q=rrid:scr_022761"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://www.re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100012235"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResearchProject",
+                "name": "Center for Outcomes Research and Evaluation",
+                "url": "https://medicine.yale.edu/core/"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Data sharing: A new editorial initiative of the International Committee of Medical Journal Editors. Implications for the editors' network.",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/29622961/",
+                "pmid": 29622961,
+                "doi": "10.1016/j.ehj.2017.05.001"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Reproducible research practices, openness and transparency in health economic evaluations: study protocol for a cross-sectional comparative analysis ",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/32060160/",
+                "pmid": 32060160
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "Collection",
+                "name": "Publications and Presentations",
+                "url": "https://yoda.yale.edu/about/publications-presentations/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Trials Determined to be Unavailable",
+                "url": "https://yoda.yale.edu/metrics/clinical-trial-inquiries-and-csr-summary-requests/trials-determined-to-be-unavailable/"
+            },
+            {
+                "@type": "Collection",
+                "name": "Relevant Literature",
+                "url": "https://yoda.yale.edu/about/relevant-literature/"
+            },
+            {
+                "@type": "Collection",
+                "name": "Community Data Sharing Resources",
+                "url": "https://yoda.yale.edu/about/community-data-sharing-resources/"
+            }
+        ],
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MedicalStudy",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+                "description": "For schema, consider https://schema.org/MedicalStudy",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3379",
+            "http://edamontology.org/topic_3373",
+            "http://edamontology.org/topic_3966",
+            "http://edamontology.org/topic_0202"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C71104",
+            "http://purl.obolibrary.org/obo/NCIT_C15206",
+            "http://purl.obolibrary.org/obo/NCIT_C46079"
+        ],
+        "variableMeasured": [
+            "http://www.ebi.ac.uk/efo/EFO_0008383",
+            "http://www.ebi.ac.uk/efo/EFO_0009658",
+            "http://purl.obolibrary.org/obo/CMO_0000000",
+            "http://www.ebi.ac.uk/efo/EFO_0009520"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C142507",
+            "http://purl.obolibrary.org/obo/NCIT_C15365",
+            "http://purl.obolibrary.org/obo/NCIT_C191275"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_6252",
+            "http://purl.obolibrary.org/obo/NCBITaxon_36087",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_12814",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11292"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0004664",
+            "http://purl.obolibrary.org/obo/MONDO_0005644",
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0005109",
+            "http://purl.obolibrary.org/obo/MONDO_0012268",
+            "http://purl.obolibrary.org/obo/MONDO_0001577",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0019173",
+            "http://purl.obolibrary.org/obo/MONDO_0005812",
+            "http://purl.obolibrary.org/obo/MONDO_0023557",
+            "http://purl.obolibrary.org/obo/MONDO_0005316",
+            "http://purl.obolibrary.org/obo/MONDO_0005148",
+            "http://purl.obolibrary.org/obo/MONDO_0005147",
+            "http://purl.obolibrary.org/obo/MONDO_0020547",
+            "http://purl.obolibrary.org/obo/MONDO_0011438",
+            "http://purl.obolibrary.org/obo/MONDO_0007079",
+            "http://purl.obolibrary.org/obo/MONDO_0005339",
+            "http://purl.obolibrary.org/obo/MONDO_0004975",
+            "http://purl.obolibrary.org/obo/MONDO_0002280",
+            "http://purl.obolibrary.org/obo/MONDO_0005618",
+            "http://purl.obolibrary.org/obo/MONDO_0011429",
+            "http://purl.obolibrary.org/obo/MONDO_0011849",
+            "http://purl.obolibrary.org/obo/MONDO_0008383",
+            "http://purl.obolibrary.org/obo/MONDO_0004979",
+            "http://purl.obolibrary.org/obo/MONDO_0004981",
+            "http://purl.obolibrary.org/obo/MONDO_0007743",
+            "http://purl.obolibrary.org/obo/MONDO_0005260",
+            "http://purl.obolibrary.org/obo/MONDO_0005095",
+            "http://purl.obolibrary.org/obo/MONDO_0004985",
+            "http://purl.obolibrary.org/obo/HP_0004326",
+            "http://purl.obolibrary.org/obo/MONDO_0005101",
+            "http://purl.obolibrary.org/obo/MONDO_0005352",
+            "http://purl.obolibrary.org/obo/MONDO_0005453",
+            "http://purl.obolibrary.org/obo/MONDO_0005011",
+            "http://purl.obolibrary.org/obo/MONDO_0044339",
+            "http://purl.obolibrary.org/obo/MONDO_0001627",
+            "http://purl.obolibrary.org/obo/MONDO_0004059",
+            "http://purl.obolibrary.org/obo/MONDO_0002009",
+            "http://id.nlm.nih.gov/mesh/D061218",
+            "http://purl.obolibrary.org/obo/MONDO_0004980",
+            "http://purl.obolibrary.org/obo/MONDO_0005027",
+            "http://purl.obolibrary.org/obo/HP_0001945",
+            "http://purl.obolibrary.org/obo/GO_0007599",
+            "http://purl.obolibrary.org/obo/MONDO_0006559",
+            "http://purl.obolibrary.org/obo/MONDO_0005044",
+            "http://purl.obolibrary.org/obo/MONDO_0800504",
+            "http://purl.obolibrary.org/obo/HP_0002140",
+            "http://purl.obolibrary.org/obo/DOID_1040",
+            "http://purl.obolibrary.org/obo/MONDO_0018874",
+            "http://purl.obolibrary.org/obo/MONDO_0013280",
+            "http://purl.obolibrary.org/obo/NCIT_C168701",
+            "http://purl.obolibrary.org/obo/MONDO_0007915",
+            "http://purl.obolibrary.org/obo/MONDO_0005062",
+            "http://purl.obolibrary.org/obo/MONDO_0018876",
+            "http://purl.obolibrary.org/obo/MONDO_0003864",
+            "http://purl.obolibrary.org/obo/MONDO_0018908",
+            "http://purl.obolibrary.org/obo/MONDO_0005277",
+            "http://purl.obolibrary.org/obo/MONDO_0009693",
+            "http://purl.obolibrary.org/obo/MONDO_0005301",
+            "http://purl.obolibrary.org/obo/MONDO_0005070",
+            "http://purl.obolibrary.org/obo/MONDO_0021100",
+            "http://purl.obolibrary.org/obo/MONDO_0021068",
+            "http://purl.obolibrary.org/obo/MONDO_0021259",
+            "http://purl.obolibrary.org/obo/MONDO_0011122",
+            "http://purl.obolibrary.org/obo/HP_0007359",
+            "http://purl.obolibrary.org/obo/MONDO_0005249",
+            "http://purl.obolibrary.org/obo/MONDO_0005083",
+            "http://purl.obolibrary.org/obo/MONDO_0005485",
+            "http://purl.obolibrary.org/obo/MONDO_0015924",
+            "http://purl.obolibrary.org/obo/MONDO_0006939",
+            "http://purl.obolibrary.org/obo/MONDO_0019338",
+            "http://purl.obolibrary.org/obo/MONDO_0005089",
+            "http://purl.obolibrary.org/obo/MONDO_0005487",
+            "http://purl.obolibrary.org/obo/MONDO_0005090",
+            "http://purl.obolibrary.org/obo/MONDO_0005100",
+            "http://purl.obolibrary.org/obo/MONDO_0005306",
+            "http://purl.obolibrary.org/obo/MONDO_0012048",
+            "http://purl.obolibrary.org/obo/MONDO_0100338",
+            "http://purl.obolibrary.org/obo/MONDO_0040679",
+            "http://purl.obolibrary.org/obo/HP_0004936"
+        ]
+    },
+    {
+        "name": "Collaboration for AIDS Vaccine and Discovery (CAVD) DataSpace",
+        "url": "https://dataspace.cavd.org",
+        "identifier": "https://dataspace.cavd.org",
+        "alternateName": "CAVD DataSpace",
+        "license": "https://www.cavd.org/about/legal-forms-and-guidance",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://ghiaa.org/wp-content/uploads/2020/05/05_CAVD-Data-Materials-Sharing-Agreement.pdf"
+        },
+        "abstract": "CAVD DataSpace is a Gates Foundation supported IID repository that includes immune data.",
+        "description": "The DataSpace data sharing and discovery tool was created for the HIV vaccine research community to enable and encourage exploration of data beyond the primary analyses, make the community more aware of research being conducted in the field, and facilitate inter-network collaboration among researchers.\n\nDataSpace provides a publicly accessible environment optimized for sharing data and information from HIV vaccine studies and the complex immunogenicity data these studies generate. In DataSpace:\n\n    Datasets for standardized immunogenicity assays are integrated and compiled across studies using a standard data structure and controlled terminology to facilitate meta-analysis. Additional datasets for non-integrated assays and those used for publication analyses are available on the study and publication pages,\n\n    Data processing is performed in coordination with statistical and data management staff to maintain reproducibility of analyses,\n\n    Studies are curated with descriptions and metadata (e.g., summary of study findings, vaccine strategies, treatment schedules and products used, assays performed, and relationships between studies), as well as links to publications and data summary reports to promote well-informed interpretation of the data,\n\n    Datasets are easily accessible using the in-application export feature or the DataSpaceR application programming interface (API),\n\n    Data permissions are defined for each study, and\n\n    Outreach activities promote data use and inform members about new findings and work being done in the field.\n\nThe DataSpace application is an integral part of the larger Collaborative DataSpace Program \u2013 combining a rich data catalog, engaging user support, and an adjustable security model to fulfill data governance requirements \u2013 all in an easy-to-use discovery tool that enables researchers to quickly locate, visualize and export data of interest.\n\nThe DataSpace was developed for the Collaboration for AIDS Vaccine and Discovery (CAVD) and is currently implemented as the CAVD DataSpace.",
+        "collectionType": "Dataset Repository",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2022-06-28",
+        "datePublished": "2015-12-06",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Accelerating Innovation: Advancing Opportunities in HIV Vaccine Development.",
+                "pmid": "40735981"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-12-04",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP1032325",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP1084285",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OPP1154793",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Bill and Melinda Gates Foundation",
+                    "alternateName": "BMGF"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "LabKey"
+            },
+            {
+                "@type": "Organization",
+                "name": "Fred Hutchinson Cancer Research Center",
+                "alternateName": "Fred Hutch, FHCRC",
+                "identifier": "https://ror.org/007ps6h72"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 746,
+                "unitText": "Products",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 395,
+                "unitText": "Studies",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 5074,
+                "unitText": "Subjects",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 6,
+                "unitText": "Assays",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "DataSpaceR",
+                "url": "https://github.com/ropensci/DataSpaceR"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResearchProject",
+                "name": "Collaboration for AIDS Vaccine Discovery (CAVD)",
+                "url": "https://cavd.org/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Blog",
+                "name": "CAVD DataSpace Blog",
+                "url": "https://dataspace.cavd.org/_webdav/static/@files/blogs/updates.html"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "MedicalStudy",
+                "name": "HVTN Studies",
+                "url": "https://dataspace.cavd.org/_webdav/static/%40files/learn/learn.html#study"
+            },
+            {
+                "@type": "MedicalStudy",
+                "name": "CAVD Studies",
+                "url": "https://dataspace.cavd.org/_webdav/static/%40files/learn/learn.html#study"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0003323",
+            "http://purl.obolibrary.org/obo/OBI_1110059",
+            "http://purl.obolibrary.org/obo/NCIT_C178026",
+            "http://purl.obolibrary.org/obo/NCIT_C202401",
+            "http://purl.obolibrary.org/obo/NCIT_C189106",
+            "http://purl.obolibrary.org/obo/MMO_0000075"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C16296",
+            "http://purl.obolibrary.org/obo/CMO_0001861",
+            "http://www.ebi.ac.uk/efo/EFO_0004873",
+            "http://www.ebi.ac.uk/efo/EFO_0000544",
+            "http://purl.obolibrary.org/obo/NCIT_C17214",
+            "http://www.ebi.ac.uk/efo/EFO_0008165",
+            "http://purl.obolibrary.org/obo/NCIT_C20401"
+        ],
+        "about": [
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema. For schema consider, https://bioschemas.org/types/BioSample/",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MedicalStudy",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+                "description": "For schema, consider https://schema.org/MedicalStudy",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Antigen",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C268",
+                "description": "For schema, subclass from MolecularEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "TherapeuticProcedure",
+                "url": "https://schema.org/TherapeuticProcedure",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://www.ebi.ac.uk/efo/EFO_0008165",
+            "http://edamontology.org/topic_3374"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005109",
+            "http://purl.obolibrary.org/obo/MONDO_0012268"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9986",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9544",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_3366",
+            "http://purl.obolibrary.org/obo/OBI_0200111"
+        ]
+    },
+    {
+        "name": "UCSC Genome Browser",
+        "url": "https://genome.ucsc.edu/",
+        "identifier": "https://genome.ucsc.edu/",
+        "alternateName": "UCSC Genome",
+        "license": "https://genome.ucsc.edu/license/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://genome.ucsc.edu/conditions.html"
+        },
+        "abstract": "UCSC Genome Browser is a NIAID supported IID repository that includes genomic data.",
+        "description": "The UCSC Genome Browser is a web-based tool serving as a multi-powered microscope that allows researchers to view all 23 chromosomes of the human genome at any scale from a full chromosome down to an individual nucleotide. The browser integrates the work of countless scientists in laboratories worldwide, including work generated at UCSC, in an interactive, graphical display. The Browser also affords access to the genomes of more than one hundred other organisms.",
+        "collectionType": "Knowledge Base",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2025-11-14",
+        "dateCreated": "2000-07-07",
+        "datePublished": "2000-09-04",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The UCSC Table Browser data retrieval tool.",
+                "pmid": " 14681465"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The UCSC Genome Browser database: 2022 update.",
+                "pmid": " 34718705"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The UCSC Genome Browser database: 2024 update.",
+                "pmid": " 37953330"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The UCSC Genome Browser database: 2023 update.",
+                "pmid": " 36420891"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The UCSC Genome Browser database: 2025 update.",
+                "pmid": "39460617"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2025-12-04",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "2020-0000000020",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Center for Information Technology Research in the Interest of Society",
+                    "alternateName": "CITRIS"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R00RG2456",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "University of California Office of the President",
+                    "alternateName": "UCOP",
+                    "parentOrganization": "University of California"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U24HG002371",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Human Genome Research Institute",
+                        "alternateName": "NHGRI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Cancer Institute",
+                        "alternateName": "NCI",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "UCSC Genome Browser Project Team",
+                "parentOrganization": "University of California, Santa Cruz"
+            },
+            {
+                "@type": "Person",
+                "name": "Max Haeussler",
+                "givenName": "Max",
+                "familyName": "Haeussler",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of California, Santa Cruz"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "David Haussler",
+                "givenName": "David",
+                "familyName": "Haussler",
+                "identifier": "https://orcid.org/0000-0003-1533-4575",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of California, Santa Cruz"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 111,
+                "unitText": "Public Hubs",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hgdownload.gi.ucsc.edu/downloads.html",
+                "encoding": ".bb",
+                "dateModified": "2022-01-01"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Database Commons ",
+                "url": "https://ngdc.cncb.ac.cn/databasecommons/database/id/93"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.s22qdj"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://rrid.site/",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_005780/resolver?q=SCR_005780"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://www.re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100010243"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": "https://www.wikidata.org/wiki/Q7864116",
+        "creditText": "\"Please cite our latest paper, currently PMID 39460617, DOI 10.1093/nar/gkae974. In addition, you can reference the Genome Browser website in your manuscript: http://genome.ucsc.edu or mention in the text that you used the 'UCSC Genome Browser'.\" See https://genome.ucsc.edu/cite.html",
+        "hasPart": [
+            {
+                "@type": "ComputationalTool",
+                "name": "BLAT search tool",
+                "url": "https://genome.ucsc.edu/cgi-bin/hgBlat"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "UCSC Ebola Genome Portal",
+                "url": "https://genome.ucsc.edu/ebolaPortal/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "COVID-19 Research browsers",
+                "url": "https://genome.ucsc.edu/covid19.html"
+            }
+        ],
+        "isRelatedTo": [
+            {
+                "@type": "ComputationalTool",
+                "name": "UCSC Cell Browser",
+                "url": "https://cells.ucsc.edu/"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "DataCatalog",
+                "name": "GenBank",
+                "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://genome.ucsc.edu/goldenPath/pubs.html"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "Collection",
+                "name": "UCSC Genomics Institute Browsers",
+                "url": "https://genomics.ucsc.edu/projects/browsers/"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "ENCyclopedia Of DNA Elements (ENCODE) project",
+                "url": "https://www.encodeproject.org/"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "DataCatalog",
+                "name": "UCSC Genome Browser (Europe Mirror)",
+                "url": "https://genome-euro.ucsc.edu/"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "UCSC Genome Browser (Japan Mirror)",
+                "url": "https://genome-asia.ucsc.edu/"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "UCSC Genome Browser (China Mirror)",
+                "url": "https://genome-china.ucsc.edu/"
+            }
+        ],
+        "about": [
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "description": "Subclass of BioChemEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Gene",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16612",
+                "description": "For schema, consider https://schema.org/Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MolecularSequence",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C164396",
+                "description": "For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_0797",
+            "http://edamontology.org/topic_0199"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0004992",
+            "http://purl.obolibrary.org/obo/MONDO_0005737"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9646",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8496",
+            "http://purl.obolibrary.org/obo/NCBITaxon_310752",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9913",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9615",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10141",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9807",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9358",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10029",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9361",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10020",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9483",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9371",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9796",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9685",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9595",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10181",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9785",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9544",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9315",
+            "http://purl.obolibrary.org/obo/NCBITaxon_30608",
+            "http://purl.obolibrary.org/obo/NCBITaxon_13616",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9669",
+            "http://purl.obolibrary.org/obo/NCBITaxon_59463",
+            "http://purl.obolibrary.org/obo/NCBITaxon_61853",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9978",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9258",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9986",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_30611",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9940",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9597",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9598",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9555",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9601",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9600",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9813",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9402",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_39432",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9305",
+            "http://purl.obolibrary.org/obo/NCBITaxon_42254",
+            "http://purl.obolibrary.org/obo/NCBITaxon_43179",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_31033",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9470",
+            "http://purl.obolibrary.org/obo/NCBITaxon_99883",
+            "http://purl.obolibrary.org/obo/NCBITaxon_127582",
+            "http://purl.obolibrary.org/obo/NCBITaxon_37347",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9739",
+            "http://purl.obolibrary.org/obo/NCBITaxon_30538",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8364",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7165",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7460",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7897",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7868",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8128",
+            "http://purl.obolibrary.org/obo/NCBITaxon_69293",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7757",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7739",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2696672",
+            "http://purl.obolibrary.org/obo/NCBITaxon_13146",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8962",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93934",
+            "http://purl.obolibrary.org/obo/NCBITaxon_48883",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9103",
+            "http://purl.obolibrary.org/obo/NCBITaxon_59729",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9541",
+            "http://purl.obolibrary.org/obo/NCBITaxon_60711",
+            "http://purl.obolibrary.org/obo/NCBITaxon_61621",
+            "http://purl.obolibrary.org/obo/NCBITaxon_43780",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9901",
+            "http://purl.obolibrary.org/obo/NCBITaxon_143292",
+            "http://purl.obolibrary.org/obo/NCBITaxon_35019",
+            "http://purl.obolibrary.org/obo/NCBITaxon_482537",
+            "http://purl.obolibrary.org/obo/NCBITaxon_8479",
+            "http://purl.obolibrary.org/obo/NCBITaxon_34882",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7668",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7719",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7227",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7240",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7244",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7245",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7220",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7217",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7237",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7230",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7234",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7238",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7260"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1570291",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10244",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4932",
+            "http://purl.obolibrary.org/obo/NCBITaxon_54126"
+        ],
+        "keywords": [
+            "http://edamontology.org/operation_0525",
+            "http://edamontology.org/operation_3918",
+            "http://edamontology.org/operation_3182"
+        ],
+        "variableMeasured": [
+            "http://edamontology.org/data_2044",
+            "http://www.ebi.ac.uk/efo/EFO_0004828",
+            "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://purl.obolibrary.org/obo/NCIT_C17565",
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ]
+    }
+]
