@@ -1,12 +1,1 @@
-https://data.niaid.nih.gov/resources?id=s-epmc4151312
-https://data.niaid.nih.gov/resources?id=s-epmc4569305
-https://data.niaid.nih.gov/resources?id=s-epmc4889871
-https://data.niaid.nih.gov/resources?id=s-epmc5139602
-https://data.niaid.nih.gov/resources?id=s-epmc5603006
-https://data.niaid.nih.gov/resources?id=s-epmc6392435
-https://data.niaid.nih.gov/resources?id=s-epmc6397225
-https://data.niaid.nih.gov/resources?id=s-epmc6628420
-https://data.niaid.nih.gov/resources?id=s-epmc6764902
-https://data.niaid.nih.gov/resources?id=s-epmc6868338
-https://data.niaid.nih.gov/resources?id=s-epmc6936001
-https://data.niaid.nih.gov/resources?id=s-epmc7947289
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna542910
