@@ -1,1 +1,9 @@
-https://data.niaid.nih.gov/resources?id=mendeley_hspm62k38b
+https://data.niaid.nih.gov/resources?id=s-epmc3946698
+https://data.niaid.nih.gov/resources?id=s-epmc4118494
+https://data.niaid.nih.gov/resources?id=s-epmc4169326
+https://data.niaid.nih.gov/resources?id=s-epmc4368496
+https://data.niaid.nih.gov/resources?id=s-epmc4382176
+https://data.niaid.nih.gov/resources?id=s-epmc5899681
+https://data.niaid.nih.gov/resources?id=s-epmc5924598
+https://data.niaid.nih.gov/resources?id=s-epmc6687465
+https://data.niaid.nih.gov/resources?id=s-epmc6707066
