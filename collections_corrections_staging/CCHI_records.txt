@@ -545,6 +545,7 @@ https://data.niaid.nih.gov/resources?id=sdy2281
 https://data.niaid.nih.gov/resources?id=sdy2282
 https://data.niaid.nih.gov/resources?id=sdy2471
 https://data.niaid.nih.gov/resources?id=sdy2497
+https://data.niaid.nih.gov/resources?id=sdy3334
 https://data.niaid.nih.gov/resources?id=vdj_bioproject_prjna639580
 https://data.niaid.nih.gov/resources?id=vdj_prjna300878
 https://data.niaid.nih.gov/resources?id=vdj_prjna509910
