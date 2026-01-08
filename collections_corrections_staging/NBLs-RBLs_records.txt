@@ -67,6 +67,7 @@ https://data.niaid.nih.gov/resources?id=gse61421
 https://data.niaid.nih.gov/resources?id=gse62233
 https://data.niaid.nih.gov/resources?id=gse79417
 https://data.niaid.nih.gov/resources?id=mendeley_czvdjmscj8
+https://data.niaid.nih.gov/resources?id=model2408030001
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1022427
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna227014
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna232261

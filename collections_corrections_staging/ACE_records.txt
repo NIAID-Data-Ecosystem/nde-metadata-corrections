@@ -176,6 +176,7 @@ https://data.niaid.nih.gov/resources?id=gse96783
 https://data.niaid.nih.gov/resources?id=model2001290001
 https://data.niaid.nih.gov/resources?id=model2307180001
 https://data.niaid.nih.gov/resources?id=model2307180002
+https://data.niaid.nih.gov/resources?id=model2408030001
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1005266
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna342313
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna438695

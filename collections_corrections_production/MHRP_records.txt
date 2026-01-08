@@ -11,6 +11,7 @@ https://data.niaid.nih.gov/resources?id=gse147035
 https://data.niaid.nih.gov/resources?id=gse180677
 https://data.niaid.nih.gov/resources?id=gse180747
 https://data.niaid.nih.gov/resources?id=gse180749
+https://data.niaid.nih.gov/resources?id=gse300198
 https://data.niaid.nih.gov/resources?id=gse83702
 https://data.niaid.nih.gov/resources?id=mendeley_fc9ps8rhn5
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna342313
