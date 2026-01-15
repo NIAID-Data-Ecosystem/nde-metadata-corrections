@@ -1,5 +1,3 @@
-https://data.niaid.nih.gov/resources?id=dde_5b3ecfcd28d169eb
-https://data.niaid.nih.gov/resources?id=dde_bc6759b7d16ed62e
 https://data.niaid.nih.gov/resources?id=gse134186
 https://data.niaid.nih.gov/resources?id=gse158807
 https://data.niaid.nih.gov/resources?id=gse162620

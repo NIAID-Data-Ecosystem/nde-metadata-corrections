@@ -1,6 +1,5 @@
 https://data.niaid.nih.gov/resources?id=dde_919cd0cf706fcd1c
 https://data.niaid.nih.gov/resources?id=dde_c7922d9e6802c904
-https://data.niaid.nih.gov/resources?id=dde_cf6f28f5db9e7dfc
 https://data.niaid.nih.gov/resources?id=dryad_8931zcrz4
 https://data.niaid.nih.gov/resources?id=dryad_9cnp5hqmn
 https://data.niaid.nih.gov/resources?id=empiar-11679

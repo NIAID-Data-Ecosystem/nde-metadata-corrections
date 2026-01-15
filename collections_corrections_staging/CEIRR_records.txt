@@ -97,6 +97,7 @@ https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna805707
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna805773
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna805815
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna805862
+https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna805883
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna806885
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna806889
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna806904
