@@ -33,3 +33,6 @@ https://data.niaid.nih.gov/resources?id=dataverse_10.7910_dvn_bmuahb
 https://data.niaid.nih.gov/resources?id=dataverse_10.7910_dvn_2eh7xs
 https://data.niaid.nih.gov/resources?id=dataverse_10.7910_dvn_sagxat
 https://data.niaid.nih.gov/resources?id=dataverse_10.7910_dvn_fegpuj
+https://data.niaid.nih.gov/resources?id=dataverse_10.7910_dvn_nycwfq
+https://data.niaid.nih.gov/resources?id=dataverse_10.7910_dvn_2b7udt
+
