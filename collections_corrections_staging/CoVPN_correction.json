@@ -1,0 +1,29 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CoVPN Network",
+            "abstract": "NIAID established the COVID-19 Prevention Network (CoVPN) to enroll thousands of volunteers in large-scale clinical trials testing a variety of investigational vaccines and monoclonal antibodies intended to protect people from COVID-19. The CoVPN merges four existing NIAID-funded clinical trials networks: the HIV Vaccine Trials Network (HVTN), the HIV Prevention Trials Network (HPTN), the Infectious Diseases Clinical Research Consortium (IDCRC), and the Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections (ACTG).",
+            "description": "The COVID-19 Prevention Network (CoVPN) was established by NIAID to enroll thousands of volunteers in large-scale clinical trials evaluating investigational COVID-19 vaccines and monoclonal antibodies. It brings together four NIAID-funded clinical trials networks to accelerate the development of prevention strategies. For more information, visit the NIAID program page: https://www.niaid.nih.gov/diseases-conditions/coronavirus-vaccines-prevention",
+            "alternateName": [
+                "The COVID-19 Prevention Network",
+                "CoVPN"
+            ],
+            "url": "https://www.coronaviruspreventionnetwork.org/",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ],
+    "fundingIdentifiers": [
+        "AI068614",
+        "AI068618",
+        "AI068635",
+        "AI068619",
+        "AI148689",
+        "AI068636",
+        "AI068617",
+        "AI148685",
+        "NR020834"
+    ]
+}

@@ -8,5 +8,6 @@ https://data.niaid.nih.gov/resources?id=gse263892
 https://data.niaid.nih.gov/resources?id=gse266696
 https://data.niaid.nih.gov/resources?id=gse283562
 https://data.niaid.nih.gov/resources?id=gse299662
-https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1202673
+https://data.niaid.nih.gov/resources?id=prjna1202673
+https://data.niaid.nih.gov/resources?id=prjna1226619
 https://data.niaid.nih.gov/resources?id=sdy2621

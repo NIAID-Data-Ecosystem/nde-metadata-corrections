@@ -14,5 +14,10 @@
                 "NIAID"
             ]
         }
+    ],
+    "fundingIdentifiers": [
+        "AI167113",
+        "AI009006",
+        "AI009013"
     ]
 }

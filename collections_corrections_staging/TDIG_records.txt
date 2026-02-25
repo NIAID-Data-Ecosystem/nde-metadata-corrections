@@ -1,1 +1,1 @@
-https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1293444
+https://data.niaid.nih.gov/resources?id=prjna1293444
