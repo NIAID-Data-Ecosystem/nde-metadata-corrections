@@ -16,6 +16,7 @@ https://data.niaid.nih.gov/resources?id=dde_caa59808ae9d5fe9
 https://data.niaid.nih.gov/resources?id=dde_d7216ce5f0411838
 https://data.niaid.nih.gov/resources?id=dde_da11e346bd69daf0
 https://data.niaid.nih.gov/resources?id=dde_ed466e95577c5468
+https://data.niaid.nih.gov/resources?id=emdb_11320
 https://data.niaid.nih.gov/resources?id=mendeley_x4483f3rmk
 https://data.niaid.nih.gov/resources?id=mendeley_xnpzsx3729
 https://data.niaid.nih.gov/resources?id=pdb_9p3i

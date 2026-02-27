@@ -1,3 +1,5 @@
+https://data.niaid.nih.gov/resources?id=emdb_274
+https://data.niaid.nih.gov/resources?id=emdb_83333
 https://data.niaid.nih.gov/resources?id=gse236335
 https://data.niaid.nih.gov/resources?id=pdb_8ufg
 https://data.niaid.nih.gov/resources?id=pdb_8ufh

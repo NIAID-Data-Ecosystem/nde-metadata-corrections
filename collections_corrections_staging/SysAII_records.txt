@@ -1,5 +1,6 @@
 https://data.niaid.nih.gov/resources?id=dde_2b81021376b72f0b
 https://data.niaid.nih.gov/resources?id=dryad_9cnp5hqmn
+https://data.niaid.nih.gov/resources?id=emdb_64320
 https://data.niaid.nih.gov/resources?id=figshare_24297946
 https://data.niaid.nih.gov/resources?id=figshare_24299152
 https://data.niaid.nih.gov/resources?id=figshare_24299380

@@ -1,4 +1,8 @@
 https://data.niaid.nih.gov/resources?id=dryad_5mkkwh79k
+https://data.niaid.nih.gov/resources?id=emdb_11676
+https://data.niaid.nih.gov/resources?id=emdb_1247190
+https://data.niaid.nih.gov/resources?id=emdb_12721
+https://data.niaid.nih.gov/resources?id=emdb_83333
 https://data.niaid.nih.gov/resources?id=empiar-11570
 https://data.niaid.nih.gov/resources?id=empiar-11571
 https://data.niaid.nih.gov/resources?id=empiar-11572

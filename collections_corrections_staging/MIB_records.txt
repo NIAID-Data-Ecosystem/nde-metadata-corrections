@@ -1,4 +1,5 @@
 https://data.niaid.nih.gov/resources?id=dryad_51c59zw4v
+https://data.niaid.nih.gov/resources?id=emdb_42789
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-zy9m
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-zy9n
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-zy9x

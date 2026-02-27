@@ -1,6 +1,12 @@
 https://data.niaid.nih.gov/resources?id=dryad_51c59zwcx
 https://data.niaid.nih.gov/resources?id=dryad_f4qrfj723
 https://data.niaid.nih.gov/resources?id=dryad_rn8pk0pk5
+https://data.niaid.nih.gov/resources?id=emdb_11320
+https://data.niaid.nih.gov/resources?id=emdb_11676
+https://data.niaid.nih.gov/resources?id=emdb_12721
+https://data.niaid.nih.gov/resources?id=emdb_2901879
+https://data.niaid.nih.gov/resources?id=emdb_9544
+https://data.niaid.nih.gov/resources?id=emdb_9986
 https://data.niaid.nih.gov/resources?id=figshare_21178468
 https://data.niaid.nih.gov/resources?id=figshare_26841427
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-zyd5
