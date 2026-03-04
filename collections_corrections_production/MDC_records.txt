@@ -7,6 +7,6 @@ https://data.niaid.nih.gov/resources?id=gse215430
 https://data.niaid.nih.gov/resources?id=gse233717
 https://data.niaid.nih.gov/resources?id=gse235229
 https://data.niaid.nih.gov/resources?id=gse277306
-https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna756782
+https://data.niaid.nih.gov/resources?id=prjna756782
 https://data.niaid.nih.gov/resources?id=pxd042550
 https://data.niaid.nih.gov/resources?id=pxd060886
