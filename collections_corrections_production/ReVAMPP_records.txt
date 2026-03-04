@@ -48,3 +48,7 @@ https://data.niaid.nih.gov/resources?id=pdb_9zpm
 https://data.niaid.nih.gov/resources?id=pdb_9zsd
 https://data.niaid.nih.gov/resources?id=pdb_9zv3
 https://data.niaid.nih.gov/resources?id=ncbi_bioproject_prjna1377637
+https://data.niaid.nih.gov/resources?id=empiar-11936
+https://data.niaid.nih.gov/resources?id=empiar-11937
+https://data.niaid.nih.gov/resources?id=empiar-11938
+https://data.niaid.nih.gov/resources?id=pxd050366
