@@ -66,7 +66,6 @@ https://data.niaid.nih.gov/resources?id=phs004281
 https://data.niaid.nih.gov/resources?id=prjdb5347
 https://data.niaid.nih.gov/resources?id=prjdb6506
 https://data.niaid.nih.gov/resources?id=prjna497383
-https://data.niaid.nih.gov/resources?id=proteomexchange_pxd008150
 https://data.niaid.nih.gov/resources?id=pxd008150
 https://data.niaid.nih.gov/resources?id=pxd014976
 https://data.niaid.nih.gov/resources?id=pxd016629
