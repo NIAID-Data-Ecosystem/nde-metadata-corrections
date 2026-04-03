@@ -20,3 +20,7 @@ https://data.niaid.nih.gov/resources?id=gse96783
 https://data.niaid.nih.gov/resources?id=mendeley_3x49zhc9r6
 https://data.niaid.nih.gov/resources?id=mendeley_wcdf42drs7
 https://data.niaid.nih.gov/resources?id=prjna930324
+https://data.niaid.nih.gov/resources?id=sdy2270
+https://data.niaid.nih.gov/resources?id=sdy2400
+https://data.niaid.nih.gov/resources?id=sdy2510
+https://data.niaid.nih.gov/resources?id=sdy3271

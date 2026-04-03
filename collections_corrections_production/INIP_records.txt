@@ -65,3 +65,6 @@ https://data.niaid.nih.gov/resources?id=prjna750479
 https://data.niaid.nih.gov/resources?id=prjna761408
 https://data.niaid.nih.gov/resources?id=prjna816484
 https://data.niaid.nih.gov/resources?id=prjna925891
+https://data.niaid.nih.gov/resources?id=sdy1712
+https://data.niaid.nih.gov/resources?id=sdy2463
+https://data.niaid.nih.gov/resources?id=sdy3080

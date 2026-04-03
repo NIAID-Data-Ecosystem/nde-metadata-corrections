@@ -100,3 +100,5 @@ https://data.niaid.nih.gov/resources?id=prjna812694
 https://data.niaid.nih.gov/resources?id=prjna812767
 https://data.niaid.nih.gov/resources?id=pxd007699
 https://data.niaid.nih.gov/resources?id=pxd008968
+https://data.niaid.nih.gov/resources?id=sdy1555
+https://data.niaid.nih.gov/resources?id=sdy1765
