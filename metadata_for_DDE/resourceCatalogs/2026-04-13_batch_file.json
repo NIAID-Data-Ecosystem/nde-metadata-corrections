@@ -1,0 +1,3650 @@
+[
+    {
+        "name": "Advancing Clinical Therapeutics Globally Resources",
+        "url": "https://actgnetwork.org/",
+        "identifier": "https://actgnetwork.org/",
+        "alternateName": "AIDS Clinical Trials Group Resources | Advancing Clinical Therapeutics Globally Resources | ACTG Resources",
+        "conditionsOfAccess": "Open",
+        "abstract": "ACTG Resources is a NIAID supported IID repository that includes clinical study results",
+        "description": "Resources from ACTG. ACTG is a global clinical trials network that conducts research to improve the management of HIV and its comorbidities; develop a cure for HIV; and innovate treatments for tuberculosis, hepatitis B, and emerging infectious diseases. ACTG is the world\u2019s largest and longest running clinical trials network focused on HIV and other infectious diseases and the people living with them. Founded in 1987, it comprises thousands of dedicated researchers, staff, and community members who are pursuing research into novel treatments and cures for infectious diseases at 65 locations across four continents, with the ultimate goal of advancing science that meaningfully impacts the lives of the people we serve.",
+        "collectionType": "Registry",
+        "hasAPI": false,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateCreated": "1987-01-01",
+        "datePublished": "2007-09-21",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Collaboration and Conflict: Looking Back at the 30-Year History of the AIDS Clinical Trials Group.",
+                "pmid": "26720014"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "AI068634",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "AI106701",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "AI068636",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Allergy and Infectious Diseases",
+                        "alternateName": "NIAID",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute On Drug Abuse",
+                        "alternateName": "NIDA",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute Of Neurological Disorders And Stroke",
+                        "alternateName": "NINDS",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "AIDS Clinical Trials Group network",
+                "alternateName": "ACTG network"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 7,
+                "unitText": "Study Result slides",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 190,
+                "unitText": "Clinical Sites",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 40,
+                "unitText": "Clinical Trials",
+                "@type": "PropertyValue"
+            }
+        ],
+        "spatialCoverage": [
+            {
+                "@type": "AdministrativeArea",
+                "name": "United States of America",
+                "alternateName": "USA",
+                "administrativeType": "country",
+                "identifier": "Q30",
+                "locationType": "study location"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Brazil",
+                "administrativeType": "country",
+                "identifier": "Q155"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Peru",
+                "administrativeType": "country",
+                "identifier": "Q419"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Mexico",
+                "administrativeType": "country",
+                "identifier": "Q96"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Vietnam",
+                "administrativeType": "country",
+                "identifier": "Q881"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "South Africa",
+                "administrativeType": "country",
+                "identifier": "Q258"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Philippines",
+                "administrativeType": "country",
+                "identifier": "Q928"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Thailand",
+                "administrativeType": "country",
+                "identifier": "Q869"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "India",
+                "administrativeType": "country",
+                "identifier": "Q668"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Malawi",
+                "administrativeType": "country",
+                "identifier": "Q1020"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Uganda",
+                "administrativeType": "country",
+                "identifier": "Q1036"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Kenya",
+                "administrativeType": "country",
+                "identifier": "Q114"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Argentina",
+                "administrativeType": "country",
+                "identifier": "Q414"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Haiti",
+                "administrativeType": "country",
+                "identifier": "Q790"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Botswana",
+                "administrativeType": "country",
+                "identifier": "Q963"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Zimbabwe",
+                "administrativeType": "country",
+                "identifier": "Q954"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Canada",
+                "administrativeType": "country",
+                "identifier": "Q16"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Tanzania",
+                "administrativeType": "country",
+                "identifier": "Q924"
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "1987-01-01",
+            "duration": "1987/..",
+            "temporalType": "collection"
+        },
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "ACTG Publications",
+                "url": "https://actgnetwork.org/publications/",
+                "author": {
+                    "@type": "Organization",
+                    "name": "AIDS Clinical Trial Group"
+                }
+            },
+            {
+                "@type": "Collection",
+                "name": "ACTG Study Results Library",
+                "url": "https://actgnetwork.org/homepage/study-results/",
+                "description": "As part of a pilot campaign, the ACTG AEC Communications Subcommittee is creating a library of ACTG study result slides that will provide insight into the broad range of our work. These short, lay-language slides will be public facing, here on the ACTG public website, and for site use in presentations to various audiences (including Community Advisory Boards). The slide decks below are available for download. We\u2019ll be updating this page with new slide decks, so continue to check back regularly!\n ",
+                "author": {
+                    "@type": "Organization",
+                    "alternateName": "ACTG",
+                    "name": "AIDS Clinical Trials Group"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "ClinicalStudy",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+                "description": "For schema, consider https://schema.org/MedicalStudy",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema. For schema, consider https://bioschemas.org/types/BioSample/",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0012268"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_11676",
+            "http://purl.obolibrary.org/obo/NCBITaxon_11709"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C71104"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "topicCoverage": [
+            "http://edamontology.org/topic_0804",
+            "http://edamontology.org/topic_3277",
+            "http://edamontology.org/topic_3305",
+            "http://edamontology.org/topic_3324"
+        ]
+    },
+    {
+        "name": "Bacterial and Viral Bioinformatics Resource Center",
+        "url": "https://www.bv-brc.org/",
+        "identifier": "https://www.bv-brc.org/",
+        "alternateName": "BV-BRC",
+        "license": "https://www.bv-brc.org/docs/system_documentation/data_management_sharing.html",
+        "conditionsOfAccess": "Open",
+        "abstract": "The Bacterial and Viral Bioinformatics Resource Center (BV-BRC) is a NIAID supported IID repository that includes multimodal pathogen data.",
+        "description": "The Bacterial and Viral Bioinformatics Resource Center (BV-BRC) is an information system designed to support research on bacterial and viral infectious diseases. The BV-BRC combines the data and tools from the Legacy BRC resources: PATRIC, the bacterial BRC, and IRD and ViPR, the viral BRCs.",
+        "collectionType": "Cloud Ecosystem",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "3.33.16",
+        "genre": "IID",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Introducing the Bacterial and Viral Bioinformatics Resource Center (BV-BRC): a resource combining PATRIC, IRD and ViPR",
+                "pmid": 36350631
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93019C00076",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Argonne National Laboratory",
+                "parentOrganization": "University of Chicago"
+            },
+            {
+                "@type": "Organization",
+                "name": "Biocomplexity Institute and Initiative",
+                "parentOrganization": "University of Virginia"
+            },
+            {
+                "@type": "Organization",
+                "name": "J. Craig Venter Institute",
+                "alternateName": "JCVI"
+            },
+            {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            {
+                "@type": "Person",
+                "name": "Elliot Lefkowitz",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Alabama at Birmingham"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Indresh Singh",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "J. Craig Venter Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rick Stevens",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Argonne National Laboratory"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 1000000,
+                "unitText": "viral genomes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 100000,
+                "unitText": "bacterial genomes",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isBasedOn": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center",
+                "pmid": 27679478
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Influenza Research Database: An integrated bioinformatics resource for influenza virus research",
+                "pmid": 27679478
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Virus pathogen database and analysis resource (ViPR): a comprehensive bioinformatics database and analysis resource for the coronavirus research community",
+                "pmid": 23202522
+            }
+        ],
+        "about": [
+            {
+                "name": "Experiment",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42790",
+                "description": "Not distinct from study as a schema",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "description": "Subclass of BioChemEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Pathway",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C54214",
+                "description": "A class encompassing networks, pathways, and knowledgegraphs",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Software",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema use ComputationalTool",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Taxon",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C40098",
+                "description": "For schema, consider https://schema.org/Taxon",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C18881",
+            "http://purl.obolibrary.org/obo/NCIT_C17565"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_7227",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9669",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9544",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_2259",
+            "http://edamontology.org/topic_0091"
+        ],
+        "variableMeasured": [
+            "http://www.ebi.ac.uk/efo/EFO_0004556",
+            "http://www.ebi.ac.uk/efo/EFO_0004554"
+        ]
+    },
+    {
+        "name": "TB Portals",
+        "url": "https://tbportals.niaid.nih.gov/",
+        "identifier": "https://tbportals.niaid.nih.gov/",
+        "license": "https://tbportals.niaid.nih.gov/download-data",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://tbportals.niaid.nih.gov/pdf/TB-Portals-Data-Use-Agreement.pdf"
+        },
+        "abstract": "The TB Portals is a NIAID supported IID repository that includes multimodal tuberculosis data.",
+        "description": "The NIAID TB Portals Program is a multi-national collaboration for tuberculosis (TB) data sharing and analysis to advance TB research. As a global consortium of clinicians, scientists, and IT professionals, we built the TB Portals, a web-based, open-access repository of multi-domain TB data and tools for its analysis. Here, you can find linked socioeconomic/geographic, clinical, laboratory, radiological, and genomic data from over 11400 international TB patient cases. You can explore and analyze these data through any of our tools, focusing on only one domain or across all of them. TB Portals data are also available for download to support your own research.",
+        "collectionType": "Portal",
+        "hasAPI": false,
+        "hasDownload": "All content",
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The TB Portals: an Open-Access, Web-Based Platform for Global Drug-Resistant-Tuberculosis Data Sharing and Analysis",
+                "pmid": 28904183
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "D43 TW007124/TW/FIC",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute Of Allergy And Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "NIAID",
+                "parentOrganization": "NIH"
+            },
+            {
+                "@type": "Organization",
+                "name": "TB Portals consortium"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 40,
+                "unitText": "contribution sites",
+                "@type": "PropertyValue"
+            }
+        ],
+        "spatialCoverage": [
+            {
+                "@type": "AdministrativeArea",
+                "name": "Kazakhstan",
+                "administrativeType": "country",
+                "identifier": "Q232"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Georgia",
+                "administrativeType": "country",
+                "identifier": "Q230"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Moldova",
+                "administrativeType": "country",
+                "identifier": "Q217"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Belarus",
+                "administrativeType": "country",
+                "identifier": "Q184"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Azerbaijan",
+                "administrativeType": "country",
+                "identifier": "Q227"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "South Africa",
+                "administrativeType": "country",
+                "identifier": "Q258"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "India",
+                "administrativeType": "country",
+                "identifier": "Q668"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Republic of Congo",
+                "administrativeType": "country",
+                "identifier": "Q971"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "China",
+                "administrativeType": "country",
+                "identifier": "Q148"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Mali",
+                "administrativeType": "country",
+                "identifier": "Q912"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Mexico",
+                "administrativeType": "country",
+                "identifier": "Q96"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Kyrgyzstan",
+                "administrativeType": "country",
+                "identifier": "Q813"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Nigeria",
+                "administrativeType": "country",
+                "identifier": "Q1033"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Romania",
+                "administrativeType": "country",
+                "identifier": "Q218"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Senegal",
+                "administrativeType": "country",
+                "identifier": "Q1041"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Ukraine",
+                "administrativeType": "country",
+                "identifier": "Q212"
+            },
+            {
+                "@type": "AdministrativeArea",
+                "name": "Vietnam",
+                "administrativeType": "country",
+                "identifier": "Q881"
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "name": "2013 - current",
+            "temporalType": "collection"
+        },
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Predictive capabilities of baseline radiological findings for early and late disease outcomes within sensitive and multi-drug resistant tuberculosis cases",
+                "pmid": 37808069
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Lineage classification and antitubercular drug resistance surveillance of Mycobacterium tuberculosis by whole-genome sequencing in Southern India",
+                "pmid": 37671895
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Combining Radiological and Genomic TB Portals Data for Drug Resistance Analysis",
+                "pmid": 37663145
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Integrative analysis of clinical health records, imaging and pathogen genomics identifies personalized predictors of disease prognosis in tuberculosis",
+                "pmid": 35898335
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Discriminating TB lung nodules from early lung cancers using deep learning",
+                "pmid": 35725445
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Patterns of genomic interrelatedness of publicly available samples in the TB portals database",
+                "pmid": 35101846
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Differentiating between drug-sensitive and drug-resistant tuberculosis with machine learning for clinical and radiological features",
+                "pmid": 34993110
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Identifying Drug-Resistant Tuberculosis in Chest Radiographs: Evaluation of CNN Architectures and Training Strategies",
+                "pmid": 34891867
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A fully automatic artificial intelligence-based CT image analysis system for accurate detection, diagnosis, and quantitative severity evaluation of pulmonary tuberculosis",
+                "pmid": 34842959
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Radiologist observations of computed tomography (CT) images predict treatment outcome in TB Portals, a real-world database of tuberculosis (TB) cases",
+                "pmid": 33730021
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Performance of Qure.ai automatic classifiers against a large annotated database of patients with diverse forms of tuberculosis",
+                "pmid": 31978149
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Comparative analysis of genomic variability for drug-resistant strains of Mycobacterium tuberculosis: The special case of Belarus",
+                "pmid": 31838261
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "TB DEPOT (Data Exploration Portal): A multi-domain tuberculosis data analysis resource",
+                "pmid": 31120982
+            }
+        ],
+        "isRelatedTo": [
+            {
+                "@type": "ComputationalTool",
+                "name": "Data Exploration Portal",
+                "url": "https://depot.tbportals.niaid.nih.gov/#/home",
+                "alternateName": "TB DEPOT"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Genomic Analysis Portal",
+                "url": "https://gap.tbportals.niaid.nih.gov/",
+                "alternateName": "GAP"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "TB Portals Radiomics Analysis Portal",
+                "url": "https://rap.tbportals.niaid.nih.gov/",
+                "alternateName": "TB RAP"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "TB in 3D"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "TV in VR"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "PET/CT imaging correlates with treatment outcome in patients with multidrug-resistant tuberculosis",
+                "pmid": 25473034
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Automatic tuberculosis screening using chest radiographs",
+                "pmid": 24108713
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A systematic review of the diagnostic accuracy of artificial intelligence-based computer programs to analyze chest x-rays for pulmonary tuberculosis",
+                "pmid": 31479448
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus: Machine-Learning Approach",
+                "pmid": 28678713
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Detecting drug-resistant tuberculosis in chest radiographs",
+                "pmid": 30284153
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Updates on 18F-FDG-PET/CT as a clinical tool for tuberculosis evaluation and therapeutic monitoring",
+                "pmid": 31367568
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus: Machine-Learning Approach",
+                "pmid": 28678713
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "about": [
+            {
+                "name": "ClinicalStudy",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C15206",
+                "description": "For schema, consider https://schema.org/MedicalStudy",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "description": "Subclass of BioChemEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Image",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C48179",
+                "description": "For schema, consider ImageObject https://schema.org/ImageObject",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0018076"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/NCIT_C172305",
+            "http://purl.obolibrary.org/obo/NCIT_C47824"
+        ],
+        "measurementTechnique": [
+            "http://edamontology.org/topic_3382",
+            "http://edamontology.org/topic_3673",
+            "http://www.ebi.ac.uk/efo/EFO_0030083"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_3322"
+        ],
+        "variableMeasured": [
+            "http://www.ebi.ac.uk/efo/EFO_0004847",
+            "http://www.ebi.ac.uk/efo/EFO_0008383",
+            "http://www.ebi.ac.uk/efo/EFO_0020001",
+            "http://www.ebi.ac.uk/efo/EFO_0006890",
+            "http://purl.obolibrary.org/obo/CMO_0002747",
+            "http://purl.obolibrary.org/obo/NCIT_C16457"
+        ]
+    },
+    {
+        "name": "PeptideAtlas",
+        "url": "http://www.peptideatlas.org/",
+        "identifier": "http://www.peptideatlas.org/",
+        "license": "https://peptideatlas.org/repository/",
+        "conditionsOfAccess": "Open",
+        "abstract": "PeptideAtlas is a NIH supported generalist repository that includes proteomic data.",
+        "description": "PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. Mass spectrometer output files are collected for human, mouse, yeast, and several other organisms, and searched using the latest search engines and protein sequences. All results of sequence and spectral library searching are subsequently processed through the Trans Proteomic Pipeline to derive a probability of correct identification for all results in a uniform manner to insure a high quality database, along with false discovery rates at the whole atlas level. Results may be queried and browsed at the PeptideAtlas web site. The raw data, search results, and full builds can also be downloaded for other uses. ",
+        "collectionType": "Database",
+        "hasAPI": false,
+        "hasDownload": "All content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "Generalist",
+        "dateModified": "2024-02-07",
+        "dateCreated": "2010-02-01",
+        "datePublished": "2010-02-01",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The PeptideAtlas Project.",
+                "pmid": "20013378"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The PeptideAtlas project.",
+                "pmid": "16381952"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-2324882",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-1933311",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "IOS-1922871",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM148372",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "GM087221",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "N01-HV-28179",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Heart, Lung, and Blood Institute",
+                    "alternateName": "NHLBI",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Moritz Lab",
+                "parentOrganization": "Institute for Systems Biology"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 96,
+                "unitText": "build",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://peptideatlas.org/builds/",
+                "dateModified": "2019-02-01"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ComputationalTool",
+                "name": "ProteoMapper Online",
+                "url": "https://peptideatlas.org/map/",
+                "description": "A tool for mapping a peptide sequence or list of sequences to PeptideAtlas"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "DataCatalog",
+                "name": "Tiered Human Integrated Search Proteome",
+                "url": "https://peptideatlas.org/thisp/",
+                "description": "In order to provide human proteomics MS/MS search databases that are well defined, comprehensive, and frequently updated, we have developed an automated system that integrates all of major sources of human protein sequences into a set of search databases. These databases are tiered into several levels of complexity from which researchers may choose depending on the goal of the experiment and the data processing resources available."
+            }
+        ],
+        "sameAs": [
+            "https://registry.identifiers.org/registry/peptideatlas",
+            "https://www.wikidata.org/wiki/Q24884023"
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.dvyrsz"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_3702",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6945",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7215",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7460",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9796",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4577",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9913",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4530",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_84645",
+            "http://purl.obolibrary.org/obo/NCBITaxon_64091"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_5868",
+            "http://purl.obolibrary.org/obo/NCBITaxon_38323",
+            "http://purl.obolibrary.org/obo/NCBITaxon_224326",
+            "http://purl.obolibrary.org/obo/NCBITaxon_237561",
+            "http://purl.obolibrary.org/obo/NCBITaxon_562",
+            "http://purl.obolibrary.org/obo/NCBITaxon_173",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1773",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5833",
+            "http://purl.obolibrary.org/obo/NCBITaxon_73239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_287",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93062",
+            "http://purl.obolibrary.org/obo/NCBITaxon_93061",
+            "http://purl.obolibrary.org/obo/NCBITaxon_373153",
+            "http://purl.obolibrary.org/obo/NCBITaxon_170187",
+            "http://purl.obolibrary.org/obo/NCBITaxon_1314",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4932",
+            "http://purl.obolibrary.org/obo/NCBITaxon_4896"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C17156",
+            "http://purl.obolibrary.org/obo/NCIT_C18475",
+            "http://purl.obolibrary.org/obo/NCIT_C122168",
+            "http://edamontology.org/topic_3520"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C84383"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0121",
+            "http://edamontology.org/topic_0078",
+            "http://edamontology.org/topic_3922"
+        ],
+        "keywords": [
+            "http://edamontology.org/topic_3366",
+            "http://edamontology.org/topic_0102",
+            "http://edamontology.org/data_0945"
+        ],
+        "about": [
+            {
+                "name": "Peptide",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C735",
+                "description": "A subclass of MolecularEntity with the same properties as Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "SpectralLibrary",
+                "url": "http://purl.obolibrary.org/obo/MS_1003170",
+                "description": "A subclass of Collection",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "UniProt",
+        "url": "https://www.uniprot.org/",
+        "identifier": "https://www.uniprot.org/",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.uniprot.org/help/license"
+        },
+        "abstract": "UniProt is a NIAID supported generalist repository that includes proteomic data.",
+        "description": "The UniProt Knowledgebase (UniProtKB) is the central hub for the collection of functional information on proteins, with accurate, consistent and rich annotation. In addition to capturing the core data mandatory for each UniProtKB entry (mainly, the amino acid sequence, protein name or description, taxonomic data and citation information), as much annotation information as possible is added. This includes widely accepted biological ontologies, classifications and cross-references, and clear indications of the quality of annotation in the form of evidence attribution of experimental and computational data. The UniProt Knowledgebase consists of two sections: a reviewed section containing manually-annotated records with information extracted from literature and curator-evaluated computational analysis (aka \"UniProtKB/Swiss-Prot\"), and an unreviewed section with computationally analyzed records that await full manual annotation (aka \"UniProtKB/TrEMBL\").",
+        "collectionType": "Knowledge Base",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "Release 2024_02",
+        "genre": "Generalist",
+        "dateModified": "2024-03-27",
+        "dateCreated": "1986-11-27",
+        "datePublished": "2003-12-14",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "UniProt: the Universal Protein Knowledgebase in 2023.",
+                "pmid": "36408920"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "core funds",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "European Molecular Biology Laboratory",
+                    "alternateName": "EMBL"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "ARUK-NAS2017A-1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Alzheimer's Research UK",
+                    "alternateName": "ARUK"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "BB/T010541/1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Biotechnology and Biological Sciences Research Council",
+                    "alternateName": "BBSRC",
+                    "parentOrganization": "UKRI"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "State Secretariat for Education, Research and Innovation",
+                    "alternateName": "SERI",
+                    "parentOrganization": "Swiss Federal Government"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01GM080646",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "G08LM010720",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "P20GM103446",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of General Medical Sciences",
+                    "alternateName": "NIGMS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "DBI-1062520",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "and the National Science Foundation",
+                    "alternateName": "NSF"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "State Secretariat for Education, Research and Innovation",
+                        "alternateName": "SERI",
+                        "parentOrganization": "Swiss Federal Government"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Deutsche Forschungsgemeinschaft",
+                        "alternateName": "DFG"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Swiss Institute of Bioinformatics",
+                        "alternateName": "SIB"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "Swiss Initiative in Systems Biology",
+                        "alternateName": "SystemsX"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U24HG007822",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Eye Institute",
+                        "alternateName": "NEI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Human Genome Research Institute",
+                        "alternateName": "NHGRI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Heart, Lung, and Blood Institute ",
+                        "alternateName": "NHLBI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute on Aging",
+                        "alternateName": "NIA",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Allergy and Infectious Diseases",
+                        "alternateName": "NIAID",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "alternateName": "NIDDK",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of General Medical Sciences",
+                        "alternateName": "NIGMS",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Mental Health",
+                        "alternateName": "NIMH",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Cancer Institute",
+                        "alternateName": "NCI",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "European Bioinformatics Institute",
+                "alternateName": "EMBL-EBI",
+                "parentOrganization": "European Molecular Biology Laboratory"
+            },
+            {
+                "@type": "Organization",
+                "name": "Swiss Institute of Bioinformatics",
+                "alternateName": "SIB "
+            },
+            {
+                "@type": "Organization",
+                "name": "Protein Information Resource",
+                "alternateName": "PIR"
+            },
+            {
+                "@type": "Person",
+                "name": "Alex Bateman",
+                "givenName": "Alex",
+                "familyName": "Bateman",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Alan Bridge",
+                "givenName": "Alan",
+                "familyName": "Bridge",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Cathy Wu",
+                "givenName": "Cathy",
+                "familyName": "Wu",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lionel Breuza",
+                "givenName": "Lionel",
+                "familyName": "Breuza",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Elisabeth Courdet",
+                "givenName": "Elisabeth",
+                "familyName": "Courdet",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Damien Lieberherr",
+                "givenName": "Damien",
+                "familyName": "Lieberherr",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Ivo Pedruzzi",
+                "givenName": "Ivo",
+                "familyName": "Pedruzzi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Sylvain Poux",
+                "givenName": "Sylvain",
+                "familyName": "Poux",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Nicole Redaschi",
+                "givenName": "Nicole",
+                "familyName": "Redaschi",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Swiss Institute of Bioinformatics"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Michele Magrane",
+                "givenName": "Michele",
+                "familyName": "Magrane",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Sandra E. Orchard",
+                "givenName": "Sandra",
+                "familyName": "Orchard",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rafael Santos",
+                "givenName": "Rafael",
+                "familyName": "Santos",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "European Bioinformatics Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Hongzhan Huang",
+                "givenName": "Hongzhan",
+                "familyName": "Huang",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Peter B. McGarvey",
+                "givenName": "Peter",
+                "familyName": "McGarvey",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Darren Natale",
+                "givenName": "Darren",
+                "familyName": "Natale",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Karen Ross",
+                "givenName": "Karen",
+                "familyName": "Ross",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Protein Information Resource"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 248805733,
+                "unitText": "entries",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 571282,
+                "unitText": "reviewed entries",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 248234451,
+                "unitText": "unreviewed entries",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.uniprot.org/help/downloads",
+                "dateModified": "2024-03-27"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "Swiss-Prot",
+                "url": "https://www.uniprot.org/uniprotkb?query=reviewed:true",
+                "description": "UniProtKB/Swiss-Prot is the expertly curated component of UniProtKB (produced by the UniProt consortium). It contains hundreds of thousands of protein descriptions, including function, domain structure, subcellular location, post-translational modifications and functionally characterized variants."
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "TrEMBL",
+                "url": "https://www.uniprot.org/uniprotkb?query=reviewed:false",
+                "description": "TREMBL consists of computer-annotated entries in SWISS-PROT format derived from the translation of all coding sequences (CDS) in the EMBL nucleotide sequence database, except for CDS already included in SWISS-PROT."
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "ELIXIR Core Data Resources",
+                "url": "https://elixir-europe.org/platforms/data/core-data-resources",
+                "description": "ELIXIR Core Data Resources are a set of European data resources of fundamental importance to the wider life-science community and the long-term preservation of biological data."
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Annotation of biologically relevant ligands in UniProtKB using ChEBI",
+                "pmid": 36484697
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A crowdsourcing open platform for literature curation in UniProt",
+                "pmid": 34871295
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets",
+                "pmid": 32716361
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "An enhanced workflow for variant interpretation in UniProtKB/Swiss-Prot improves consistency and reuse in ClinVar",
+                "pmid": 30937429
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.s1ne3g"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q905695",
+            "https://registry.identifiers.org/registry/uniprot"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0078",
+            "http://edamontology.org/topic_0085",
+            "http://edamontology.org/topic_0623"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_1"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C44272"
+        ],
+        "keywords": [
+            "http://edamontology.org/operation_3282",
+            "http://edamontology.org/data_0896",
+            "http://purl.obolibrary.org/obo/NCIT_C43687"
+        ],
+        "about": [
+            {
+                "name": "Peptide",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C735",
+                "description": "A subclass of MolecularEntity with the same properties as Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MolecularSequence",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C164396",
+                "description": "Protein or Peptide sequence in this case. For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation/",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Taxon",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C40098",
+                "description": "For schema, consider https://schema.org/Taxon",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ProteinSet",
+                "description": "A subclass of Collection and Protein, will overlap considerably with GeneSet",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "NCBI Virus",
+        "url": "https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/",
+        "identifier": "https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/",
+        "license": "https://creativecommons.org/public-domain/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "http://www.ncbi.nlm.nih.gov/home/about/policies.shtml"
+        },
+        "abstract": "NCBI Virus is a NIH supported IID repository that includes multiomic data.",
+        "description": "NCBI Virus is a community portal for viral sequence data from RefSeq, GenBank and other NCBI repositories.",
+        "collectionType": "Knowledge Base",
+        "hasAPI": false,
+        "hasDownload": "All content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "NCBI viral genomes resource.",
+                "pmid": "25428358"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1ZIHLM200888-01",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Intramural Research",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "NCBI Virus Team",
+                "parentOrganization": "National Library of Medicine"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 18675,
+                "unitText": "RefSeq Nucleotides",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 680673,
+                "unitText": "RefSeq Proteins",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3259243,
+                "unitText": "Complete Nucleotides",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide",
+                "encoding": "FASTA, Accession list, csv, xml",
+                "dateModified": "2024-05-16"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://doi.org/10.25504/FAIRsharing.d38075"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100011005"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "NCBI Virus Variation Resource",
+                "url": "https://www.ncbi.nlm.nih.gov/genome/viruses/variation/"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "NIAID Influenza Genome Sequencing Project",
+                "url": "https://www.nih.gov/news-events/news-releases/2000-influenza-virus-genomes-now-completed-publicly-accessible"
+            }
+        ],
+        "sameAs": [
+            "https://www.ncbi.nlm.nih.gov/genome/viruses/variation/",
+            "https://www.wikidata.org/wiki/Q114731517"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_0637",
+            "http://edamontology.org/topic_0781",
+            "http://edamontology.org/topic_3293"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_10239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_131567"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://purl.obolibrary.org/obo/OBI_0302914"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C45374",
+            "http://www.ebi.ac.uk/efo/EFO_0004828"
+        ],
+        "keywords": [
+            "http://edamontology.org/format_1929",
+            "http://purl.obolibrary.org/obo/NCIT_C80132",
+            "http://purl.obolibrary.org/obo/NCIT_C18940"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
+        "about": [
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MolecularSequence",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C164396",
+                "description": "Nucleotide sequence in this case. For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation/",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "IdentifierSet",
+                "description": "A sublcass of collection and Identifier",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "Human Microbiome Project Portal",
+        "url": "https://portal.hmpdacc.org/projects/t",
+        "identifier": "https://portal.hmpdacc.org/projects/t",
+        "alternateName": "HMP",
+        "license": "https://hmpdacc.org/hmp/overview/datapolicy.php",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://hmpdacc.org/hmp/resources/download.php"
+        },
+        "abstract": "Human Microbiome Project Portal is a NIH supported IID repository that includes genomic data.",
+        "description": "The overall mission of the HMP was to generate resources to facilitate characterization of the human microbiota to further our understanding of how the microbiome impacts human health and disease. The initial phase of the project, HMP1, established in 2008, characterized the microbial communities from 300 healthy individuals, across several different sites on the human body: nasal passages, oral cavity, skin, gastrointestinal tract, and urogenital tract. 16S rRNA sequencing was performed to characterize the complexity of microbial communities at each body site, and to begin to ask whether there is a core healthy microbiome. Metagenomic whole genome shotgun (wgs) sequencing provided insights into the functions and pathways present in the human microbiome. The second phase of the HMP, the iHMP, will create integrated longitudinal datasets from both the microbiome and host from three different cohort studies of microbiome-associated conditions using multiple \u2018omics technologies. Each of these study groups has engaged in providing new computational tools and integrative molecular perspectives on microbial activity during dysbiosis. As a result of creating these multi\u2019omic data resources, the iHMP has opened up new opportunities for data integration in the human microbiome.",
+        "collectionType": "Knowledge Base",
+        "hasAPI": true,
+        "hasDownload": "Record-level",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateCreated": "2008-01-14",
+        "creativeWorkStatus": "Retired",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Ethical, legal, and social considerations in conducting the Human Microbiome Project.",
+                "pmid": "18971311"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Virus Variation Resource - improved response to emergent viral outbreaks.",
+                "pmid": "27899678"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Virus Variation Resource--recent updates and future directions.",
+                "pmid": "24304891"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG004858 \u00a0 ",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004906",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004863",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004872\u00a0 ",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004876",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004908",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004885",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004872",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004881",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG004854",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG004895",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG005065",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG005077",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG005820",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG005811",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005824",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005826",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005816",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG005970",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R21HG005964",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005975",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005978",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005969",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005966",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U01HG004866",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004853",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005171",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004900",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54HG004968",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54AI084844",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54HG004973",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54HG004969",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH3DK083993",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2DK083981",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH3DK083990",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2AI083265",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2AI083266",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2AI083264",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH3CA140233",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2AR057503",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2DK083994",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2DK083991",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2DK083982",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2DK083980",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "UH2AI083263",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "1UH2AR057506",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004856",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Human Genome Research Institute",
+                        "alternateName": "NHGRI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG004877",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Human Genome Research Institute",
+                        "alternateName": "NHGRI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HG005172",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Human Genome Research Institute",
+                        "alternateName": "NHGRI",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54DE023786 \u00a0",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Center for Complementary and Integrative Health",
+                        "alternateName": "NCCIH",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54DE023789",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                        "alternateName": "NIDDK",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U54DE023798",
+                "funder": [
+                    {
+                        "@type": "Organization",
+                        "name": "National Center for Complementary and Integrative Health",
+                        "alternateName": "NCCIH",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "National Center for Complementary and Integrative Health",
+                        "alternateName": "NCCIH",
+                        "parentOrganization": "NIH"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "NIH Office of the Director",
+                        "alternateName": "OD",
+                        "parentOrganization": "NIH"
+                    }
+                ]
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "HMP Consortium"
+            },
+            {
+                "@type": "Organization",
+                "name": "The Broad Institute"
+            },
+            {
+                "@type": "Organization",
+                "name": "Baylor College of Medicine"
+            },
+            {
+                "@type": "Organization",
+                "name": "Washington University School of Medicine"
+            },
+            {
+                "@type": "Organization",
+                "name": "J. Craig Venter Institute"
+            },
+            {
+                "@type": "Organization",
+                "name": "Virginia Commonwealth University"
+            },
+            {
+                "@type": "Organization",
+                "name": "Stanford University"
+            },
+            {
+                "@type": "Organization",
+                "name": "Jackson Laboratory for Genomic Medicine"
+            },
+            {
+                "@type": "Organization",
+                "name": "Institute for Genome Sciences",
+                "parentOrganization": "University of Maryland Baltimore "
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 18,
+                "unitText": "studies",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 48,
+                "unitText": "primary site",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 31596,
+                "unitText": "samples",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 161265,
+                "unitText": "files",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://hmpdacc.org/hmp/resources/download.php",
+                "dateModified": "2024-05-21"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://doi.org/10.25504/FAIRsharing.q04phv"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q3922751"
+        ],
+        "isBasedOn": [
+            {
+                "@type": "SoftwareSourceCode",
+                "name": "API for the IGS data portal",
+                "url": "https://github.com/IGS/portal-api"
+            },
+            {
+                "@type": "SoftwareSourceCode",
+                "name": "UI for IGS project portals such as the HMP data portal found",
+                "url": "https://github.com/IGS/portal-ui"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "HMP1",
+                "url": "https://hmpdacc.org/hmp/"
+            },
+            {
+                "@type": "ResearchProject",
+                "name": "iHMP",
+                "url": "https://hmpdacc.org/ihmp/"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "HMP Tools and Technology",
+                "url": "https://www.hmpdacc.org/hmp/resources/"
+            },
+            {
+                "@type": "WebSite",
+                "name": "HMP legacy data browser",
+                "url": "https://www.hmpdacc.org/hmp/resources/data_browser.php"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "NIH Human Microbiome Project Publications",
+                "url": "https://www.hmpdacc.org/hmp/publications.php"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "WebSite",
+                "name": "NIH Human Microbiome Project",
+                "url": "https://hmpdacc.org/"
+            }
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C12424",
+            "http://purl.obolibrary.org/obo/NCIT_C12421",
+            "http://purl.obolibrary.org/obo/NCIT_C12470",
+            "http://purl.obolibrary.org/obo/NCIT_C34082",
+            "http://purl.obolibrary.org/obo/NCIT_C12810"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3697",
+            "http://edamontology.org/topic_2815",
+            "http://edamontology.org/topic_2259"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "measurementTechnique": [
+            "http://www.ebi.ac.uk/efo/EFO_0030055",
+            "http://purl.obolibrary.org/obo/NCIT_C15273",
+            "http://purl.obolibrary.org/obo/CHMO_0000524",
+            "http://purl.obolibrary.org/obo/NCIT_C49019",
+            "http://purl.obolibrary.org/obo/NCIT_C153189",
+            "http://purl.obolibrary.org/obo/NCIT_C116555"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/OHMI_0000466",
+            "http://purl.obolibrary.org/obo/NCIT_C17747",
+            "http://purl.obolibrary.org/obo/NCIT_C18276",
+            "http://purl.obolibrary.org/obo/NCIT_C16977",
+            "http://purl.obolibrary.org/obo/NCIT_C128361"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/OHMI_0000461",
+            "http://purl.obolibrary.org/obo/MONDO_0005265",
+            "http://purl.obolibrary.org/obo/MONDO_0005148",
+            "http://purl.obolibrary.org/obo/NCIT_C25742",
+            "http://purl.obolibrary.org/obo/NCIT_C90491",
+            "http://purl.obolibrary.org/obo/NCIT_C92861"
+        ],
+        "about": [
+            {
+                "name": "Experiment",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42790",
+                "description": "Not distinct from study as a schema",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "MolecularEntity",
+                "url": "https://schema.org/MolecularEntity",
+                "description": "A subclass of BioChemEntity",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema. For schema consider, https://bioschemas.org/types/BioSample/",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "ClinVar",
+        "url": "https://www.ncbi.nlm.nih.gov/clinvar/intro/",
+        "identifier": "https://www.ncbi.nlm.nih.gov/clinvar/",
+        "license": "https://www.ncbi.nlm.nih.gov/clinvar/intro/",
+        "conditionsOfAccess": "Open",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.ncbi.nlm.nih.gov/clinvar/docs/maintenance_use/"
+        },
+        "abstract": "ClinVar is a NIH supported generalist repository that includes genomic data.",
+        "description": "ClinVar is a freely accessible, public archive of reports of human variations classified for diseases and drug responses, with supporting evidence. ClinVar thus facilitates access to and communication about the relationships asserted between human variation and observed conditions, and the history of those assertions. ClinVar processes submissions reporting variants found in patient samples, classifications for diseases and drug responses, information about the submitter, and other supporting data. The variants described in submissions are mapped to reference sequences, and reported according to the HGVS standard. ClinVar presents the data on the website for interactive users, and on the FTP site and by API for those wishing to use ClinVar programmatically in daily workflows and other local applications. ClinVar works in collaboration with interested organizations to meet the needs of the medical genetics community as efficiently and effectively as possible.",
+        "collectionType": "Database",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "Generalist",
+        "dateModified": "2024-06-06",
+        "datePublished": "2011-10-20",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "ClinVar: improving access to variant interpretations and supporting evidence.",
+                "pmid": "29165669"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U01HG007437",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Intramural Research",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "ClinVar Submitters"
+            },
+            {
+                "@type": "Person",
+                "name": "David H. Ledbetter",
+                "givenName": "David",
+                "familyName": "Ledbetter",
+                "identifier": "https://orcid.org/0000-0001-8934-4210",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Emory University School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Christa Lese Martin",
+                "givenName": "Christa",
+                "familyName": "Martin",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Emory University School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Joyce A. Mitchell",
+                "givenName": "Joyce",
+                "familyName": "Mitchel",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Utah School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Robert Nussbaum",
+                "givenName": "Robert",
+                "familyName": "Nussbaum",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of California, San Francisco School of Medicine"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Heidi L. Rehm",
+                "givenName": "Heidi",
+                "familyName": "Rehm",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Harvard Medical School"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 2968893,
+                "unitText": "unique variation records",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 663,
+                "unitText": "Unique variation records with practice guidelines (4 stars)",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 16501,
+                "unitText": "Unique variation records from expert panels (3 stars)",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 17500,
+                "unitText": "Genes with variants specific to one gene",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/",
+                "encoding": "tsv",
+                "dateModified": "2024-06-06"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/xml/",
+                "encoding": "xml",
+                "dateModified": "2024-06-06"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/",
+                "encoding": "tsv",
+                "dateModified": "2024-06-06"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh37/",
+                "encoding": "vcf",
+                "dateModified": "2024-06-06"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/",
+                "encoding": "vcf",
+                "dateModified": "2024-06-06"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "MedGen",
+                "url": "https://www.ncbi.nlm.nih.gov/medgen/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "ClinGen",
+                "url": "https://www.clinicalgenome.org/"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "OMIM"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "GeneReviews"
+            },
+            {
+                "@type": "ResourceCatalog",
+                "name": "UniProt"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013331"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/FAIRsharing.wx5r6f"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q20023123",
+            "https://registry.identifiers.org/registry/clinvar"
+        ],
+        "isBasisFor": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "ClinGen",
+                "url": "https://www.clinicalgenome.org/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "Variation Viewer",
+                "url": "https://www.ncbi.nlm.nih.gov/variation/view",
+                "description": "Variation Viewer allows you to view, search, and navigate variations housed in dbSNP, dbVar, and ClinVar in genomic context. You can search based on chromosomal location, gene, variant IDs from dbSNP and dbVar, or phenotype; and explore results in the dynamic sequence viewer and annotated tables of variations."
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "Poster",
+                "name": "Clinical Genomics Data Infrastructure and ClinVar",
+                "url": "https://ftp.ncbi.nlm.nih.gov/pub/clinvar/document_archives/community/ASHG_2011_CommunityPoster.pdf",
+                "description": "Poster presented at ASHG 2011"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "DefinedTermSet",
+                "name": "ClinVar Data Dictionary",
+                "url": "https://www.ncbi.nlm.nih.gov/projects/clinvar/ClinVarDataDictionary.pdf"
+            }
+        ],
+        "isPartOf": [
+            {
+                "@type": "ResearchProject",
+                "name": "ClinGen Curation of ClinVar (CvC) Project",
+                "url": "https://clinicalgenome.org/curation-activities/clingen-curation-of-clinvar/",
+                "description": "The goal of the ClinGen Curation of ClinVar (CvC) Project is to improve the accuracy of ClinVar\u2019s aggregate classifications, thereby improving downstream applications of the database for the broader community."
+            }
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C25161",
+            "http://purl.obolibrary.org/obo/NCIT_C17004",
+            "http://edamontology.org/topic_0208"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0199",
+            "http://edamontology.org/topic_0625",
+            "http://edamontology.org/topic_0622"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C15791",
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C25161"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C16977",
+            "http://purl.obolibrary.org/obo/NCIT_C44272",
+            "http://purl.obolibrary.org/obo/NCIT_C181345"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0003847",
+            "http://purl.obolibrary.org/obo/MONDO_0042489",
+            "http://purl.obolibrary.org/obo/MONDO_0004992"
+        ],
+        "about": [
+            {
+                "name": "Gene",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16612",
+                "description": "For schema, consider https://schema.org/Gene",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "Infectious Diseases Data Observatory",
+        "url": "https://www.iddo.org/",
+        "identifier": "https://www.iddo.org/",
+        "alternateName": "IDDO",
+        "license": "https://www.iddo.org/data-sharing",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://www.iddo.org/data-sharing"
+        },
+        "abstract": "Infectious Diseases Data Observatory (IDDO) is a Wellcome Trust supported IID repository that includes clinical data.",
+        "description": "The Infectious Diseases Data Observatory (IDDO) brings together members of the global infectious disease community across the research and humanitarian sectors to collaborate in the generation, analysis and application of data to improve outcomes for patients. IDDO\u2019s coordinating office is based in the Centre for Tropical Medicine and Global Health at the University of Oxford.",
+        "collectionType": "Repository",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2024-11-22",
+        "dateCreated": "2012-02-21",
+        "datePublished": "2016-10-25",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Secondary analysis and participation of those at the data source.",
+                "pmid": "30103997"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "208378",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Wellcome Trust",
+                    "alternateName": "Wellcome"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Infectious Diseases Data Observatory",
+                "alternateName": "IDDO",
+                "identifier": "https://ror.org/04tp3cz81",
+                "parentOrganization": "Oxford University"
+            },
+            {
+                "@type": "Person",
+                "name": "Philippe Gu\u00e9rin",
+                "givenName": "Philippe",
+                "familyName": "Gu\u00e9rin",
+                "identifier": "https://orcid.org/0000-0002-6008-2963",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "James Watson",
+                "givenName": "James",
+                "familyName": "Watson",
+                "identifier": "https://orcid.org/0000-0001-5524-0325",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Mahidol Oxford Tropical Medicine Research Unit"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Emmanuelle Bitoun",
+                "givenName": "Emmanuelle",
+                "familyName": "Bitoun",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Prabin Dahal",
+                "givenName": "Prabin",
+                "familyName": "Dahal",
+                "identifier": "https://orcid.org/0000-0002-2158-846X",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Kalynn Kennon",
+                "givenName": "Kalynn",
+                "familyName": "Kennon",
+                "identifier": "https://orcid.org/0000-0003-3531-0298",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Charvy Narain",
+                "givenName": "Charvy",
+                "familyName": "Narain",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Caitlin Naylor",
+                "givenName": "Caitlin",
+                "familyName": "Naylor",
+                "identifier": "https://orcid.org/0000-0002-5922-7539",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Caitlin Richmond",
+                "givenName": "Caitlin",
+                "familyName": "Richmond",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Samuel Dhol Ayuen",
+                "givenName": "Samuel Dhol",
+                "familyName": "Ayuen",
+                "alternateName": "Dhol Ayuen",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Lucie Kafkova",
+                "givenName": "Lucie",
+                "familyName": "Kafkova",
+                "identifier": "https://orcid.org/0000-0001-9072-8019",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Samantha McGregor",
+                "givenName": "Samantha",
+                "familyName": "McGregor",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Jakub Mizio\u0142ek",
+                "givenName": "Jakub",
+                "familyName": "Mizio\u0142ek",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Shanti Rochester",
+                "givenName": "Shanti",
+                "familyName": "Rochester",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Infectious Diseases Data Observatory"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 237,
+                "unitText": "Publications",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/vlSurveyor/#0",
+                "encoding": "csv",
+                "dateModified": "2022-11-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/mqsurveyor/",
+                "encoding": "xlsx",
+                "dateModified": "2022-11-01"
+            },
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://www.iddo.org/surveyor/NMFI/#0",
+                "encoding": "xlsx",
+                "dateModified": "2016-12-31"
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "WorldWide Antimalarial Resistance Network",
+                "url": "https://www.iddo.org/wwarn"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "ResourceCatalog",
+                "name": "WorldWide Antimalarial Resistance Network",
+                "url": "https://www.iddo.org/wwarn"
+            }
+        ],
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013358"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Fairsharing.org",
+                "url": "https://fairsharing.org/biodbcore-001473/"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q59536049"
+        ],
+        "citedBy": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://www.iddo.org/research/publications"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_4013",
+            "http://edamontology.org/topic_3377"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005737",
+            "http://purl.obolibrary.org/obo/MONDO_0005445",
+            "http://purl.obolibrary.org/obo/MONDO_0005136",
+            "http://purl.obolibrary.org/obo/MONDO_0015254",
+            "http://purl.obolibrary.org/obo/MONDO_0004664",
+            "http://purl.obolibrary.org/obo/MONDO_0001444",
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/HP_0001945",
+            "http://purl.obolibrary.org/obo/MONDO_0019365",
+            "http://purl.obolibrary.org/obo/MONDO_0001249",
+            "http://purl.obolibrary.org/obo/MONDO_0017775",
+            "http://purl.obolibrary.org/obo/MONDO_0005761"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_186536",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5658",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5820",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6181",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10232",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6340",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6157",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6231",
+            "http://purl.obolibrary.org/obo/NCBITaxon_5693",
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049",
+            "http://purl.obolibrary.org/obo/NCBITaxon_784",
+            "http://purl.obolibrary.org/obo/NCBITaxon_813",
+            "http://purl.obolibrary.org/obo/NCBITaxon_28450",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6293",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6279"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C15719",
+            "http://purl.obolibrary.org/obo/NCIT_C48292",
+            "http://purl.obolibrary.org/obo/NCIT_C15206"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/NCIT_C17248",
+            "http://purl.obolibrary.org/obo/CMO_0001109",
+            "http://purl.obolibrary.org/obo/NCIT_C39547"
+        ],
+        "keywords": [
+            "https://www.wikidata.org/wiki/Q261468",
+            "http://purl.obolibrary.org/obo/OBI_0200111",
+            "http://purl.obolibrary.org/obo/GSSO_006344"
+        ],
+        "about": [
+            {
+                "name": "Protocol",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42651",
+                "description": "For schema, consider https://bioschemas.org/types/LabProtocol/0.5-DRAFT",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ComputationalTool",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:ComputationalTool",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "National COVID Cohort Collaborative",
+        "url": "https://covid.cd2h.org/",
+        "identifier": "https://covid.cd2h.org/",
+        "alternateName": "N3C",
+        "license": "https://ncats.nih.gov/research/research-activities/n3c/resources/data-access",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://covid.cd2h.org/policy/"
+        },
+        "abstract": "National COVID Cohort Collaborative (N3C) is a NIH supported IID repository that includes clinical data.",
+        "description": "The National COVID Cohort Collaborative (N3C) is a collaboration among the NCATS-supported Clinical and Translational Science Awards (CTSA) Program hubs, distributed clinical data networks (PCORnet, OHDSI, ACT, TriNetX), and other partner organizations, with overall stewardship by NIH\u2019s National Center for Advancing Translational Sciences (NCATS). The N3C aims to improve the efficiency and accessibility of analyses with COVID-19 clinical data, expand our ability to analyze and understand COVID, and demonstrate a novel approach for collaborative data sharing.",
+        "collectionType": "Dataset Repository",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": 1.0,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID",
+        "dateModified": "2025-04-21",
+        "dateCreated": "2020-04-02",
+        "datePublished": "2020-05-26",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure, and deployment.",
+                "pmid": "32805036"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-04-13",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N95023D00001",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "alternateName": "NCATS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U24TR002306",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "alternateName": "NCATS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HD105939-01S1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "alternateName": "NICHD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NCATS-P00438-B",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "alternateName": "NCATS",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "National COVID Cohort Collaborative",
+                "parentOrganization": "National Center for Data to Health"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 84,
+                "unitText": "Sites",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 22800000,
+                "unitText": "Persons",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 8914402,
+                "unitText": "COVID+ Cases",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3300000000,
+                "unitText": "Clinical Observations",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 16300000000,
+                "unitText": "Lab Results",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 5300000000,
+                "unitText": "Medication Records",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1200000000,
+                "unitText": "Procedures",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://zenodo.org/communities/cd2h-covid/",
+                "dateModified": "2024-08-29"
+            }
+        ],
+        "creditText": "\"The analyses described in this [publication/report/presentation] were conducted with data or tools accessed through the NCATS N3C Data Enclave https://covid.cd2h.org and N3C Attribution & Publication Policy v 1.2-2020-08-25b supported by NCATS Contract No. 75N95023D00001 and [insert additional funding agencies or sources and reference numbers as declared by the contributors in their form response above]. This research was possible because of the patients whose information is included within the data and the organizations (https://ncats.nih.gov/n3c/resources/data-contribution/data-transfer-agreement-signatories) and scientists who have contributed to the on-going development of this community resource [https://doi.org/10.1093/jamia/ocaa196]\"",
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "https://rrid.site/",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_018757/resolver?q=SCR_018757"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://www.re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013422"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://fairsharing.org/",
+                "url": "https://fairsharing.org/FAIRsharing.bbbffe"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "Collection",
+                "name": "Published N3C Concept Sets",
+                "url": "https://zenodo.org/communities/cd2h-covid/records?q=&l=list&p=1&s=10&sort=newest"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://covid.cd2h.org/dashboard/publications"
+            },
+            {
+                "@type": "Collection",
+                "name": "Dashboards",
+                "url": "https://covid.cd2h.org/dashboard/#dashboards"
+            },
+            {
+                "@type": "Collection",
+                "name": "N3C Data Enclave Projects",
+                "url": "https://covid.cd2h.org/projects/"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "N3C Data Enclave",
+                "url": "https://covid.cd2h.org/enclave/",
+                "description": "The N3C Data Enclave is a secure platform through which harmonized clinical data provided by our contributing members are stored."
+            },
+            {
+                "@type": "LearningResource",
+                "name": "Tutorials",
+                "url": "https://covid.cd2h.org/tutorials/"
+            },
+            {
+                "@type": "Service",
+                "name": "Publication Review service",
+                "url": "https://covid.cd2h.org/publication-review/"
+            },
+            {
+                "@type": "Service",
+                "name": "Data Liaisons and Logic Liaisons Services",
+                "url": "https://covid.cd2h.org/liaisons/"
+            },
+            {
+                "@type": "FAQPage",
+                "name": "FAQs",
+                "url": "https://covid.cd2h.org/faq/"
+            },
+            {
+                "@type": "ContactPage",
+                "name": "Support Request form",
+                "url": "https://n3c-help.atlassian.net/servicedesk/customer/portal/2"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Comparative effectiveness of dexamethasone in treatment of hospitalized COVID-19 patients in the United States during the first year of the pandemic: Findings from the National COVID Cohort Collaborative (N3C) data repository",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38512832/",
+                "pmid": 38512832
+            }
+        ],
+        "isBasedOn": [
+            {
+                "@type": "ComputationalTool",
+                "name": "NCATS Cloud",
+                "url": "https://cd2h.org/cloud"
+            }
+        ],
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ElectronicMedicalRecord",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C45259",
+                "description": "For schema, consider: https://schema.org/CDCPMDRecord",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Software",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema use ComputationalTool",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_3305",
+            "http://edamontology.org/topic_3342"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0100233",
+            "http://purl.obolibrary.org/obo/MONDO_0035375"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C18193",
+            "http://purl.obolibrary.org/obo/NCIT_C171532",
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/CIDO_0000430",
+            "http://purl.obolibrary.org/obo/NCIT_C142508",
+            "http://purl.obolibrary.org/obo/NCIT_C18226"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C15239",
+            "http://purl.obolibrary.org/obo/NCIT_C15783",
+            "http://purl.obolibrary.org/obo/NCIT_C103180"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049"
+        ]
+    }
+]
