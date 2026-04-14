@@ -10,7 +10,7 @@
         "collectionType": "Registry",
         "hasAPI": false,
         "hasDownload": "Record-level",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -29,7 +29,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -310,7 +310,7 @@
         "collectionType": "Cloud Ecosystem",
         "hasAPI": true,
         "hasDownload": "All content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -328,7 +328,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -528,6 +528,7 @@
         "collectionType": "Portal",
         "hasAPI": false,
         "hasDownload": "All content",
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -544,7 +545,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -921,7 +922,7 @@
         "collectionType": "Database",
         "hasAPI": false,
         "hasDownload": "All content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -946,7 +947,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -1167,7 +1168,7 @@
         "collectionType": "Knowledge Base",
         "hasAPI": true,
         "hasDownload": "All content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -1188,7 +1189,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -1697,7 +1698,7 @@
         "collectionType": "Knowledge Base",
         "hasAPI": false,
         "hasDownload": "All content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -1714,7 +1715,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -1881,7 +1882,7 @@
         "collectionType": "Knowledge Base",
         "hasAPI": true,
         "hasDownload": "Record-level",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -1894,8 +1895,8 @@
         "citation": [
             {
                 "@type": "ScholarlyArticle",
-                "name": "Ethical, legal, and social considerations in conducting the Human Microbiome Project.",
-                "pmid": "18971311"
+                "name": "Virus Variation Resource--recent updates and future directions.",
+                "pmid": "24304891"
             },
             {
                 "@type": "ScholarlyArticle",
@@ -1904,12 +1905,12 @@
             },
             {
                 "@type": "ScholarlyArticle",
-                "name": "Virus Variation Resource--recent updates and future directions.",
-                "pmid": "24304891"
+                "name": "Ethical, legal, and social considerations in conducting the Human Microbiome Project.",
+                "pmid": "18971311"
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -2705,7 +2706,7 @@
         "collectionType": "Database",
         "hasAPI": true,
         "hasDownload": "All content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -2724,7 +2725,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -3012,7 +3013,7 @@
         "collectionType": "Repository",
         "hasAPI": false,
         "hasDownload": "Partial content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -3032,7 +3033,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
@@ -3369,7 +3370,7 @@
         "collectionType": "Dataset Repository",
         "hasAPI": false,
         "hasDownload": "Partial content",
-        "isAccessibleForFree": 1.0,
+        "isAccessibleForFree": true,
         "inLanguage": [
             {
                 "@type": "Language",
@@ -3389,7 +3390,7 @@
             }
         ],
         "@type": "nde:ResourceCatalog",
-        "date": "2026-04-13",
+        "date": "2026-04-14",
         "@context": {
             "owl": "http://www.w3.org/2002/07/owl#",
             "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
