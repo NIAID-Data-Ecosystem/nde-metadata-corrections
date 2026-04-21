@@ -6,6 +6,7 @@ https://data.niaid.nih.gov/resources?id=dryad_w3r2280w0
 https://data.niaid.nih.gov/resources?id=figshare_10317014
 https://data.niaid.nih.gov/resources?id=figshare_13514728
 https://data.niaid.nih.gov/resources?id=figshare_14210609
+https://data.niaid.nih.gov/resources?id=figshare_30121768
 https://data.niaid.nih.gov/resources?id=figshare_6863819
 https://data.niaid.nih.gov/resources?id=figshare_9766613
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-z2ey

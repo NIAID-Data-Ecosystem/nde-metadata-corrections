@@ -8,6 +8,7 @@ https://data.niaid.nih.gov/resources?id=dryad_8931zcrz4
 https://data.niaid.nih.gov/resources?id=ds_749cb10dcf
 https://data.niaid.nih.gov/resources?id=figshare_12664949
 https://data.niaid.nih.gov/resources?id=figshare_25685961
+https://data.niaid.nih.gov/resources?id=figshare_31956057
 https://data.niaid.nih.gov/resources?id=figshare_7670564
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-z238
 https://data.niaid.nih.gov/resources?id=flow_fr-fcm-z2ey
