@@ -1,3 +1,5 @@
+https://data.niaid.nih.gov/resources?id=6dig
+https://data.niaid.nih.gov/resources?id=7kei
 https://data.niaid.nih.gov/resources?id=gse114043
 https://data.niaid.nih.gov/resources?id=gse131320
 https://data.niaid.nih.gov/resources?id=gse163121
@@ -6,8 +8,6 @@ https://data.niaid.nih.gov/resources?id=gse163314
 https://data.niaid.nih.gov/resources?id=gse230446
 https://data.niaid.nih.gov/resources?id=gse66624
 https://data.niaid.nih.gov/resources?id=gse78922
-https://data.niaid.nih.gov/resources?id=pdb_6dig
-https://data.niaid.nih.gov/resources?id=pdb_7kei
 https://data.niaid.nih.gov/resources?id=prjna475364
 https://data.niaid.nih.gov/resources?id=prjna487301
 https://data.niaid.nih.gov/resources?id=prjna503739

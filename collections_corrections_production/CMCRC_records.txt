@@ -1,3 +1,4 @@
+https://data.niaid.nih.gov/resources?id=dryad_dv41ns2b8
 https://data.niaid.nih.gov/resources?id=figshare_14569007
 https://data.niaid.nih.gov/resources?id=figshare_23902302
 https://data.niaid.nih.gov/resources?id=gse100961
