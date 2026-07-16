@@ -1,0 +1,316 @@
+[
+    {
+        "name": "National Clinical Cohort Collaborative (N3C)",
+        "url": "https://n3c.ncats.nih.gov",
+        "identifier": "https://n3c.ncats.nih.gov",
+        "alternateName": "N3C, National COVID Cohort Collaborative",
+        "license": "https://ncats.nih.gov/research/research-activities/n3c/resources/data-access",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+            "@type": "CreativeWork",
+            "name": "Conditions of use",
+            "url": "https://n3c.ncats.nih.gov"
+        },
+        "abstract": "National Clinical Cohort Collaborative (N3C) is a NIH supported IID repository that includes clinical data.",
+        "description": "The National Clinical Cohort Collaborative (N3C) is a collaboration among the NCATS-supported Clinical and Translational Science Awards (CTSA) Program hubs, distributed clinical data networks (PCORnet, OHDSI, ACT, TriNetX), and other partner organizations, with overall stewardship by NIH\u2019s National Center for Advancing Translational Sciences (NCATS). The N3C aims to improve the efficiency and accessibility of analyses with COVID-19 clinical data, expand our ability to analyze and understand COVID, and demonstrate a novel approach for collaborative data sharing.",
+        "collectionType": "Dataset Repository",
+        "hasAPI": false,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "genre": "IID; Biological Assay; Clinical; Epidemiological; Respiratory Pathogens",
+        "dateModified": "2025-04-21",
+        "dateCreated": "2020-04-02",
+        "datePublished": "2020-05-26",
+        "creativeWorkStatus": "Accepting Data",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure, and deployment.",
+                "pmid": "32805036"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-16",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N95023D00001",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "alternateName": "NCATS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "U24TR002306",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "alternateName": "NCATS",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "R01HD105939-01S1",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "alternateName": "NICHD",
+                    "parentOrganization": "NIH"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NCATS-P00438-B",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Center for Advancing Translational Sciences",
+                    "alternateName": "NCATS",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "National Clinical Cohort Collaborative (N3C)",
+                "parentOrganization": "National Center for Advancing Translational Sciences (NCATS)"
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 84,
+                "unitText": "Sites",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 22800000,
+                "unitText": "Persons",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 8914402,
+                "unitText": "COVID+ Cases",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3300000000,
+                "unitText": "Clinical Observations",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 16300000000,
+                "unitText": "Lab Results",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 5300000000,
+                "unitText": "Medication Records",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1200000000,
+                "unitText": "Procedures",
+                "@type": "PropertyValue"
+            }
+        ],
+        "distribution": [
+            {
+                "@type": "DataDownload",
+                "contentUrl": "https://zenodo.org/communities/cd2h-covid/",
+                "dateModified": "2024-08-29"
+            }
+        ],
+        "spatialCoverage": {
+            "@type": "AdministrativeArea",
+            "name": "United States of America",
+            "alternateName": "USA",
+            "administrativeType": "country",
+            "identifier": "Q30",
+            "locationType": "study location",
+            "startDate": "2018-01-01",
+            "duration": "2018/..",
+            "temporalType": "collection"
+        },
+        "creditText": "\"The analyses described in this [publication/report/presentation] were conducted with data or tools accessed through the NCATS N3C Data Enclave https://n3c.ncats.nih.gov/covid and N3C Attribution & Publication Policy v 1.2-2020-08-25b supported by NCATS U24 TR002306, Axle Informatics Subcontract: NCATS-P00438-B, and [insert additional funding agencies or sources and reference numbers as declared by the contributors in their form response above]. This research was possible because of the patients whose information is included within the data and the organizations (https://ncats.nih.gov/n3c/resources/data-contribution/data-transfer-agreement-signatories) and scientists who have contributed to the on-going development of this community resource [https://doi.org/10.1093/jamia/ocaa196].\"",
+        "sdPublisher": [
+            {
+                "@type": "DataCatalog",
+                "name": "https://rrid.site/",
+                "url": "https://rrid.site/data/record/nlx_144509-1/SCR_018757/resolver?q=SCR_018757"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://www.re3data.org",
+                "url": "https://www.re3data.org/repository/r3d100013422"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "https://fairsharing.org/",
+                "url": "https://fairsharing.org/FAIRsharing.bbbffe"
+            },
+            {
+                "@type": "DataCatalog",
+                "name": "Data Discovery Engine",
+                "url": "https://discovery.biothings.io/portal/nde"
+            }
+        ],
+        "isBasisFor": [
+            {
+                "@type": "Collection",
+                "name": "Published N3C Concept Sets",
+                "url": "https://zenodo.org/communities/cd2h-covid/records?q=&l=list&p=1&s=10&sort=newest"
+            }
+        ],
+        "hasPart": [
+            {
+                "@type": "Collection",
+                "name": "Publications",
+                "url": "https://covid.cd2h.org/dashboard/publications"
+            },
+            {
+                "@type": "Collection",
+                "name": "Dashboards",
+                "url": "https://n3c.ncats.nih.gov/dashboard"
+            },
+            {
+                "@type": "Collection",
+                "name": "N3C COVID Enclave Projects",
+                "url": "https://n3c.ncats.nih.gov/covid/projects"
+            },
+            {
+                "@type": "ComputationalTool",
+                "name": "N3C COVID Data Enclave",
+                "url": "https://n3c.ncats.nih.gov/covid",
+                "description": "The N3C COVID Enclave is a secure platform through which harmonized clinical data provided by our contributing members are stored."
+            },
+            {
+                "@type": "LearningResource",
+                "name": "Tutorials",
+                "url": "https://n3c.ncats.nih.gov/covid/training"
+            },
+            {
+                "@type": "Service",
+                "name": "Publication Review service",
+                "url": "https://n3c.ncats.nih.gov/covid/publication-review"
+            },
+            {
+                "@type": "Service",
+                "name": "Data Liaisons and Logic Liaisons Services",
+                "url": "https://n3c.ncats.nih.gov/clinical-cohort/liaisons"
+            },
+            {
+                "@type": "FAQPage",
+                "name": "FAQs",
+                "url": "https://n3c.ncats.nih.gov/clinical-cohort/faq"
+            },
+            {
+                "@type": "ContactPage",
+                "name": "Support Request form",
+                "url": "https://n3c.ncats.nih.gov/clinical-cohort/support"
+            },
+            {
+                "@type": "WebPage",
+                "name": "N3C Education Tenant",
+                "url": "https://n3c.ncats.nih.gov/education"
+            },
+            {
+                "@type": "WebPage",
+                "name": "N3C Cancer Tenant",
+                "url": "https://n3c.ncats.nih.gov/cancer"
+            },
+            {
+                "@type": "WebPage",
+                "name": "N3C Renal Tenant",
+                "url": "https://n3c.ncats.nih.gov/renal"
+            }
+        ],
+        "citedBy": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Comparative effectiveness of dexamethasone in treatment of hospitalized COVID-19 patients in the United States during the first year of the pandemic: Findings from the National COVID Cohort Collaborative (N3C) data repository",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/38512832/",
+                "pmid": 38512832
+            }
+        ],
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ScholarlyArticle",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C19026",
+                "description": "For schema, use https://discovery.biothings.io/ns/niaid/niaid:ScholarlyArticle",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "ElectronicMedicalRecord",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C45259",
+                "description": "For schema, consider: https://schema.org/CDCPMDRecord",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Software",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema use ComputationalTool",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3324",
+            "http://edamontology.org/topic_3305",
+            "http://edamontology.org/topic_3342"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0100233",
+            "http://purl.obolibrary.org/obo/MONDO_0035375"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C18193",
+            "http://purl.obolibrary.org/obo/NCIT_C171532",
+            "http://purl.obolibrary.org/obo/NCIT_C48292"
+        ],
+        "variableMeasured": [
+            "http://purl.obolibrary.org/obo/CIDO_0000430",
+            "http://purl.obolibrary.org/obo/NCIT_C142508",
+            "http://purl.obolibrary.org/obo/NCIT_C18226"
+        ],
+        "keywords": [
+            "http://purl.obolibrary.org/obo/NCIT_C15239",
+            "http://purl.obolibrary.org/obo/NCIT_C15783",
+            "http://purl.obolibrary.org/obo/NCIT_C103180"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606"
+        ],
+        "infectiousAgent": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_2697049"
+        ]
+    }
+]
