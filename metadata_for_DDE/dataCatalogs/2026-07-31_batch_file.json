@@ -1,0 +1,907 @@
+[
+    {
+        "name": "NODE",
+        "url": "https://www.biosino.org/node/",
+        "identifier": "https://www.biosino.org/node/",
+        "alternateName": "National Omics Data Encyclopedia, NODE",
+        "license": "https://creativecommons.org/licenses/by/3.0/cn/deed.en",
+        "conditionsOfAccess": "Varied",
+        "abstract": "NODE is a Chinese Academy of Sciences supported generalist repository that includes multiomic data.",
+        "description": "NODE (National Omics Data Encyclopedia) is a biological big data collection platform, including the experimental sample information collection, the file upload of the sequences, and the analysis, share and download of the results. NODE platform consists of six main modules: project, sample, experiment, run, data, and analysis. Project and Sample are independent of each other, but can be linked through Run. In this way, the metadata and sequence information can be integrated.",
+        "collectionType": "Dataset Repository",
+        "hasAPI": true,
+        "hasDownload": "Partial content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+              "@type": "Language",
+              "name": "English"
+            }, 
+            {
+              "@type": "Language",
+              "name": "Chinese"
+            }
+        ],
+        "genre": "Generalist",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Advances in multi-omics big data sharing platform research.",
+                "doi": "10.13376/j.cbls/2023169"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 1099,
+                "unitText": "Dataset",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Chinese Academy of Sciences",
+                    "alternateName": "CAS"
+                }
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "2018-12-26",
+            "temporalType": "collection"
+        },
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "infectiousAgent": [
+            "https://www.uniprot.org/taxonomy/408170",
+            "https://www.uniprot.org/taxonomy/449393",
+            "https://www.uniprot.org/taxonomy/408172",
+            "https://www.uniprot.org/taxonomy/447426",
+            "https://www.uniprot.org/taxonomy/556182",
+            "https://www.uniprot.org/taxonomy/256318",
+            "https://www.uniprot.org/taxonomy/539655"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/10090",
+            "https://www.uniprot.org/taxonomy/10088",
+            "https://www.uniprot.org/taxonomy/4442",
+            "https://www.uniprot.org/taxonomy/21880",
+            "https://www.uniprot.org/taxonomy/7227",
+            "https://www.uniprot.org/taxonomy/65409",
+            "https://www.uniprot.org/taxonomy/4139",
+            "https://www.uniprot.org/taxonomy/10116",
+            "https://www.uniprot.org/taxonomy/7955"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005148",
+            "http://purl.obolibrary.org/obo/MONDO_0021040",
+            "http://purl.obolibrary.org/obo/MONDO_0007256",
+            "http://purl.obolibrary.org/obo/MONDO_0005076",
+            "http://purl.obolibrary.org/obo/MONDO_0019167",
+            "http://purl.obolibrary.org/obo/MONDO_0005062",
+            "http://purl.obolibrary.org/obo/MONDO_0018874",
+            "http://purl.obolibrary.org/obo/MONDO_0021100",
+            "http://purl.obolibrary.org/obo/NCIT_C4878",
+            "http://purl.obolibrary.org/obo/MONDO_0005575"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3050",
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_3070",
+            "http://edamontology.org/topic_3301",
+            "http://edamontology.org/topic_0091",
+            "http://edamontology.org/topic_2229",
+            "http://edamontology.org/topic_3855",
+            "http://edamontology.org/topic_3174",
+            "http://edamontology.org/topic_3053",
+            "http://edamontology.org/topic_3360"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0000406",
+            "http://purl.obolibrary.org/obo/MMO_0000459",
+            "http://purl.obolibrary.org/obo/OBI_0002630",
+            "http://purl.obolibrary.org/obo/MMO_0000659",
+            "http://purl.obolibrary.org/obo/OBI_0002620",
+            "http://purl.obolibrary.org/obo/NCIT_C163989",
+            "http://purl.obolibrary.org/obo/OBI_0002767",
+            "http://purl.obolibrary.org/obo/OBI_0002117",
+            "http://purl.obolibrary.org/obo/OBI_0002002",
+            "http://purl.obolibrary.org/obo/OBI_0002003"
+        ]
+    },
+    {
+        "name": "BioStudies",
+        "url": "https://www.ebi.ac.uk/biostudies/arrayexpress",
+        "identifier": "https://www.ebi.ac.uk/biostudies/arrayexpress",
+        "alternateName": "BioStudies ArrayExpress, ArrayExpress",
+        "license": "https://www.ebi.ac.uk/about/terms-of-use",
+        "conditionsOfAccess": "Varied",
+        "abstract": "ArrayExpress is a EMBL-EBI supported generalist repository that includes genomic data.",
+        "description": "The functional genomics data collection (ArrayExpress), stores data from high-throughput functional genomics experiments, and provides data for reuse to the research community. In line with community guidelines, a study typically contains metadata such as detailed sample annotations, protocols, processed data and raw data. Raw sequence reads from high-throughput sequencing studies are brokered to the European Nucleotide Archive (ENA), and links are provided to download the sequence reads from ENA. Data can be submitted to the ArrayExpress collection through its dedicated submission tool, Annotare",
+        "collectionType": "Dataset Repository",
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": {
+          "@type": "Language",
+          "name": "English"
+        },
+        "genre": "Generalist",
+        "dateCreated": "2002-01-01",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "The BioStudies database-one stop shop for all data supporting a life sciences study.",
+                "pmid": "29069414"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "ArrayExpress--a public repository for microarray gene expression data at the EBI.",
+                "pmid": "15608260"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "From ArrayExpress to BioStudies.",
+                "pmid": "33211879"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "ArrayExpress--a public repository for microarray gene expression data at the EBI.",
+                "pmid": "12519949"
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "ArrayExpress: a public database of gene expression data at EBI.",
+                "pmid": "14744115"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 92644,
+                "unitText": "Dataset",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "108437/Z/15/Z",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Wellcome Trust"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "NSF IOS #1127112",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Science Foundation",
+                    "alternateName": "NSF, US National Science Foundation"
+                }
+            },
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "P41 HG003619",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Human Genome Research Institute ",
+                    "alternateName": "NHGRI",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "2007-07-25"
+        },
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "infectiousAgent": [
+            "https://www.uniprot.org/taxonomy/4932",
+            "https://www.uniprot.org/taxonomy/6239",
+            "https://www.uniprot.org/taxonomy/562",
+            "https://www.uniprot.org/taxonomy/4896",
+            "https://www.uniprot.org/taxonomy/5476",
+            "https://www.uniprot.org/taxonomy/2081351",
+            "https://www.uniprot.org/taxonomy/1280",
+            "https://www.uniprot.org/taxonomy/357231",
+            "https://www.uniprot.org/taxonomy/1773",
+            "https://www.uniprot.org/taxonomy/287"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/10090",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/10116",
+            "https://www.uniprot.org/taxonomy/7227",
+            "https://www.uniprot.org/taxonomy/10095",
+            "https://www.uniprot.org/taxonomy/7955",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/3701",
+            "https://www.uniprot.org/taxonomy/9031"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0021100",
+            "http://purl.obolibrary.org/obo/MONDO_0005377",
+            "http://purl.obolibrary.org/obo/MONDO_0005070",
+            "http://purl.obolibrary.org/obo/MONDO_0005105",
+            "http://purl.obolibrary.org/obo/NCIT_C4878",
+            "http://purl.obolibrary.org/obo/NCIT_C12801",
+            "http://purl.obolibrary.org/obo/MONDO_0018177",
+            "http://purl.obolibrary.org/obo/MONDO_0021040",
+            "http://purl.obolibrary.org/obo/MONDO_0004992",
+            "http://www.ebi.ac.uk/efo/EFO_0003060"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0203",
+            "http://edamontology.org/topic_3308",
+            "http://edamontology.org/topic_2229",
+            "http://edamontology.org/topic_2640",
+            "http://edamontology.org/topic_3064",
+            "http://edamontology.org/topic_0804",
+            "http://edamontology.org/topic_3295",
+            "http://edamontology.org/topic_3679",
+            "http://edamontology.org/topic_0204",
+            "http://edamontology.org/topic_0622"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0000070",
+            "http://www.ebi.ac.uk/efo/EFO_0001457",
+            "http://purl.obolibrary.org/obo/OBI_0001865",
+            "http://purl.obolibrary.org/obo/OBI_0001463",
+            "http://purl.obolibrary.org/obo/OBI_0600047",
+            "http://www.ebi.ac.uk/efo/EFO_0001456",
+            "http://www.ebi.ac.uk/efo/EFO_0003738",
+            "http://purl.obolibrary.org/obo/OBI_0000716",
+            "http://purl.obolibrary.org/obo/NCIT_C16854",
+            "http://purl.obolibrary.org/obo/OBI_0001247"
+        ]
+    },
+    {
+        "name": "Leibniz-Institute DSMZ",
+        "url": "https://www.dsmz.de/",
+        "identifier": "https://www.dsmz.de/",
+        "alternateName": "Leibniz-Institut DSMZ-Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH, DSMZ",
+        "license": "https://www.dsmz.de/collection/nagoya-protocol",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+          "@type": "WebPage",
+          "name": "How to Order",
+          "url": "https://www.dsmz.de/collection/how-to-order"},
+        "abstract": "DSMZ is a German government supported biospecimen repository that includes IID samples.",
+        "description": "The mission of the Leibniz Institute DSMZ is the research, provision and use of microbial and cellular biodiversity. The DSMZ is both a research infrastructure used by science and industry for non-commercial purposes and a research institution in the field of microbial biodiversity research.\n\nThe Leibniz Institute DSMZ is the most diverse biological resource center in the world and one of the largest collections of microorganisms and cell cultures worldwide. With the availability of 80 percent of all formally described bacterial species, the DSMZ hosts the majority of bacterial diversity as well as a globally unique stock of human and animal cell lines, fungal strains, plant viruses, bacteriophages and genomic bacterial DNA for research purposes. The DSMZ is both an active collection and a research institute.",
+        "collectionType": "Sample Repository",
+        "hasAPI": true,
+        "isAccessibleForFree": false,
+        "genre": "Generalist",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 26829,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "German Federal Government"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/703824",
+            "https://www.uniprot.org/taxonomy/9913",
+            "https://www.uniprot.org/taxonomy/401321",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/4530",
+            "https://www.uniprot.org/taxonomy/4054",
+            "https://www.uniprot.org/taxonomy/10116",
+            "https://www.uniprot.org/taxonomy/10090"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0008383",
+            "http://purl.obolibrary.org/obo/HP_0001513",
+            "http://purl.obolibrary.org/obo/MONDO_0010691",
+            "http://purl.obolibrary.org/obo/MONDO_0005824",
+            "http://purl.obolibrary.org/obo/MONDO_0017776",
+            "http://purl.obolibrary.org/obo/MONDO_0009443",
+            "http://purl.obolibrary.org/obo/NCIT_C186461",
+            "http://purl.obolibrary.org/obo/MONDO_0005249",
+            "http://purl.obolibrary.org/obo/MONDO_0004975",
+            "http://purl.obolibrary.org/obo/MONDO_0100338"
+        ]
+    },
+    {
+        "name": "Culture Collection University of Gothenburg (CCUG)",
+        "url": "https://www.ccug.se/",
+        "identifier": "https://www.ccug.se/",
+        "alternateName": "CCUG, Culture Collection University of Gothenburg",
+        "license": "https://www.ccug.se/ordering/restricted",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+          "@type": "WebPage",
+          "name": "How to Order",
+          "url": "https://www.ccug.se/ordering/guide"},
+        "abstract": "CCUG is an University of Gothenberg supported biospecimen repository that includes IID samples.",
+        "description": "The Culture Collection University of Gothenburg (CCUG) operates within the Unit of Molecular Microbiology,which is part of the Department of Clinical Microbiology at Sahlgrenska University Hospital, see: https://www.sahlgrenska.se/omraden/omrade-4/verksamhet-klinisk-mikrobiologi/molekylar-mikrobiologi/\n\nThe CCUG serves as the National Reference Laboratory for Bacterial species identification, which performs specialized phenotypic, genotypic, as well as genomic analyses for identifying infectious microorganisms when routine methods prove inadequate. ",
+        "collectionType": "Sample Repository",
+        "isAccessibleForFree": false,
+        "genre": "Generalist",
+        "citation": [],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 20295,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "University of Gothenburg"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/9913",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/1585637",
+            "https://www.uniprot.org/taxonomy/343652",
+            "https://www.uniprot.org/taxonomy/7460",
+            "https://www.uniprot.org/taxonomy/10116",
+            "https://www.uniprot.org/taxonomy/9615",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/134913"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0009061",
+            "http://purl.obolibrary.org/obo/MONDO_0008383",
+            "http://purl.obolibrary.org/obo/MONDO_0005249",
+            "http://purl.obolibrary.org/obo/MONDO_0005025",
+            "http://purl.obolibrary.org/obo/HP_0001513",
+            "http://purl.obolibrary.org/obo/MONDO_0005824",
+            "http://purl.obolibrary.org/obo/MONDO_0001797",
+            "http://purl.obolibrary.org/obo/MONDO_0001673",
+            "http://purl.obolibrary.org/obo/MONDO_0005077",
+            "http://purl.obolibrary.org/obo/MONDO_0010691"
+        ]
+    },
+    {
+        "name": "American Type Culture Collection (ATCC)",
+        "url": "https://www.atcc.org",
+        "identifier": "https://www.atcc.org",
+        "alternateName": "ATCC, American Type Culture Collection",
+        "license": "https://www.atcc.org/policies/terms-and-conditions-of-sale-by-atcc",
+        "conditionsOfAccess": "Restricted",
+        "usageInfo": {
+          "@type": "WebPage",
+          "name": "Product use policies",
+          "url": "https://www.atcc.org/policies/product-use-policies"},
+        "abstract": "ATCC is an NIH supported biospecimen repository that includes IID samples.",
+        "description": "ATCC (American Type Culture Collection) is a private, nonprofit, global biological resource center and standards organization that provides scientists with the biomaterials and resources they need to conduct critical life science research. \n\nWe support the scientific community with the world\u2019s largest and most diverse collection of human and animal cell products, as well as molecular genomic tools, microbe products, and biological materials. We offer a host of services, including cell authentication, master and working cell bank production, cGMP commercial biorepository, and biomaterial deposit services. Through our ATCC Federal Solutions initiative, we lend our expertise to federal agencies in areas that include global health and infectious diseases, biodefense, and noncommunicable diseases.",
+        "collectionType": "Sample Repository",
+        "isAccessibleForFree": false,
+        "genre": "Generalist",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 6502,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93025D00017",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/703824",
+            "https://www.uniprot.org/taxonomy/9913",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/10116",
+            "https://www.uniprot.org/taxonomy/134913",
+            "https://www.uniprot.org/taxonomy/7748",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/3847",
+            "https://www.uniprot.org/taxonomy/7460"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0008383",
+            "http://purl.obolibrary.org/obo/HP_0001513",
+            "http://purl.obolibrary.org/obo/MONDO_0010691",
+            "http://purl.obolibrary.org/obo/MONDO_0005824",
+            "http://purl.obolibrary.org/obo/MONDO_0015364",
+            "http://purl.obolibrary.org/obo/NCIT_C186461",
+            "http://purl.obolibrary.org/obo/MONDO_0009443",
+            "http://purl.obolibrary.org/obo/MONDO_0018849",
+            "http://purl.obolibrary.org/obo/MONDO_0005249",
+            "http://purl.obolibrary.org/obo/MONDO_0004975"
+        ]
+    },
+    {
+        "name": "Korean Collection for Type Cultures (KCTC)",
+        "url": "https://kctc.kribb.re.kr/en/collection",
+        "identifier": "https://kctc.kribb.re.kr",
+        "alternateName": "KCTC, Korean Collection for Type Cultures",
+        "conditionsOfAccess": "Restricted",
+        "abstract": "KCTC is an MSIT supported biospecimen repository that includes IID samples.",
+        "description": "The Korean Collection for Type Cultures (KCTC), the Biological Resource Center (BRC) of the Korea Research Institute of Bioscience and Biotechnology (KRIBB) is the largest biological resource center in Korea. To develop positive countermeasures for the international situation, KCTC provides the infrastructure for the services performed by the acquisition, preservation, and distribution of biological resources. KCTC does researches and development of core technologies for valuable biological resources. KCTC is also constructing local and international networks of biological resources and their related information. The KCTC also plays the role of National Repository for Bio-research Products from the national R&D projects by the government. KCTC operates BRC through standardized management of biological resources based on ISO 9001. KCTC has leading the management of biological resources of Korea. ",
+        "collectionType": "Sample Repository",
+        "isAccessibleForFree": false,
+        "genre": "Generalist",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 5444,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Ministry of Science and ICT",
+                    "alternateName": "MSIT"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ]
+    },
+    {
+        "name": "University of Coimbra Bacteria Culture Collection (UCCCB)",
+        "url": "https://ucccb.uc.pt/",
+        "identifier": "https://ucccb.uc.pt/",
+        "alternateName": "UCCCB, University of Coimbra Bacteria Culture Collection",
+        "license": "https://ucccb.uc.pt/documentation/",
+        "conditionsOfAccess": "Restricted",
+        "abstract": "UCCCB is a MIRRI-ERIC supported biospecimen repository that includes IID samples.",
+        "description": "The University of Coimbra Bacteria Culture Collection (UCCCB) is the first Portuguese Bacterial Culture Collection registered and recognized by the World Federation of Culture Collections as the collection n\u00ba 1179 (WFCC). The UC achieves with this collection the availability of reliable and relevant microbial resources for the national and international scientific community, as well as for industry.\n\nAs a culture collection, UCCCB will provide a significant degree of continuity with the past through the preservation and distribution of microbial strains described or cited in publications, and will maintain novel microorganisms awaiting future exploitation by biotechnology.\n\nThe UCCCB is a partner of the Microbial Resource Research Infrastructure \u2014 European Research Infrastructure Consortium (MIRRI-ERIC)",
+        "collectionType": "Sample Repository",
+        "isAccessibleForFree": false,
+        "genre": "Generalist",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 77,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Portuguese government"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/376799",
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/4565",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/254363",
+            "https://www.uniprot.org/taxonomy/82927",
+            "https://www.uniprot.org/taxonomy/3708",
+            "https://www.uniprot.org/taxonomy/9031",
+            "https://www.uniprot.org/taxonomy/10090",
+            "https://www.uniprot.org/taxonomy/7426"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0010691",
+            "http://purl.obolibrary.org/obo/MONDO_0008383",
+            "http://purl.obolibrary.org/obo/MONDO_0007276",
+            "http://purl.obolibrary.org/obo/HP_0001513",
+            "http://purl.obolibrary.org/obo/NCIT_C116758",
+            "http://purl.obolibrary.org/obo/MONDO_0006094",
+            "http://purl.obolibrary.org/obo/NCIT_C186461",
+            "https://id.nlm.nih.gov/mesh/C565753.html",
+            "http://purl.obolibrary.org/obo/MONDO_0019287",
+            "http://purl.obolibrary.org/obo/MONDO_0015364"
+        ]
+    },
+    {
+        "name": "Japan Collection of Microorganisms (JCM)",
+        "url": "https://jcm.brc.riken.jp/en/",
+        "identifier": "https://jcm.brc.riken.jp/en/",
+        "alternateName": "JCM, Japan Collection of Microorganisms",
+        "license": "https://jcm.brc.riken.jp/en/ordering_e#documents",
+        "conditionsOfAccess": "Restricted",
+        "abstract": "JCM is a RIKEN supported biospecimen repository that includes IID samples.",
+        "description": "The Microbe Division in RIKEN-BRC has been collecting, preserving, and distributing cultured microbial strains as one of the leading culture collections in the world since established as Japan Collection of Microorganisms (JCM) in 1981. JCM aims to contribute to scientific communities by maintaining and serving high-quality microbial resources useful for general microbial studies and various research fields particularly in health and environmental science. JCM has participated in the National BioResource Project supported by the Ministry of Education, Culture, Sports, Science and Technology of Japan as the core facility for \u201cGeneral Microbes\u201c",
+        "collectionType": "Sample Repository",
+        "isAccessibleForFree": false,
+        "genre": "Generalist",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "RIKEN"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C25695"
+        ]
+    },
+    {
+        "name": "BioSample",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/",
+        "identifier": "https://www.ncbi.nlm.nih.gov/biosample/",
+        "alternateName": "NCBI BioSample",
+        "license": "https://www.ncbi.nlm.nih.gov/home/about/policies/",
+        "conditionsOfAccess": "Varied",
+        "abstract": "NCBI BioSample is a NIH supported generalist repository that includes other data.",
+        "description": "The BioSample database contains descriptions of biological source materials used in experimental assays.",
+        "collectionType": "Sample Repository",
+        "isAccessibleForFree": true,
+        "genre": "Generalist",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 53928218,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Intramural Research",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "1970-02-24",
+            "endDate": "2026-04-29",
+            "temporalType": "collection"
+        },
+        "infectiousAgent": [
+            "https://www.uniprot.org/taxonomy/2697049",
+            "https://www.uniprot.org/taxonomy/451626",
+            "https://www.uniprot.org/taxonomy/59201",
+            "https://www.uniprot.org/taxonomy/408170",
+            "https://www.uniprot.org/taxonomy/256318",
+            "https://www.uniprot.org/taxonomy/77133",
+            "https://www.uniprot.org/taxonomy/562"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/10090",
+            "https://www.uniprot.org/taxonomy/1927752",
+            "https://www.uniprot.org/taxonomy/9913",
+            "https://www.uniprot.org/taxonomy/9031",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/112509",
+            "https://www.uniprot.org/taxonomy/1211459",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/10116"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0005070",
+            "http://purl.obolibrary.org/obo/MONDO_0005550",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0008315",
+            "http://purl.obolibrary.org/obo/HP_0032322",
+            "http://purl.obolibrary.org/obo/MONDO_0021100",
+            "http://purl.obolibrary.org/obo/MONDO_0021117",
+            "https://id.nlm.nih.gov/mesh/D009361.html"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0003114",
+            "http://purl.obolibrary.org/obo/OBI_0002003",
+            "http://purl.obolibrary.org/obo/OBI_0002630",
+            "http://purl.obolibrary.org/obo/OBI_0002001",
+            "http://purl.obolibrary.org/obo/OBI_0002002",
+            "http://purl.obolibrary.org/obo/OBI_0002021",
+            "http://purl.obolibrary.org/obo/OBI_0002049",
+            "http://purl.obolibrary.org/obo/OBI_0002129",
+            "http://purl.obolibrary.org/obo/OBI_0002763",
+            "http://purl.obolibrary.org/obo/OBI_0000730"
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "PathoPlexus",
+        "url": "https://pathoplexus.org/",
+        "identifier": "https://pathoplexus.org/",
+        "license": "https://pathoplexus.org/about/terms-of-use/data-use-terms",
+        "conditionsOfAccess": "Varied",
+        "abstract": "PathoPlexus is a donation supported IID repository that includes sequence data.",
+        "description": "Pathoplexus is a new open-source database designed to enhance the sharing and analysis of human viral pathogen genomic data. Developed in response to the growing need for specialized viral databases, Pathoplexus aims to offer the features needed for the research community to share and explore datasets for viruses of public health importance. By leveraging new open-source software, Pathoplexus provides a robust and user-friendly platform for scientists and public health professionals.",
+        "collectionType": "Data Repository",
+        "isAccessibleForFree": true,
+        "genre": "IID",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-07-31",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Donations"
+                }
+            }
+        ],
+        "about": [
+            {
+                "name": "MolecularSequence",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C164396",
+                "description": "Genetic or Genomic sequence in this case. For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation/",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047"
+        ]
+    }
+]
