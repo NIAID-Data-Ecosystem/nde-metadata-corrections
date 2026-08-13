@@ -1,0 +1,23 @@
+{
+    "sourceOrganization": [
+        {
+            "@type": "ResearchProject",
+            "name": "NIAID CAPT-CEP Program",
+            "abstract": "The NIAID Centers for Accelerating Phage Therapy to Combat ESKAPE Pathogens (CAPT-CEP) Program represents the first NIAID-supported phage centers dedicated to developing phage-specific preclinical assays, tools, and models, as well as conducting essential studies to advance robust phage therapeutics and help prepare therapeutic candidates for future clinical studies.",
+            "description": "The NIAID Centers for Accelerating Phage Therapy to Combat ESKAPE Pathogens (CAPT-CEP) Program represents the first NIAID-supported phage centers dedicated to developing phage-specific preclinical assays, tools, and models, as well as conducting essential studies to advance robust phage therapeutics and help prepare therapeutic candidates for future clinical studies. For more information, visit the NIAID program page: https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-24-069.html",
+            "alternateName": [
+                "Centers for Accelerating Phage Therapy to Combat ESKAPE Pathogens",
+                "CAPT-CEP"
+            ],
+            "url": "https://grants.nih.gov/grants/guide/rfa-files/RFA-AI-24-069.html",
+            "parentOrganization": [
+                "NIAID"
+            ]
+        }
+    ],
+    "fundingIdentifiers": [
+        "P01AI195376",
+        "P01AI195327",
+        "P01AI196047"
+    ]
+}
