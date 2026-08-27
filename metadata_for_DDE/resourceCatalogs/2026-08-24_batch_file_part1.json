@@ -8175,6 +8175,10 @@
                 "displayName": "Sample",
                 "@type": "DefinedTerm"
             }
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_3337",
+            "http://edamontology.org/topic_3324"
         ]
     },
     {
