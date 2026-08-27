@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Pathoplexus",
+        "url": "https://pathoplexus.org/",
+        "identifier": [
+            "https://pathoplexus.org/",
+            "pathoplexus"
+        ],
+        "license": "https://pathoplexus.org/about/terms-of-use/data-use-terms",
+        "conditionsOfAccess": "Varied",
+        "abstract": "PathoPlexus is a donation supported IID repository that includes sequence data.",
+        "description": "Pathoplexus is a new open-source database designed to enhance the sharing and analysis of human viral pathogen genomic data. Developed in response to the growing need for specialized viral databases, Pathoplexus aims to offer the features needed for the research community to share and explore datasets for viruses of public health importance. By leveraging new open-source software, Pathoplexus provides a robust and user-friendly platform for scientists and public health professionals.",
+        "collectionType": [
+            "Data Repository"
+        ],
+        "isAccessibleForFree": true,
+        "genre": "IID; Hemorrhagic Fever Viruses; Omics",
+        "creativeWorkStatus": "Accepting Data",
+        "sameAs": [
+            "https://data.niaid.nih.gov/resources?id=08a29e9afd2f58b6"
+        ],
+        "publishingPrinciples": "https://pathoplexus.org/about/governance/data-submission",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-08-24",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Donations"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "@type": "PropertyValue"
+            }
+        ],
+        "about": [
+            {
+                "name": "MolecularSequence",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C164396",
+                "description": "Genetic or Genomic sequence in this case. For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation/",
+                "displayName": "Molecular Sequence",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047"
+        ]
+    },
+    {
+        "name": "NCBI BioSample",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/",
+        "identifier": [
+            "https://www.ncbi.nlm.nih.gov/biosample/",
+            "ncbi_biosample"
+        ],
+        "alternateName": [
+            "National Center for Biotechnology Information BioSample"
+        ],
+        "license": "https://www.ncbi.nlm.nih.gov/home/about/policies/",
+        "conditionsOfAccess": "Varied",
+        "abstract": "NCBI BioSample is a NIH supported generalist repository that includes other data.",
+        "description": "The BioSample database contains descriptions of biological source materials used in experimental assays.",
+        "collectionType": [
+            "Sample Repository"
+        ],
+        "isAccessibleForFree": true,
+        "genre": "Generalist",
+        "creativeWorkStatus": "Accepting Data",
+        "sameAs": [
+            "https://data.niaid.nih.gov/resources?id=639d05db93d24470"
+        ],
+        "publishingPrinciples": "https://www.ncbi.nlm.nih.gov/biosample/docs/submission/faq/",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-08-24",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Intramural Research",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 53928218,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "1970-02-24",
+            "endDate": "2026-04-29",
+            "temporalType": "collection"
+        },
+        "infectiousAgent": [
+            "https://www.uniprot.org/taxonomy/2697049",
+            "https://www.uniprot.org/taxonomy/451626",
+            "https://www.uniprot.org/taxonomy/59201",
+            "https://www.uniprot.org/taxonomy/408170",
+            "https://www.uniprot.org/taxonomy/256318",
+            "https://www.uniprot.org/taxonomy/77133",
+            "https://www.uniprot.org/taxonomy/562"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/10090",
+            "https://www.uniprot.org/taxonomy/1927752",
+            "https://www.uniprot.org/taxonomy/9913",
+            "https://www.uniprot.org/taxonomy/9031",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/112509",
+            "https://www.uniprot.org/taxonomy/1211459",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/10116"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0005070",
+            "http://purl.obolibrary.org/obo/MONDO_0005550",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0008315",
+            "http://purl.obolibrary.org/obo/HP_0032322",
+            "http://purl.obolibrary.org/obo/MONDO_0021100",
+            "http://purl.obolibrary.org/obo/MONDO_0021117",
+            "https://id.nlm.nih.gov/mesh/D009361.html"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0003114",
+            "http://purl.obolibrary.org/obo/OBI_0002003",
+            "http://purl.obolibrary.org/obo/OBI_0002630",
+            "http://purl.obolibrary.org/obo/OBI_0002001",
+            "http://purl.obolibrary.org/obo/OBI_0002002",
+            "http://purl.obolibrary.org/obo/OBI_0002021",
+            "http://purl.obolibrary.org/obo/OBI_0002049",
+            "http://purl.obolibrary.org/obo/OBI_0002129",
+            "http://purl.obolibrary.org/obo/OBI_0002763",
+            "http://purl.obolibrary.org/obo/OBI_0000730"
+        ]
+    },
+    {
+        "name": "Bacterial and Viral Bioinformatics Resource Center (BV-BRC)",
+        "url": "https://www.bv-brc.org/",
+        "identifier": [
+            "https://www.bv-brc.org/",
+            "bvbrc"
+        ],
+        "alternateName": [
+            "BV-BRC",
+            "Bacterial and Viral Bioinformatics Resource Center"
+        ],
+        "license": "https://www.bv-brc.org/docs/system_documentation/data_management_sharing.html",
+        "conditionsOfAccess": "Open",
+        "abstract": "The Bacterial and Viral Bioinformatics Resource Center (BV-BRC) is a NIAID supported IID repository that includes multimodal pathogen data.",
+        "description": "The Bacterial and Viral Bioinformatics Resource Center (BV-BRC) is an information system designed to support research on bacterial and viral infectious diseases. The BV-BRC combines the data and tools from the Legacy BRC resources: PATRIC, the bacterial BRC, and IRD and ViPR, the viral BRCs.",
+        "collectionType": [
+            "Cloud Ecosystem",
+            "Data Repository"
+        ],
+        "hasAPI": true,
+        "hasDownload": "All content",
+        "isAccessibleForFree": true,
+        "inLanguage": [
+            {
+                "@type": "Language",
+                "name": "English"
+            }
+        ],
+        "version": "3.33.16",
+        "genre": "IID; Computational biology, Omics; General Infectious Diseases and Pathogens",
+        "creativeWorkStatus": "Accepting Data",
+        "sameAs": [
+            "https://data.niaid.nih.gov/resources?id=dde_42e839db86d4166d"
+        ],
+        "publishingPrinciples": "https://www.bv-brc.org/docs/quick_references/services/sequence_submission_service.html",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Introducing the Bacterial and Viral Bioinformatics Resource Center (BV-BRC): a resource combining PATRIC, IRD and ViPR",
+                "pmid": 36350631
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-08-24",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "75N93019C00076",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Institute of Allergy and Infectious Diseases",
+                    "alternateName": "NIAID",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "author": [
+            {
+                "@type": "Organization",
+                "name": "Argonne National Laboratory",
+                "parentOrganization": "University of Chicago"
+            },
+            {
+                "@type": "Organization",
+                "name": "Biocomplexity Institute and Initiative",
+                "parentOrganization": "University of Virginia"
+            },
+            {
+                "@type": "Organization",
+                "name": "J. Craig Venter Institute",
+                "alternateName": "JCVI"
+            },
+            {
+                "@type": "Organization",
+                "name": "University of Alabama at Birmingham"
+            },
+            {
+                "@type": "Person",
+                "name": "Elliot Lefkowitz",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "University of Alabama at Birmingham"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Indresh Singh",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "J. Craig Venter Institute"
+                }
+            },
+            {
+                "@type": "Person",
+                "name": "Rick Stevens",
+                "affiliation": {
+                    "@type": "Organization",
+                    "name": "Argonne National Laboratory"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 1000000,
+                "unitText": "viral genomes",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 100000,
+                "unitText": "bacterial genomes",
+                "@type": "PropertyValue"
+            }
+        ],
+        "sdPublisher": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/portal/nde"
+        },
+        "isBasedOn": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Improvements to PATRIC, the all-bacterial Bioinformatics Database and Analysis Resource Center",
+                "pmid": 27679478
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Influenza Research Database: An integrated bioinformatics resource for influenza virus research",
+                "pmid": 27679478
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Virus pathogen database and analysis resource (ViPR): a comprehensive bioinformatics database and analysis resource for the coronavirus research community",
+                "pmid": 23202522
+            }
+        ],
+        "about": [
+            {
+                "name": "Experiment",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C42790",
+                "description": "Not distinct from study as a schema",
+                "displayName": "Experiment",
+                "alternateName": [
+                    "Study"
+                ],
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "GeneVariant",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C97927",
+                "description": "Subclass of Gene",
+                "displayName": "Gene Variant",
+                "alternateName": [
+                    "Genetic Variant"
+                ],
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Genome",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C16629",
+                "description": "Subclass of BioChemEntity",
+                "displayName": "Genome",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Pathway",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C54214",
+                "description": "A class encompassing networks, pathways, and knowledgegraphs",
+                "displayName": "Pathway",
+                "alternateName": [
+                    "Network",
+                    "Molecular Network",
+                    "Metabolic Networks",
+                    "Biological Pathway"
+                ],
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Protein",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17021",
+                "description": "For schema, consider https://schema.org/Protein",
+                "displayName": "Protein",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "displayName": "Sample",
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Software",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C17146",
+                "description": "For schema use ComputationalTool",
+                "displayName": "Computational Tool",
+                "alternateName": [
+                    "Software",
+                    "Computational Workflow"
+                ],
+                "@type": "DefinedTerm"
+            },
+            {
+                "name": "Taxon",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C40098",
+                "description": "For schema, consider https://schema.org/Taxon",
+                "displayName": "Organism",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0005550"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/NCIT_C18881",
+            "http://purl.obolibrary.org/obo/NCIT_C17565"
+        ],
+        "species": [
+            "http://purl.obolibrary.org/obo/NCBITaxon_7227",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9823",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9669",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9606",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9544",
+            "http://purl.obolibrary.org/obo/NCBITaxon_9031",
+            "http://purl.obolibrary.org/obo/NCBITaxon_7955",
+            "http://purl.obolibrary.org/obo/NCBITaxon_6239",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10116",
+            "http://purl.obolibrary.org/obo/NCBITaxon_10090"
+        ],
+        "topicCategory": [
+            "http://edamontology.org/topic_0622",
+            "http://edamontology.org/topic_2259",
+            "http://edamontology.org/topic_0091"
+        ],
+        "variableMeasured": [
+            "http://www.ebi.ac.uk/efo/EFO_0004556",
+            "http://www.ebi.ac.uk/efo/EFO_0004554"
+        ]
+    }
+]
