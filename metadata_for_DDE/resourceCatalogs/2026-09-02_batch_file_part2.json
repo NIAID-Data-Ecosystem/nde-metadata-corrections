@@ -1,0 +1,189 @@
+[
+    {
+        "name": "NCBI BioSample",
+        "url": "https://www.ncbi.nlm.nih.gov/biosample/",
+        "identifier": [
+            "https://www.ncbi.nlm.nih.gov/biosample/",
+            "ncbi_biosample"
+        ],
+        "alternateName": [
+            "National Center for Biotechnology Information BioSample"
+        ],
+        "license": "https://www.ncbi.nlm.nih.gov/home/about/policies/",
+        "conditionsOfAccess": "Varied",
+        "abstract": "NCBI BioSample is a NIH supported generalist repository that includes other data.",
+        "description": "The BioSample database contains descriptions of biological source materials used in experimental assays.",
+        "collectionType": [
+            "Sample Repository"
+        ],
+        "isAccessibleForFree": true,
+        "genre": "Generalist",
+        "creativeWorkStatus": "Accepting Data",
+        "sameAs": [
+            "https://data.niaid.nih.gov/resources?id=dde_639d05db93d24470"
+        ],
+        "publishingPrinciples": "https://www.ncbi.nlm.nih.gov/biosample/docs/submission/faq/",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-09-02",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "Intramural Research",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "National Library of Medicine",
+                    "alternateName": "NLM",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 53928218,
+                "unitText": "Sample",
+                "@type": "PropertyValue"
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "1970-02-24",
+            "endDate": "2026-04-29",
+            "temporalType": "collection"
+        },
+        "infectiousAgent": [
+            "https://www.uniprot.org/taxonomy/2697049",
+            "https://www.uniprot.org/taxonomy/451626",
+            "https://www.uniprot.org/taxonomy/59201",
+            "https://www.uniprot.org/taxonomy/408170",
+            "https://www.uniprot.org/taxonomy/256318",
+            "https://www.uniprot.org/taxonomy/77133",
+            "https://www.uniprot.org/taxonomy/562"
+        ],
+        "species": [
+            "https://www.uniprot.org/taxonomy/9606",
+            "https://www.uniprot.org/taxonomy/10090",
+            "https://www.uniprot.org/taxonomy/1927752",
+            "https://www.uniprot.org/taxonomy/9913",
+            "https://www.uniprot.org/taxonomy/9031",
+            "https://www.uniprot.org/taxonomy/9823",
+            "https://www.uniprot.org/taxonomy/112509",
+            "https://www.uniprot.org/taxonomy/1211459",
+            "https://www.uniprot.org/taxonomy/3702",
+            "https://www.uniprot.org/taxonomy/10116"
+        ],
+        "healthCondition": [
+            "http://purl.obolibrary.org/obo/MONDO_0100096",
+            "http://purl.obolibrary.org/obo/MONDO_0005070",
+            "http://purl.obolibrary.org/obo/MONDO_0005550",
+            "http://purl.obolibrary.org/obo/MONDO_0018076",
+            "http://purl.obolibrary.org/obo/MONDO_0008315",
+            "http://purl.obolibrary.org/obo/HP_0032322",
+            "http://purl.obolibrary.org/obo/MONDO_0021100",
+            "http://purl.obolibrary.org/obo/MONDO_0021117",
+            "https://id.nlm.nih.gov/mesh/D009361.html"
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0003114",
+            "http://purl.obolibrary.org/obo/OBI_0002003",
+            "http://purl.obolibrary.org/obo/OBI_0002630",
+            "http://purl.obolibrary.org/obo/OBI_0002001",
+            "http://purl.obolibrary.org/obo/OBI_0002002",
+            "http://purl.obolibrary.org/obo/OBI_0002021",
+            "http://purl.obolibrary.org/obo/OBI_0002049",
+            "http://purl.obolibrary.org/obo/OBI_0002129",
+            "http://purl.obolibrary.org/obo/OBI_0002763",
+            "http://purl.obolibrary.org/obo/OBI_0000730"
+        ],
+        "about": [
+            {
+                "name": "Sample",
+                "url": "http://www.w3.org/ns/sosa/Sample",
+                "description": "Not distinct from Specimen as a schema",
+                "displayName": "Sample",
+                "@type": "DefinedTerm"
+            }
+        ]
+    },
+    {
+        "name": "Pathoplexus",
+        "url": "https://pathoplexus.org/",
+        "identifier": [
+            "https://pathoplexus.org/",
+            "pathoplexus"
+        ],
+        "alternateName": [
+            "pathoplexus"
+        ],
+        "license": "https://pathoplexus.org/about/terms-of-use/data-use-terms",
+        "conditionsOfAccess": "Varied",
+        "abstract": "PathoPlexus is a donation supported IID repository that includes sequence data.",
+        "description": "Pathoplexus is a new open-source database designed to enhance the sharing and analysis of human viral pathogen genomic data. Developed in response to the growing need for specialized viral databases, Pathoplexus aims to offer the features needed for the research community to share and explore datasets for viruses of public health importance. By leveraging new open-source software, Pathoplexus provides a robust and user-friendly platform for scientists and public health professionals.",
+        "collectionType": [
+            "Data Repository"
+        ],
+        "isAccessibleForFree": true,
+        "genre": "IID; Hemorrhagic Fever Viruses; Omics",
+        "creativeWorkStatus": "Accepting Data",
+        "sameAs": [
+            "https://data.niaid.nih.gov/resources?id=dde_08a29e9afd2f58b6"
+        ],
+        "publishingPrinciples": "https://pathoplexus.org/about/governance/data-submission",
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-09-02",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "unknown",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "Donations"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "@type": "PropertyValue",
+                "minValue": 218983,
+                "unitText": "Sequences"
+            }
+        ],
+        "about": [
+            {
+                "name": "MolecularSequence",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C164396",
+                "description": "Genetic or Genomic sequence in this case. For schema, consider SequenceAnnotation https://bioschemas.org/types/SequenceAnnotation/",
+                "displayName": "Molecular Sequence",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0600047"
+        ]
+    }
+]
