@@ -135,7 +135,7 @@
             "Data Repository"
         ],
         "isAccessibleForFree": true,
-        "genre": "IID; Hemorrhagic Fever Viruses; Omics",
+        "genre": ["IID", "Hemorrhagic Fever Viruses", "Omics"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_08a29e9afd2f58b6"

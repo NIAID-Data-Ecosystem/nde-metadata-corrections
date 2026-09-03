@@ -344,7 +344,7 @@
             }
         ],
         "version": "3.33.16",
-        "genre": "IID; Computational biology, Omics; General Infectious Diseases and Pathogens",
+        "genre": ["IID","Computational biology","Omics","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_42e839db86d4166d"
@@ -599,7 +599,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Biological Assay",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Biological Assay"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_9e34e9698fb412c3",
@@ -857,7 +857,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Biospecimens; Clinical",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Biospecimens","Clinical"],
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_39de363a93dfc491"
         ],
@@ -1003,7 +1003,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; HIV/AIDS; Biospecimens; Clinical; Epidemiological",
+        "genre": ["IID","HIV/AIDS","Biospecimens","Clinical","Epidemiological"],
         "dateModified": "2024-04-05",
         "datePublished": "2019-01-01",
         "creativeWorkStatus": "Accepting Data",
@@ -2935,7 +2935,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Clinical; Epidemiological; Imaging; Omics; Respiratory Pathogens",
+        "genre": ["IID","Clinical","Epidemiological","Imaging","Omics","Respiratory Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_9142024b72770a67"
@@ -3342,7 +3342,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Biological Assay; Omics",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Biological Assay","Omics"],
         "creativeWorkStatus": "Not Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_8b9a4aa0d78d0659"
@@ -3566,7 +3566,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Omics",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Omics"],
         "dateCreated": "2014-04-14",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_cc13744ba5c15cca"
@@ -4172,7 +4172,7 @@
                 "name": "English"
             }
         ],
-        "genre": "Generalist; Computational biology, Omics; [Portal Metadata field]",
+        "genre": ["Generalist","Computational biology","Omics"],
         "dateModified": "2024-02-07",
         "dateCreated": "2010-02-01",
         "datePublished": "2010-02-01",
@@ -4430,7 +4430,7 @@
             }
         ],
         "version": "Release 2024_02",
-        "genre": "Generalist; Omics; [Portal Metadata field]",
+        "genre": ["Generalist","Omics"],
         "dateModified": "2024-03-27",
         "dateCreated": "1986-11-27",
         "datePublished": "2003-12-14",
@@ -4946,7 +4946,7 @@
                 "name": "English"
             }
         ],
-        "genre": "Generalist; Omics; General Infectious Diseases and Pathogens",
+        "genre": ["Generalist","Omics","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_b3bb013bc893ca80",
@@ -5145,7 +5145,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Omics",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Omics"],
         "dateCreated": "2008-01-14",
         "creativeWorkStatus": "Retired",
         "sameAs": [
@@ -6966,7 +6966,7 @@
                 "name": "English"
             }
         ],
-        "genre": "Generalist; Omics",
+        "genre": ["Generalist","Omics"],
         "dateModified": "2024-06-06",
         "datePublished": "2011-10-20",
         "creativeWorkStatus": "Accepting Data",
@@ -7656,7 +7656,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Laboratory Chemicals",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Laboratory Chemicals"],
         "dateModified": "2024-06-13",
         "dateCreated": "2003-11-06",
         "datePublished": "2003-11-06",
@@ -7970,7 +7970,7 @@
             }
         ],
         "version": "v2.0.2.0",
-        "genre": "IID; HIV/AIDS; Biospecimens; Clinical",
+        "genre": ["IID","HIV/AIDS","Biospecimens","Clinical"],
         "dateCreated": "2014-08-20",
         "datePublished": "2014-08-20",
         "sameAs": [
@@ -8536,7 +8536,7 @@
             }
         ],
         "version": "15.05.2024",
-        "genre": "IID; General Infectious Diseases and Pathogens; Biological Assay",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Biological Assay"],
         "dateModified": "2024-05-15",
         "dateCreated": "2012-04-01",
         "datePublished": "2013-09-01",
@@ -8883,7 +8883,7 @@
             }
         ],
         "version": "v28.0",
-        "genre": "IID; Omics",
+        "genre": ["IID","Omics"],
         "dateModified": "2024-04-02",
         "datePublished": "2000-07-18",
         "creativeWorkStatus": "Accepting Data",
@@ -9394,7 +9394,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Hemorrhagic Fever Viruses; Biological Assay; Omics",
+        "genre": ["IID","Hemorrhagic Fever Viruses","Biological Assay","Omics"],
         "dateModified": "2015-03-23",
         "datePublished": "2009-10-06",
         "sameAs": [
@@ -9679,7 +9679,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Hepatitis C; Biological Assay; Omics",
+        "genre": ["IID","Hepatitis C","Biological Assay","Omics"],
         "dateModified": "2011-10-31",
         "datePublished": "2003-07-15",
         "creativeWorkStatus": "Retired",
@@ -10015,7 +10015,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; HIV/AIDS; Omics; Biological Assay",
+        "genre": ["IID","HIV/AIDS","Omics","Biological Assay"],
         "dateModified": "2024-07-23",
         "datePublished": "1998-06-06",
         "creativeWorkStatus": "Accepting Data",
@@ -10284,7 +10284,7 @@
             }
         ],
         "version": "v2.0",
-        "genre": "IID; Papillomaviruses; Omics",
+        "genre": ["IID","Papillomaviruses","Omics"],
         "dateModified": "2024-10-23",
         "datePublished": "2009-04-01",
         "creativeWorkStatus": "Accepting Data",
@@ -10650,7 +10650,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Clinical; Epidemiological; Omics; General Infectious Diseases and Pathogens",
+        "genre": ["IID","Clinical","Epidemiological","Omics","General Infectious Diseases and Pathogens"],
         "dateModified": "2024-11-22",
         "dateCreated": "2012-02-21",
         "datePublished": "2016-10-25",
@@ -11293,7 +11293,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Biological Assay; Omics",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Biological Assay","Omics"],
         "dateModified": "2025-01-13",
         "dateCreated": "2005-08-23",
         "datePublished": "2007-05-09",
@@ -11768,7 +11768,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; HIV/AIDS; Biospecimens; Clinical",
+        "genre": ["IID","HIV/AIDS","Biospecimens","Clinical"],
         "dateModified": "2025-01-31",
         "dateCreated": "2000-01-26",
         "datePublished": "2001-05-29",
@@ -12034,7 +12034,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Aspergillosis; Omics",
+        "genre": ["IID","Aspergillosis","Omics"],
         "dateModified": "2011-01-13",
         "dateCreated": "2008-12-10",
         "datePublished": "2009-02-25",
@@ -12665,7 +12665,7 @@
             }
         ],
         "version": "v2.0",
-        "genre": "IID; HIV/AIDS; Respiratory Pathogens; Laboratory Chemicals",
+        "genre": ["IID","HIV/AIDS","Respiratory Pathogens","Laboratory Chemicals"],
         "dateModified": "2025-01-31",
         "dateCreated": "1988-12-31",
         "datePublished": "1988-12-31",
@@ -12963,7 +12963,7 @@
             }
         ],
         "version": "v2.0",
-        "genre": "IID; Respiratory Pathogens; Omics; Software",
+        "genre": ["IID","Respiratory Pathogens","Omics","Software"],
         "dateModified": "2019-12-31",
         "dateCreated": "2014-01-20",
         "datePublished": "2014-01-20",
@@ -13861,7 +13861,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Biological Assay; Clinical; Epidemiological; Respiratory Pathogens",
+        "genre": ["IID","Biological Assay","Clinical","Epidemiological","Respiratory Pathogens"],
         "dateModified": "2025-04-21",
         "dateCreated": "2020-04-02",
         "datePublished": "2020-05-26",
@@ -14208,7 +14208,7 @@
             }
         ],
         "version": "v2025.08.25",
-        "genre": "IID; Immunological and Autoimmune Diseases; Omics",
+        "genre": ["IID","Immunological and Autoimmune Diseases","Omics"],
         "dateModified": "2024-10-15",
         "dateCreated": "2018-03-27",
         "datePublished": "2019-10-04",
@@ -16497,7 +16497,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; General Infectious Diseases and Pathogens; Omics",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Omics"],
         "dateModified": "2025-11-14",
         "dateCreated": "2000-07-07",
         "datePublished": "2000-09-04",
@@ -16934,7 +16934,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; HIV/AIDS; Biological Assay; Clinical; Omics",
+        "genre": ["IID","HIV/AIDS","Biological Assay","Clinical","Omics"],
         "dateModified": "2026-02-18",
         "dateCreated": "1998-10-01",
         "creativeWorkStatus": "Accepting Data",
@@ -17560,7 +17560,7 @@
                 "name": "English"
             }
         ],
-        "genre": "IID; Immunological and Autoimmune Diseases; Biospecimens; Clinical; Omics",
+        "genre": ["IID","Immunological and Autoimmune Diseases","Biospecimens","Clinical","Omics"],
         "dateModified": "2019-03-21",
         "dateCreated": "2003-09-25",
         "sameAs": [
@@ -17826,7 +17826,7 @@
         ],
         "hasAPI": false,
         "isAccessibleForFree": true,
-        "genre": "IID; Biological Assay; Clinical; Epidemiological; Respiratory Pathogens",
+        "genre": ["IID","Biological Assay","Clinical","Epidemiological","Respiratory Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_1942645530f7af43"
@@ -17932,7 +17932,7 @@
             "Dataset Repository"
         ],
         "hasAPI": true,
-        "genre": "IID; Clinical; Epidemiological; General Infectious Diseases and Pathogens",
+        "genre": ["IID","Clinical","Epidemiological","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_4058ab5071e10d04"
@@ -18073,7 +18073,7 @@
             "Dataset Repository"
         ],
         "hasAPI": true,
-        "genre": "IID; Biological Assay; Clinical; Epidemiological; Omics; Respiratory Pathogens",
+        "genre": ["IID","Biological Assay","Clinical","Epidemiological","Omics","Respiratory Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_e1e4d07f1c1b3f00"
@@ -18210,7 +18210,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "IID; Biological Assay; Clinical; Omics; General Infectious Diseases and Pathogens",
+        "genre": ["IID","Biological Assay","Clinical","Omics","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_a2ef1420cbf1fbda"
@@ -18323,7 +18323,7 @@
         ],
         "hasAPI": false,
         "isAccessibleForFree": true,
-        "genre": "IID; Epidemiological; Omics; Arboviruses",
+        "genre": ["IID","Epidemiological","Omics","Arboviruses"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_c48f8d80237123db"
@@ -18463,7 +18463,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; Computational biology; Other",
+        "genre": ["Generalist","Computational biology","Other"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_647b4485ea265d37"
@@ -18588,7 +18588,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; Omics",
+        "genre": ["Generalist","Omics"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_fcbfc7caf66eaee6"
@@ -18745,7 +18745,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; Behavioral and social sciences; Clinical",
+        "genre": ["Generalist","Behavioral and social sciences","Clinical"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_9edeb84bf8cc1159"
@@ -18880,7 +18880,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; Computational biology; Imaging",
+        "genre": ["Generalist","Computational biology","Imaging"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_a3e6a9539e4642e0"
@@ -19118,7 +19118,7 @@
             "Dataset Repository"
         ],
         "hasAPI": true,
-        "genre": "IID; Omics; General Infectious Diseases and Pathogens",
+        "genre": ["IID","Omics","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_2dcd7bd112197305"
@@ -19305,7 +19305,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; Omics; General Infectious Diseases and Pathogens",
+        "genre": ["Generalist","Omics","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_aceed7f510745d85"
@@ -19379,7 +19379,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; Computational biology; Other; Omics",
+        "genre": ["Generalist","Computational biology","Other","Omics"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_fdabe52f096780f3"
@@ -19569,7 +19569,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "IID; Omics; General Infectious Diseases and Pathogens",
+        "genre": ["IID","Omics","General Infectious Diseases and Pathogens"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_bba1770681743990"
@@ -20022,7 +20022,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "Generalist; General Infectious Diseases and Pathogens; Metadata Catalog",
+        "genre": ["Generalist","General Infectious Diseases and Pathogens","Metadata Catalog"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_bea3c825e958545e"
@@ -22460,7 +22460,7 @@
         ],
         "hasAPI": true,
         "isAccessibleForFree": true,
-        "genre": "IID; General Infectious Diseases and Pathogens; Epidemiological",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Epidemiological"],
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_76a36925b939cf0e"
         ],
@@ -23491,7 +23491,7 @@
             "Dataset Repository"
         ],
         "hasAPI": true,
-        "genre": "IID; General Infectious Diseases and Pathogens; Biological Assay; Clinical; Epidemiological; Omics",
+        "genre": ["IID","General Infectious Diseases and Pathogens","Biological Assay; Clinical; Epidemiological","Omics"],
         "creativeWorkStatus": "Accepting Data",
         "sameAs": [
             "https://data.niaid.nih.gov/resources?id=dde_1e5fd521cef89596"
@@ -23792,6 +23792,7 @@
         "name": "Zenodo",
         "url": "https://zenodo.org/",
         "identifier": [
+            "https://zenodo.org/",
             "Zenodo",
             "zenodo"
         ],
