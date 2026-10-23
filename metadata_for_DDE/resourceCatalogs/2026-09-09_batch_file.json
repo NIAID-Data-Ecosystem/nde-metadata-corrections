@@ -3032,5 +3032,157 @@
             "http://purl.obolibrary.org/obo/NCIT_C39547",
             "http://purl.obolibrary.org/obo/NCIT_C18772"
         ]
+    },
+    {
+        "name": "Zenodo",
+        "url": "https://zenodo.org/",
+        "identifier": [
+            "https://zenodo.org/",
+            "Zenodo",
+            "zenodo"
+        ],
+        "conditionsOfAccess": "Varied",
+        "abstract": "Zenodo is a GREI repository that includes most data types and domains.",
+        "description": "The OpenAIRE project, in the vanguard of the open access and open data movements in Europe was commissioned by the EC to support their nascent Open Data policy by providing a catch-all repository for EC funded research. CERN, an OpenAIRE partner and pioneer in open source, open access and open data, provided this capability and Zenodo was launched in May 2013.",
+        "collectionType": [
+            "Dataset Repository"
+        ],
+        "hasAPI": true,
+        "isAccessibleForFree": true,
+        "genre": "Generalist",
+        "creativeWorkStatus": "Accepting Data",
+        "sameAs": [
+            "https://data.niaid.nih.gov/resources?id=dde_72694aa8673977b4"
+        ],
+        "publishingPrinciples": "https://help.zenodo.org/docs/deposit/create-new-upload/",
+        "citation": [
+            {
+                "@type": "ScholarlyArticle",
+                "name": "Zenodo, an Archive and Publishing Repository: A tale of two herbarium specimen pilot projects",
+                "doi": "10.3897/biss.3.37080"
+            }
+        ],
+        "@type": "nde:ResourceCatalog",
+        "date": "2026-09-02",
+        "@context": {
+            "owl": "http://www.w3.org/2002/07/owl#",
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "schema": "http://schema.org/",
+            "niaid": "https://discovery.biothings.io/ns/niaid/",
+            "nde": "https://discovery.biothings.io/ns/nde/"
+        },
+        "funding": [
+            {
+                "@type": "MonetaryGrant",
+                "identifier": "OT2DB000013",
+                "funder": {
+                    "@type": "Organization",
+                    "name": "NIH Office of the Director",
+                    "alternateName": "OD",
+                    "parentOrganization": "NIH"
+                }
+            }
+        ],
+        "includedInDataCatalog": {
+            "@type": "DataCatalog",
+            "name": "Data Discovery Engine",
+            "url": "https://discovery.biothings.io/"
+        },
+        "collectionSize": [
+            {
+                "minValue": 5070,
+                "unitText": "Thing",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 62265,
+                "unitText": "PresentationDigitalDocument",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 13174,
+                "unitText": "MediaObject",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 39029,
+                "unitText": "Chapter",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 1099696,
+                "unitText": "ImageObject",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 101413,
+                "unitText": "CreativeWork",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 5922,
+                "unitText": "TechArticle",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 29921,
+                "unitText": "Book",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 2441261,
+                "unitText": "ScholarlyArticle",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 161681,
+                "unitText": "ComputationalTool",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 425094,
+                "unitText": "Dataset",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 32130,
+                "unitText": "Report",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 3178,
+                "unitText": "Review",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 26277,
+                "unitText": "Poster",
+                "@type": "PropertyValue"
+            },
+            {
+                "minValue": 573,
+                "unitText": "Collection",
+                "@type": "PropertyValue"
+            }
+        ],
+        "temporalCoverage": {
+            "@type": "TemporalInterval",
+            "startDate": "0195-09-14",
+            "endDate": "2025-04-11",
+            "temporalType": "collection"
+        },
+        "about": [
+            {
+                "name": "Dataset",
+                "url": "http://purl.obolibrary.org/obo/NCIT_C47824",
+                "description": "For schema, use https://discovery.biothings.io/ns/nde/nde:Dataset",
+                "displayName": "Dataset",
+                "@type": "DefinedTerm"
+            }
+        ],
+        "measurementTechnique": [
+            "http://purl.obolibrary.org/obo/OBI_0000011"
+        ]
     }
 ]
