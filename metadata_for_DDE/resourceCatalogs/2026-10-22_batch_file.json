@@ -9602,7 +9602,10 @@
                 "@type": "MonetaryGrant",
                 "identifier": "75N94023D00001",
                 "funder": {
-                    "@type": "Organization"
+                    "@type": "Organization",
+                    "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+                    "alternateName": "NICHD",
+                    "parentOrganization": "NIH"
                 }
             },
             {
